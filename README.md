@@ -15,6 +15,7 @@ Feel free to explore the tools and provide feedback or suggestions for additiona
 6. [Maritime Data and Analysis](#maritime-data-and-analysis)
 7. [Vessel Information and Registration](#vessel-information-and-registration)
 8. [Maritime Infrastructure](#maritime-infrastructure)
+9. [Maritime Crew Management Tools](maritime-crew-management-tools)
 
 ## Ship Tracking and Information
 1. **MarineTraffic**
