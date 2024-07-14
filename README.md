@@ -34,19 +34,11 @@ Feel free to explore the tools and provide feedback or suggestions for additiona
    - **URL**: [Shipspotting.com](https://www.shipspotting.com)
 
 ## Container and Cargo Tracking
-1. **GoComet**
-   - **Description**: Offers real-time shipment visibility and container tracking.
-   - **URL**: [GoComet](https://www.gocomet.com/blog/8-best-container-tracking-software-for-real-time-shipment-tracking/)
-
-2. **Sinay**
-   - **Description**: Provides advanced functionalities and comprehensive features for container tracking.
-   - **URL**: [Sinay](https://sinay.ai/en/top-8-best-container-tracking-solutions/)
-
-3. **Track Trace**
+1. **Track Trace**
    - **Description**: Allows tracking of containers across multiple shipping lines.
    - **URL**: [Track Trace](https://www.track-trace.com/container)
 
-4. **Searates by DP World**
+2. **Searates by DP World**
    - **Description**: Offers container tracking and logistics services.
    - **URL**: [Searates](https://www.searates.com/container/tracking/)
 
