@@ -43,7 +43,7 @@ Feel free to explore the tools and provide feedback or suggestions for additiona
    - **Description**: Offers container tracking and logistics services.
    - **URL**: [Searates](https://www.searates.com/container/tracking/)
 
-### Geolocation and Mapping Tools
+## Geolocation and Mapping Tools
 1. **Google Maps**
    - **Description**: Map of Google
    - **URL**: [Google Maps](https://www.google.com/maps)
@@ -157,7 +157,7 @@ Feel free to explore the tools and provide feedback or suggestions for additiona
    - **Description**: Provides an interactive map of submarine communication cables.
    - **URL**: [SubTel Cable Map](https://subtelforum.com/online-map/)
   
-### Maritime Crew Management Tools
+## Maritime Crew Management Tools
 1. **CrewLinker**
    - Description: Recruitment platform for maritime crew.
    - URL: [CrewLinker](https://www.crewlinker.com/)
