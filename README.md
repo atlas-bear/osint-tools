@@ -96,15 +96,13 @@ Feel free to explore the tools and provide feedback or suggestions for additiona
     - Description: Satellite of Satellites Pro
     - URL: [Satellites Pro](https://satellites.pro/)
 
-
-
 15. **WikiMapia**
     - Description: Map that anyone can contribute to
     - URL: [WikiMapia](http://wikimapia.org)
 
 16. **Open Street Cam**
     - Description: Map of dash cam imagery
-    - URL: [Open Street Cam](https://openstreetcam.org)
+    - URL: [Open Street Cam]((https://kartaview.org/map/@-6.407518221863476,107.04770438649952,8z)
 
 17. **Geonames**
     - Description: Database with names of locations and places
