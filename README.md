@@ -102,7 +102,7 @@ Feel free to explore the tools and provide feedback or suggestions for additiona
 
 16. **Open Street Cam**
     - Description: Map of dash cam imagery
-    - URL: [Open Street Cam]((https://kartaview.org/map/@-6.407518221863476,107.04770438649952,8z)
+    - URL: [Open Street Cam](https://kartaview.org/map/@-6.407518221863476,107.04770438649952,8z)
 
 17. **Geonames**
     - Description: Database with names of locations and places
