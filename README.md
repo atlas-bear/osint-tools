@@ -56,14 +56,6 @@ Feel free to explore the tools and provide feedback or suggestions for additiona
    - Description: Map of Bing
    - URL: [Bing Maps](https://www.bing.com/maps)
 
-4. **Yandex Maps**
-   - Description: Map of Yandex
-   - URL: [Yandex Maps](https://yandex.com/maps)
-
-5. **Baidu Maps**
-   - Description: Map of Baidu
-   - URL: [Baidu Maps](https://map.baidu.com/)
-
 6. **DuckDuckGo Maps**
    - Description: DuckDuckGo Maps
    - URL: [DuckDuckGo Maps](https://duckduckgo.com/?q=Jebel+Ali&ia=web&iaxm=maps&source=about)
@@ -76,10 +68,6 @@ Feel free to explore the tools and provide feedback or suggestions for additiona
    - Description: Satellite of Maxar
    - URL: [Maxar](https://discover.maxar.com/)
 
-9. **Descartes Labs**
-   - Description: Satellite of Descartes Labs
-   - URL: [Descartes Labs](https://maps.descarteslabs.com/)
-
 10. **Here WeGo**
     - Description: Map of Here WeGo
     - URL: [Here WeGo](https://wego.here.com)
@@ -87,6 +75,14 @@ Feel free to explore the tools and provide feedback or suggestions for additiona
 11. **Live UA Map**
     - Description: Interactive map of conflict areas
     - URL: [Live UA Map](https://liveuamap.com/)
+   
+4. **Yandex Maps**
+   - Description: Map of Yandex
+   - URL: [Yandex Maps](https://yandex.com/maps)
+
+5. **Baidu Maps**
+   - Description: Map of Baidu
+   - URL: [Baidu Maps](https://map.baidu.com/)
 
 12. **Zoom Earth**
     - Description: Daily fresh satellite imagery
