@@ -8,19 +8,13 @@ Feel free to explore the tools and provide feedback or suggestions for additiona
 
 ## Table of Contents
 1. [Ship Tracking and Information](#ship-tracking-and-information)
-   - [MarineTraffic](#marinetraffic)
-   - [VesselFinder](#vesselfinder)
 2. [Container and Cargo Tracking](#container-and-cargo-tracking)
-   - [GoComet](#gocomet)
-   - [Sinay](#sinay)
 3. [Geolocation and Mapping Tools](#geolocation-and-mapping-tools)
-   - [Aware Online Academy](#aware-online-academy)
 4. [Supply Chain Risk Management](#supply-chain-risk-management)
-   - [Authentic8](#authentic8)
-   - [Signal](#signal)
 5. [General OSINT Tools](#general-osint-tools)
-   - [Full OSINT](#full-osint)
-   - [LifeRaft](#liferaft)
+6. [Maritime Data and Analysis](#maritime-data-and-analysis)
+7. [Vessel Information and Registration](#vessel-information-and-registration)
+8. [Maritime Infrastructure](#maritime-infrastructure)
 
 ## Ship Tracking and Information
 1. **MarineTraffic**
@@ -31,6 +25,14 @@ Feel free to explore the tools and provide feedback or suggestions for additiona
    - **Description**: Displays real-time ship positions and marine traffic detected by the global AIS network.
    - **URL**: [VesselFinder](https://www.vesselfinder.com/)
 
+3. **Maritime Optima**
+   - **Description**: Offers advanced maritime analytics and vessel tracking services.
+   - **URL**: [Maritime Optima](https://app.maritimeoptima.com)
+
+4. **Shipspotting.com**
+   - **Description**: A community-driven platform for sharing ship photos and information.
+   - **URL**: [Shipspotting.com](https://www.shipspotting.com)
+
 ## Container and Cargo Tracking
 1. **GoComet**
    - **Description**: Offers real-time shipment visibility and container tracking.
@@ -39,6 +41,14 @@ Feel free to explore the tools and provide feedback or suggestions for additiona
 2. **Sinay**
    - **Description**: Provides advanced functionalities and comprehensive features for container tracking.
    - **URL**: [Sinay](https://sinay.ai/en/top-8-best-container-tracking-solutions/)
+
+3. **Track Trace**
+   - **Description**: Allows tracking of containers across multiple shipping lines.
+   - **URL**: [Track Trace](https://www.track-trace.com/container)
+
+4. **Searates by DP World**
+   - **Description**: Offers container tracking and logistics services.
+   - **URL**: [Searates](https://www.searates.com/container/tracking/)
 
 ## Geolocation and Mapping Tools
 1. **Aware Online Academy**
@@ -62,3 +72,32 @@ Feel free to explore the tools and provide feedback or suggestions for additiona
 2. **LifeRaft**
    - **Description**: Lists the top 10 OSINT software tools for transport tracking, including maritime and transit tracking.
    - **URL**: [LifeRaft](https://www.liferaftinc.com/blog/10-best-osint-software-tools-for-transport-tracking)
+
+3. **Shodan**
+   - **Description**: A search engine for Internet-connected devices, useful for identifying maritime-related systems and vulnerabilities.
+   - **URL**: [Shodan](https://beta.shodan.io/)
+
+## Maritime Data and Analysis
+1. **MarineCadastre.gov**
+   - **Description**: Provides access to historical vessel traffic data.
+   - **URL**: [MarineCadastre.gov](https://marinecadastre.gov/ais/)
+
+2. **AIS Handbook**
+   - **Description**: A comprehensive guide to understanding and using Automatic Identification System (AIS) data.
+   - **URL**: [AIS Handbook](https://unstats.un.org/wiki/display/AIS/)
+
+## Vessel Information and Registration
+1. **USCG Maritime Information Exchange Port State Information Exchange**
+   - **Description**: Offers information on vessel registration and inspection history.
+   - **URL**: [USCG PSIX](https://cgmix.uscg.mil/PSIX/PSIXSearch.aspx)
+
+2. **ITU Ship Station Search**
+   - **Description**: Allows searching for ship station information registered with the International Telecommunication Union.
+   - **URL**: [ITU Ship Station Search](https://www.itu.int/mmsapp/ShipStation/list)
+
+## Maritime Infrastructure
+1. **SubTel Cable Map**
+   - **Description**: Provides an interactive map of submarine communication cables.
+   - **URL**: [SubTel Cable Map](https://subtelforum.com/online-map/)
+
+Feel free to add or modify any details as needed. If you have any specific requirements or need further assistance, let me know!
