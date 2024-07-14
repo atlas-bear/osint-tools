@@ -43,7 +43,6 @@ Feel free to explore the tools and provide feedback or suggestions for additiona
    - **URL**: [Searates](https://www.searates.com/container/tracking/)
 
 ### Geolocation and Mapping Tools
-
 1. **Google Maps**
    - **Description**: Map of Google
    - **URL**: [Google Maps](https://www.google.com/maps)
@@ -73,20 +72,20 @@ Feel free to explore the tools and provide feedback or suggestions for additiona
    - **URL**: [Maxar](https://discover.maxar.com/)
 
 8. **Here WeGo**
-    - **Description**: Map of Here WeGo
-    - **URL**: [Here WeGo](https://wego.here.com)
+   - **Description**: Map of Here WeGo
+   - **URL**: [Here WeGo](https://wego.here.com)
 
-9. **Live UA Map**
+10. **Live UA Map**
     - **Description**: Interactive map of conflict areas
     - **URL**: [Live UA Map](https://liveuamap.com/)
    
-10. **Yandex Maps**
-   - **Description**: Map of Yandex
-   - **URL**: [Yandex Maps](https://yandex.com/maps)
+11. **Yandex Maps**
+    - **Description**: Map of Yandex
+    - - **URL**: [Yandex Maps](https://yandex.com/maps)
 
 11. **Baidu Maps**
-   - **Description**: Map of Baidu
-   - **URL**: [Baidu Maps](https://map.baidu.com/)
+    - **Description**: Map of Baidu
+    - **URL**: [Baidu Maps](https://map.baidu.com/)
 
 12. **Zoom Earth**
     - **Description**: Daily fresh satellite imagery
