@@ -55,6 +55,10 @@ Feel free to explore the tools and provide feedback or suggestions for additiona
 3. **Bing Maps**
    - Description: Map of Bing
    - URL: [Bing Maps](https://www.bing.com/maps)
+  
+14. **Open Street Map**
+    - Description: Different types of maps
+    - URL: [Open Street Map](https://www.openstreetmap.org)
 
 6. **DuckDuckGo Maps**
    - Description: DuckDuckGo Maps
@@ -92,9 +96,7 @@ Feel free to explore the tools and provide feedback or suggestions for additiona
     - Description: Satellite of Satellites Pro
     - URL: [Satellites Pro](https://satellites.pro/)
 
-14. **Open Street Map**
-    - Description: Different types of maps
-    - URL: [Open Street Map](https://www.openstreetmap.org)
+
 
 15. **WikiMapia**
     - Description: Map that anyone can contribute to
