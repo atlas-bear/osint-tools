@@ -155,5 +155,10 @@ Feel free to explore the tools and provide feedback or suggestions for additiona
 1. **SubTel Cable Map**
    - **Description**: Provides an interactive map of submarine communication cables.
    - **URL**: [SubTel Cable Map](https://subtelforum.com/online-map/)
+  
+### Maritime Crew Management Tools
+1. **CrewLinker**
+   - Description: Recruitment platform for maritime crew.
+   - URL: [CrewLinker](https://www.crewlinker.com/)
 
 Feel free to add or modify any details as needed. If you have any specific requirements or need further assistance, let me know!
