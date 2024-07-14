@@ -56,35 +56,35 @@ Feel free to explore the tools and provide feedback or suggestions for additiona
    - Description: Map of Bing
    - URL: [Bing Maps](https://www.bing.com/maps)
   
-14. **Open Street Map**
+4. **Open Street Map**
     - Description: Different types of maps
     - URL: [Open Street Map](https://www.openstreetmap.org)
 
-6. **DuckDuckGo Maps**
+5. **DuckDuckGo Maps**
    - Description: DuckDuckGo Maps
    - URL: [DuckDuckGo Maps](https://duckduckgo.com/?q=Jebel+Ali&ia=web&iaxm=maps&source=about)
 
-7. **DualMaps**
+6. **DualMaps**
    - Description: Combination of maps, aerial imagery and street view
    - URL: [DualMaps](https://www.mapchannels.com/dualmaps7/map.htm?addr=eiffel%20tower%20paris)
 
-8. **Maxar**
+7. **Maxar**
    - Description: Satellite of Maxar
    - URL: [Maxar](https://discover.maxar.com/)
 
-10. **Here WeGo**
+8. **Here WeGo**
     - Description: Map of Here WeGo
     - URL: [Here WeGo](https://wego.here.com)
 
-11. **Live UA Map**
+9. **Live UA Map**
     - Description: Interactive map of conflict areas
     - URL: [Live UA Map](https://liveuamap.com/)
    
-4. **Yandex Maps**
+10. **Yandex Maps**
    - Description: Map of Yandex
    - URL: [Yandex Maps](https://yandex.com/maps)
 
-5. **Baidu Maps**
+11. **Baidu Maps**
    - Description: Map of Baidu
    - URL: [Baidu Maps](https://map.baidu.com/)
 
@@ -96,31 +96,31 @@ Feel free to explore the tools and provide feedback or suggestions for additiona
     - Description: Satellite of Satellites Pro
     - URL: [Satellites Pro](https://satellites.pro/)
 
-15. **WikiMapia**
+14. **WikiMapia**
     - Description: Map that anyone can contribute to
     - URL: [WikiMapia](http://wikimapia.org)
 
-16. **Open Street Cam**
+15. **Open Street Cam**
     - Description: Map of dash cam imagery
     - URL: [Open Street Cam](https://kartaview.org/map/@-6.407518221863476,107.04770438649952,8z)
 
-17. **Geonames**
+16. **Geonames**
     - Description: Database with names of locations and places
     - URL: [Geonames](http://www.geonames.org/)
 
-18. **Russia-Ukraine Monitor**
+17. **Russia-Ukraine Monitor**
     - Description: Interactive map with verified incidents
     - URL: [Russia-Ukraine Monitor](https://maphub.net/Cen4infoRes/russian-ukraine-monitor)
 
-19. **Travel With Drone**
+18. **Travel With Drone**
     - Description: Interactive map with drone imagery
     - URL: [Travel With Drone](https://travelwithdrone.com/)
 
-20. **F4map**
+19. **F4map**
     - Description: Map with advanced 3D viewing options
     - URL: [F4map](https://demo.f4map.com/)
 
-21. **Peakfinder**
+20. **Peakfinder**
     - Description: Map with detailed information about mountains
     - URL: [Peakfinder](https://www.peakfinder.org/)
 
@@ -130,15 +130,7 @@ Feel free to explore the tools and provide feedback or suggestions for additiona
    - URL: [Sourcemap](https://free.sourcemap.com/)
 
 ## General OSINT Tools
-1. **Full OSINT**
-   - **Description**: A directory of 130 web-enabled OSINT and cybersecurity tools.
-   - **URL**: [Full OSINT](https://fullosint.com/)
-
-2. **LifeRaft**
-   - **Description**: Lists the top 10 OSINT software tools for transport tracking, including maritime and transit tracking.
-   - **URL**: [LifeRaft](https://www.liferaftinc.com/blog/10-best-osint-software-tools-for-transport-tracking)
-
-3. **Shodan**
+1. **Shodan**
    - **Description**: A search engine for Internet-connected devices, useful for identifying maritime-related systems and vulnerabilities.
    - **URL**: [Shodan](https://beta.shodan.io/)
 
