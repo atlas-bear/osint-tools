@@ -72,9 +72,9 @@ Feel free to explore the tools and provide feedback or suggestions for additiona
    - Description: Combination of maps, aerial imagery and street view
    - URL: [DualMaps](https://www.mapchannels.com/dualmaps7/map.htm?addr=eiffel%20tower%20paris)
 
-8. **DigitalGlobe**
-   - Description: Satellite of DigitalGlobe
-   - URL: [DigitalGlobe](https://discover.digitalglobe.com/)
+8. **Maxar**
+   - Description: Satellite of Maxar
+   - URL: [Maxar](https://discover.maxar.com/)
 
 9. **Descartes Labs**
    - Description: Satellite of Descartes Labs
