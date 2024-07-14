@@ -81,7 +81,7 @@ Feel free to explore the tools and provide feedback or suggestions for additiona
    
 11. **Yandex Maps**
     - **Description**: Map of Yandex
-    - - **URL**: [Yandex Maps](https://yandex.com/maps)
+    - **URL**: [Yandex Maps](https://yandex.com/maps)
 
 11. **Baidu Maps**
     - **Description**: Map of Baidu
