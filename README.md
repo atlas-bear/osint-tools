@@ -64,9 +64,9 @@ Feel free to explore the tools and provide feedback or suggestions for additiona
    - Description: Map of Baidu
    - URL: [Baidu Maps](https://map.baidu.com/)
 
-6. **Apple Maps**
-   - Description: Map of Apple
-   - URL: [Apple Maps](https://mapsconnect.apple.com/)
+6. **DuckDuckGo Maps**
+   - Description: DuckDuckGo Maps
+   - URL: [DuckDuckGo Maps](https://duckduckgo.com/?q=Jebel+Ali&ia=web&iaxm=maps&source=about)
 
 7. **DualMaps**
    - Description: Combination of maps, aerial imagery and street view
