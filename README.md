@@ -45,89 +45,89 @@ Feel free to explore the tools and provide feedback or suggestions for additiona
 ### Geolocation and Mapping Tools
 
 1. **Google Maps**
-   - Description: Map of Google
-   - URL: [Google Maps](https://www.google.com/maps)
+   - **Description**: Map of Google
+   - **URL**: [Google Maps](https://www.google.com/maps)
 
 2. **Google Earth**
-   - Description: Map of Google (pro-version)
-   - URL: [Google Earth](https://www.google.nl/intl/nl_ALL/earth/versions/)
+   - **Description**: Map of Google (pro-version)
+   - **URL**: [Google Earth](https://www.google.nl/intl/nl_ALL/earth/versions/)
 
 3. **Bing Maps**
-   - Description: Map of Bing
-   - URL: [Bing Maps](https://www.bing.com/maps)
+   - **Description**: Map of Bing
+   - **URL**: [Bing Maps](https://www.bing.com/maps)
   
 4. **Open Street Map**
-    - Description: Different types of maps
-    - URL: [Open Street Map](https://www.openstreetmap.org)
+    - **Description**: Different types of maps
+    - **URL**: [Open Street Map](https://www.openstreetmap.org)
 
 5. **DuckDuckGo Maps**
-   - Description: DuckDuckGo Maps
-   - URL: [DuckDuckGo Maps](https://duckduckgo.com/?q=Jebel+Ali&ia=web&iaxm=maps&source=about)
+   - **Description**: DuckDuckGo Maps
+   - **URL**: [DuckDuckGo Maps](https://duckduckgo.com/?q=Jebel+Ali&ia=web&iaxm=maps&source=about)
 
 6. **DualMaps**
-   - Description: Combination of maps, aerial imagery and street view
-   - URL: [DualMaps](https://www.mapchannels.com/dualmaps7/map.htm?addr=eiffel%20tower%20paris)
+   - **Description**: Combination of maps, aerial imagery and street view
+   - **URL**: [DualMaps](https://www.mapchannels.com/dualmaps7/map.htm?addr=eiffel%20tower%20paris)
 
 7. **Maxar**
-   - Description: Satellite of Maxar
-   - URL: [Maxar](https://discover.maxar.com/)
+   - **Description**: Satellite of Maxar
+   - **URL**: [Maxar](https://discover.maxar.com/)
 
 8. **Here WeGo**
-    - Description: Map of Here WeGo
-    - URL: [Here WeGo](https://wego.here.com)
+    - **Description**: Map of Here WeGo
+    - **URL**: [Here WeGo](https://wego.here.com)
 
 9. **Live UA Map**
-    - Description: Interactive map of conflict areas
-    - URL: [Live UA Map](https://liveuamap.com/)
+    - **Description**: Interactive map of conflict areas
+    - **URL**: [Live UA Map](https://liveuamap.com/)
    
 10. **Yandex Maps**
-   - Description: Map of Yandex
-   - URL: [Yandex Maps](https://yandex.com/maps)
+   - **Description**: Map of Yandex
+   - **URL**: [Yandex Maps](https://yandex.com/maps)
 
 11. **Baidu Maps**
-   - Description: Map of Baidu
-   - URL: [Baidu Maps](https://map.baidu.com/)
+   - **Description**: Map of Baidu
+   - **URL**: [Baidu Maps](https://map.baidu.com/)
 
 12. **Zoom Earth**
-    - Description: Daily fresh satellite imagery
-    - URL: [Zoom Earth](https://zoom.earth/)
+    - **Description**: Daily fresh satellite imagery
+    - **URL**: [Zoom Earth](https://zoom.earth/)
 
 13. **Satellites Pro**
-    - Description: Satellite of Satellites Pro
-    - URL: [Satellites Pro](https://satellites.pro/)
+    - **Description**: Satellite of Satellites Pro
+    - **URL**: [Satellites Pro](https://satellites.pro/)
 
 14. **WikiMapia**
-    - Description: Map that anyone can contribute to
-    - URL: [WikiMapia](http://wikimapia.org)
+    - **Description**: Map that anyone can contribute to
+    - **URL**: [WikiMapia](http://wikimapia.org)
 
 15. **Open Street Cam**
-    - Description: Map of dash cam imagery
-    - URL: [Open Street Cam](https://kartaview.org/map/@-6.407518221863476,107.04770438649952,8z)
+    - **Description**: Map of dash cam imagery
+    - **UR**L: [Open Street Cam](https://kartaview.org/map/@-6.407518221863476,107.04770438649952,8z)
 
 16. **Geonames**
-    - Description: Database with names of locations and places
-    - URL: [Geonames](http://www.geonames.org/)
+    - **Description**: Database with names of locations and places
+    - **URL**: [Geonames](http://www.geonames.org/)
 
 17. **Russia-Ukraine Monitor**
-    - Description: Interactive map with verified incidents
-    - URL: [Russia-Ukraine Monitor](https://maphub.net/Cen4infoRes/russian-ukraine-monitor)
+    - **Description**: Interactive map with verified incidents
+    - **URL**: [Russia-Ukraine Monitor](https://maphub.net/Cen4infoRes/russian-ukraine-monitor)
 
 18. **Travel With Drone**
-    - Description: Interactive map with drone imagery
-    - URL: [Travel With Drone](https://travelwithdrone.com/)
+    - **Description**: Interactive map with drone imagery
+    - **UR**L: [Travel With Drone](https://travelwithdrone.com/)
 
 19. **F4map**
-    - Description: Map with advanced 3D viewing options
-    - URL: [F4map](https://demo.f4map.com/)
+    - **Description**: Map with advanced 3D viewing options
+    - **URL**: [F4map](https://demo.f4map.com/)
 
 20. **Peakfinder**
-    - Description: Map with detailed information about mountains
-    - URL: [Peakfinder](https://www.peakfinder.org/)
+    - **Description**: Map with detailed information about mountains
+    - **UR**L: [Peakfinder](https://www.peakfinder.org/)
 
 ## Supply Chain Risk Management
 1. **Sourcemap Free Edition**
-   - Description: Offers basic supply chain mapping and risk assessment features
-   - URL: [Sourcemap](https://free.sourcemap.com/)
+   - **Description**: Offers basic supply chain mapping and risk assessment features
+   - **URL**: [Sourcemap](https://free.sourcemap.com/)
 
 ## General OSINT Tools
 1. **Shodan**
