@@ -125,13 +125,9 @@ Feel free to explore the tools and provide feedback or suggestions for additiona
     - URL: [Peakfinder](https://www.peakfinder.org/)
 
 ## Supply Chain Risk Management
-1. **Authentic8**
-   - **Description**: Offers OSINT tools for supply chain risk management, helping organizations mitigate risks associated with external vendors.
-   - **URL**: [Authentic8](https://www.authentic8.com/blog/osint-supply-chain-risk)
-
-2. **Signal**
-   - **Description**: Provides real-time data collected through OSINT software to monitor and secure supply chains.
-   - **URL**: [Signal](https://www.getsignal.info/blog/securing-the-supply-chain-the-role-of-osint-for-logistics)
+1. **Sourcemap Free Edition**
+   - Description: Offers basic supply chain mapping and risk assessment features
+   - URL: [Sourcemap](https://free.sourcemap.com/)
 
 ## General OSINT Tools
 1. **Full OSINT**
