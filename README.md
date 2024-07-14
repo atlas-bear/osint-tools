@@ -6,6 +6,22 @@ We encourage others to contribute, share, and update the list. We will also upda
 
 Feel free to explore the tools and provide feedback or suggestions for additional resources.
 
+## Table of Contents
+1. [Ship Tracking and Information](#ship-tracking-and-information)
+   - [MarineTraffic](#marinetraffic)
+   - [VesselFinder](#vesselfinder)
+2. [Container and Cargo Tracking](#container-and-cargo-tracking)
+   - [GoComet](#gocomet)
+   - [Sinay](#sinay)
+3. [Geolocation and Mapping Tools](#geolocation-and-mapping-tools)
+   - [Aware Online Academy](#aware-online-academy)
+4. [Supply Chain Risk Management](#supply-chain-risk-management)
+   - [Authentic8](#authentic8)
+   - [Signal](#signal)
+5. [General OSINT Tools](#general-osint-tools)
+   - [Full OSINT](#full-osint)
+   - [LifeRaft](#liferaft)
+
 ## Ship Tracking and Information
 1. **MarineTraffic**
    - **Description**: Provides real-time information on the movements of ships and the current location of vessels in harbors and ports.
