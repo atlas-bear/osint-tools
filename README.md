@@ -42,10 +42,91 @@ Feel free to explore the tools and provide feedback or suggestions for additiona
    - **Description**: Offers container tracking and logistics services.
    - **URL**: [Searates](https://www.searates.com/container/tracking/)
 
-## Geolocation and Mapping Tools
-1. **Aware Online Academy**
-   - **Description**: Provides maps, satellites, and other links to useful third-party tools for OSINT investigations.
-   - **URL**: [Aware Online Academy](https://www.aware-online.com/en/osint-tools/geolocation-tools/)
+### Geolocation and Mapping Tools
+
+1. **Google Maps**
+   - Description: Map of Google
+   - URL: [Google Maps](https://www.google.com/maps)
+
+2. **Google Earth**
+   - Description: Map of Google (pro-version)
+   - URL: [Google Earth](https://www.google.nl/intl/nl_ALL/earth/versions/)
+
+3. **Bing Maps**
+   - Description: Map of Bing
+   - URL: [Bing Maps](https://www.bing.com/maps)
+
+4. **Yandex Maps**
+   - Description: Map of Yandex
+   - URL: [Yandex Maps](https://yandex.com/maps)
+
+5. **Baidu Maps**
+   - Description: Map of Baidu
+   - URL: [Baidu Maps](https://map.baidu.com/)
+
+6. **Apple Maps**
+   - Description: Map of Apple
+   - URL: [Apple Maps](https://mapsconnect.apple.com/)
+
+7. **DualMaps**
+   - Description: Combination of maps, aerial imagery and street view
+   - URL: [DualMaps](https://www.mapchannels.com/dualmaps7/map.htm?addr=eiffel%20tower%20paris)
+
+8. **DigitalGlobe**
+   - Description: Satellite of DigitalGlobe
+   - URL: [DigitalGlobe](https://discover.digitalglobe.com/)
+
+9. **Descartes Labs**
+   - Description: Satellite of Descartes Labs
+   - URL: [Descartes Labs](https://maps.descarteslabs.com/)
+
+10. **Here WeGo**
+    - Description: Map of Here WeGo
+    - URL: [Here WeGo](https://wego.here.com)
+
+11. **Live UA Map**
+    - Description: Interactive map of conflict areas
+    - URL: [Live UA Map](https://liveuamap.com/)
+
+12. **Zoom Earth**
+    - Description: Daily fresh satellite imagery
+    - URL: [Zoom Earth](https://zoom.earth/)
+
+13. **Satellites Pro**
+    - Description: Satellite of Satellites Pro
+    - URL: [Satellites Pro](https://satellites.pro/)
+
+14. **Open Street Map**
+    - Description: Different types of maps
+    - URL: [Open Street Map](https://www.openstreetmap.org)
+
+15. **WikiMapia**
+    - Description: Map that anyone can contribute to
+    - URL: [WikiMapia](http://wikimapia.org)
+
+16. **Open Street Cam**
+    - Description: Map of dash cam imagery
+    - URL: [Open Street Cam](https://openstreetcam.org)
+
+17. **Geonames**
+    - Description: Database with names of locations and places
+    - URL: [Geonames](http://www.geonames.org/)
+
+18. **Russia-Ukraine Monitor**
+    - Description: Interactive map with verified incidents
+    - URL: [Russia-Ukraine Monitor](https://maphub.net/Cen4infoRes/russian-ukraine-monitor)
+
+19. **Travel With Drone**
+    - Description: Interactive map with drone imagery
+    - URL: [Travel With Drone](https://travelwithdrone.com/)
+
+20. **F4map**
+    - Description: Map with advanced 3D viewing options
+    - URL: [F4map](https://demo.f4map.com/)
+
+21. **Peakfinder**
+    - Description: Map with detailed information about mountains
+    - URL: [Peakfinder](https://www.peakfinder.org/)
 
 ## Supply Chain Risk Management
 1. **Authentic8**
