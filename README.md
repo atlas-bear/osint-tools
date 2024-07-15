@@ -162,4 +162,10 @@ Feel free to explore the tools and provide feedback or suggestions for additiona
    - Description: Recruitment platform for maritime crew.
    - URL: [CrewLinker](https://www.crewlinker.com/)
 
-Feel free to add or modify any details as needed. If you have any specific requirements or need further assistance, let me know!
+## Contributing
+
+Know of a good OSINT tool that we left off? Feel free to contribute to this list by submitting a pull request or opening an issue. If you have any specific requirements or need further assistance, let me know!
+
+## License
+
+This README and list is provided under [MIT License](LICENSE). However, each tool has its own license, as indicated in the descriptions above.
