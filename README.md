@@ -168,4 +168,4 @@ Know of a good OSINT tool that we left off? Feel free to contribute to this list
 
 ## License
 
-This README and list is provided under [MIT License](LICENSE). However, each tool has its own license, as indicated in the descriptions above.
+This README and list is provided under [MIT License](LICENSE). However, each tool has its own license.
