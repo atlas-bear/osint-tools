@@ -46,6 +46,14 @@ Feel free to explore the tools and provide feedback or suggestions for additiona
    - Description: Offers comprehensive vessel information, including technical details, ownership, and historical data.
    - URL: [Shipinfo.net](https://shipinfo.net)
 
+8. **IMO GISIS**
+   - Description: Global Integrated Shipping Information System providing detailed ship information from the International Maritime Organization.
+   - URL: [IMO GISIS](https://gisis.imo.org/Public/SHIPS/Default.aspx)
+  
+9. **Superyachts.com**
+   - Description: Provides information on the world's largest and most luxurious yachts, including ownership details and specifications.
+   - URL: [Superyachts.com Top 100](https://www.superyachts.com/top-100/)
+
 ## Container and Cargo Tracking
 1. **Track Trace**
    - **Description**: Allows tracking of containers across multiple shipping lines.
