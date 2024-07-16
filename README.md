@@ -36,7 +36,7 @@ Feel free to explore the tools and provide feedback or suggestions for additiona
 
 5. **Bellingcat SAR Ship Detection Tool**
    - Description: A tool for detecting ships in Sentinel-1 SAR satellite imagery.
-   - URL: [Bellingcat SAR Ship Detection](https://github.com/bellingcat/sar-ship-detection)
+   - URL: [Bellingcat SAR Ship Detection](https://ollielballinger.users.earthengine.app/view/ship-detection-tool#lon=33.5519;lat=44.6249;zoom=17;)
 
 6. **Equasis**
    - Description: Provides safety-related information on ships and companies.
