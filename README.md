@@ -42,6 +42,10 @@ Feel free to explore the tools and provide feedback or suggestions for additiona
    - Description: Provides safety-related information on ships and companies.
    - URL: [Equasis](http://www.equasis.org/)
 
+7. **Shipinfo.net**
+   - Description: Offers comprehensive vessel information, including technical details, ownership, and historical data.
+   - URL: [Shipinfo.net](https://www.shipinfo.net/)
+
 ## Container and Cargo Tracking
 1. **Track Trace**
    - **Description**: Allows tracking of containers across multiple shipping lines.
