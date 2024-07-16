@@ -34,6 +34,14 @@ Feel free to explore the tools and provide feedback or suggestions for additiona
    - **Description**: A community-driven platform for sharing ship photos and information.
    - **URL**: [Shipspotting.com](https://www.shipspotting.com)
 
+5. **Bellingcat SAR Ship Detection Tool**
+   - Description: A tool for detecting ships in Sentinel-1 SAR satellite imagery.
+   - URL: [Bellingcat SAR Ship Detection](https://github.com/bellingcat/sar-ship-detection)
+
+6. **Equasis**
+   - Description: Provides safety-related information on ships and companies.
+   - URL: [Equasis](http://www.equasis.org/)
+
 ## Container and Cargo Tracking
 1. **Track Trace**
    - **Description**: Allows tracking of containers across multiple shipping lines.
