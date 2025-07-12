@@ -187,9 +187,9 @@ Feel free to explore the tools and provide feedback or suggestions for additiona
    - **Description**: Offers basic supply chain mapping and risk assessment features
    - **URL**: [Sourcemap](https://free.sourcemap.com/)
 
-2. **RiskIntelligence**
-   - **Description**: Real-time security intelligence platform for maritime and European logistics operations, providing threat monitoring, risk assessments, and incident tracking.
-   - **URL**: [RiskIntelligence](https://www.riskintelligence.eu)
+2. **MARA**
+   - **Description**: Multi-source Analysis and Reporting Architecture for comprehensive supply chain intelligence and maritime security analysis.
+   - **URL**: [MARA](https://github.com/atlas-bear/mara)
 
 ## General OSINT Tools
 
