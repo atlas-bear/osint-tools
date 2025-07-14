@@ -32,6 +32,7 @@ Feel free to explore the tools and provide feedback or suggestions for additiona
   - [Maritime Crew Management Tools](#maritime-crew-management-tools)
   - [Contributing](#contributing)
   - [License](#license)
+  - [Atlas Bear Ecosystem](#atlas-bear-ecosystem)
 
 ## Ship Tracking and Information
 
@@ -254,3 +255,17 @@ Know of a good OSINT tool that we left off? Feel free to contribute to this list
 ## License
 
 This README and list is provided under [MIT License](LICENSE). However, each tool has its own license.
+
+---
+
+## Atlas Bear Ecosystem
+
+| Repository                                                                                   | Purpose                             | Status                                                                                        |
+| -------------------------------------------------------------------------------------------- | ----------------------------------- | --------------------------------------------------------------------------------------------- |
+| [osint-tools](https://github.com/atlas-bear/osint-tools)                                     | Maritime & supply chain OSINT tools | ![Status](https://img.shields.io/github/last-commit/atlas-bear/osint-tools)                   |
+| [recommended-reading](https://github.com/atlas-bear/recommended-reading)                     | Curated intelligence reading list   | ![Status](https://img.shields.io/github/last-commit/atlas-bear/recommended-reading)           |
+| [supply-chain-management-tools](https://github.com/atlas-bear/supply-chain-management-tools) | Open source management solutions    | ![Status](https://img.shields.io/github/last-commit/atlas-bear/supply-chain-management-tools) |
+| [osint-ai-guide](https://github.com/atlas-bear/osint-ai-guide)                               | AI applications in OSINT            | ![Status](https://img.shields.io/github/last-commit/atlas-bear/osint-ai-guide)                |
+| [mara](https://github.com/atlas-bear/mara)                                                   | Maritime intelligence platform      | ![Status](https://img.shields.io/github/last-commit/atlas-bear/mara)                          |
+
+**Learn More:** [Atlas Bear Academy](https://www.atlasbear.academy) • **Contact:** [support@atlasbear.co](mailto:support@atlasbear.co)
