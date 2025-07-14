@@ -1,4 +1,4 @@
-# Maritime and Supply Chain OSINT Tools 🔍
+# Maritime and Supply Chain OSINT Tools
 
 > Part of the [Atlas Bear Labs](https://github.com/atlas-bear) intelligence toolkit
 
@@ -19,7 +19,7 @@ Feel free to explore the tools and provide feedback or suggestions for additiona
 
 ## Table of Contents
 
-- [Maritime and Supply Chain OSINT Tools 🔍](#maritime-and-supply-chain-osint-tools-)
+- [Maritime and Supply Chain OSINT Tools](#maritime-and-supply-chain-osint-tools)
   - [Table of Contents](#table-of-contents)
   - [Ship Tracking and Information](#ship-tracking-and-information)
   - [Container and Cargo Tracking](#container-and-cargo-tracking)
