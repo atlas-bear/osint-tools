@@ -1,6 +1,17 @@
-# Maritime and Supply Chain OSINT Tools
+# Maritime and Supply Chain OSINT Tools 🔍
 
-Atlas|Bear Labs has created this repository to share some of the tools we use in our own research. We hope they will be useful for others conducting maritime and supply chain research. This list includes various applications, sites, and tools that are currently working and available for tracking ships, containers, cargo movements, and more.
+> Part of the [Atlas Bear Labs](https://github.com/atlas-bear) intelligence toolkit
+
+**Related Resources:**
+
+- [Recommended Reading](https://github.com/atlas-bear/recommended-reading) - Essential books for intelligence professionals
+- [Supply Chain Tools](https://github.com/atlas-bear/supply-chain-management-tools) - Management software for emerging markets
+- [OSINT AI Guide](https://github.com/atlas-bear/osint-ai-guide) - AI applications in intelligence workflows
+- [MARA Platform](https://github.com/atlas-bear/mara) - Our maritime intelligence platform
+
+---
+
+Atlas Bear Labs has created this repository to share some of the tools we use in our own research. We hope they will be useful for others conducting maritime and supply chain research. This list includes various applications, sites, and tools that are currently working and available for tracking ships, containers, cargo movements, and more.
 
 We encourage others to contribute, share, and update the list. We will also update the list as needed to ensure it remains a valuable resource for the community.
 
@@ -8,7 +19,7 @@ Feel free to explore the tools and provide feedback or suggestions for additiona
 
 ## Table of Contents
 
-- [Maritime and Supply Chain OSINT Tools](#maritime-and-supply-chain-osint-tools)
+- [Maritime and Supply Chain OSINT Tools 🔍](#maritime-and-supply-chain-osint-tools-)
   - [Table of Contents](#table-of-contents)
   - [Ship Tracking and Information](#ship-tracking-and-information)
   - [Container and Cargo Tracking](#container-and-cargo-tracking)
