@@ -1,5 +1,18 @@
 # Maritime and Supply Chain OSINT Tools
 
+![GitHub stars](https://img.shields.io/github/stars/atlas-bear/osint-tools?style=social)
+![GitHub forks](https://img.shields.io/github/forks/atlas-bear/osint-tools?style=social)
+![GitHub last commit](https://img.shields.io/github/last-commit/atlas-bear/osint-tools)
+![GitHub contributors](https://img.shields.io/github/contributors/atlas-bear/osint-tools)
+![GitHub issues](https://img.shields.io/github/issues/atlas-bear/osint-tools)
+![Tools Count](https://img.shields.io/badge/Tools-45+-blue)
+![Maritime Focus](https://img.shields.io/badge/Focus-Maritime%20%26%20Supply%20Chain-navy)
+![Verification Status](https://img.shields.io/badge/Status-Active%20Links-green)
+![Professional](https://img.shields.io/badge/Level-Professional-red)
+![License](https://img.shields.io/github/license/atlas-bear/osint-tools)
+![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen)
+![Atlas Bear](https://img.shields.io/badge/Atlas%20Bear-Labs-darkblue)
+
 > Part of the [Atlas Bear Labs](https://github.com/atlas-bear) intelligence toolkit
 
 **Related Resources:**
