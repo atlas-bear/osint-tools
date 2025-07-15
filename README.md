@@ -1,6 +1,6 @@
 # Maritime and Supply Chain OSINT Tools
 
-<!-->
+<!--
 
 ![GitHub stars](https://img.shields.io/github/stars/atlas-bear/osint-tools?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/atlas-bear/osint-tools?style=social)
