@@ -77,10 +77,10 @@ Feel free to explore the tools and provide feedback or suggestions for additiona
    - Description: A tool for detecting ships in Sentinel-1 SAR satellite imagery.
    - URL: [Bellingcat SAR Ship Detection](https://ollielballinger.users.earthengine.app/view/ship-detection-tool#lon=33.5519;lat=44.6249;zoom=17;)
 
-6. **Equasis**
+6. **Equasis CLI**
 
-   - Description: Provides safety-related information on ships and companies.
-   - URL: [Equasis](http://www.equasis.org/)
+   - Description: CLI tool for accessing maritime intelligence via Equasis database - comprehensive vessel data with management details, inspection history, and ownership tracking.
+   - URL: [equasis-cli](https://github.com/rhinonix/equasis-cli)
 
 7. **Shipinfo.net**
 
