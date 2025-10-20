@@ -74,26 +74,26 @@ Feel free to explore the tools and provide feedback or suggestions for additiona
 
 5. **Bellingcat SAR Ship Detection Tool**
 
-   - Description: A tool for detecting ships in Sentinel-1 SAR satellite imagery.
+   - **Description**: A tool for detecting ships in Sentinel-1 SAR satellite imagery.
    - URL: [Bellingcat SAR Ship Detection](https://ollielballinger.users.earthengine.app/view/ship-detection-tool#lon=33.5519;lat=44.6249;zoom=17;)
 
 6. **Equasis CLI**
 
-   - Description: CLI tool for accessing maritime intelligence via Equasis database - comprehensive vessel data with management details, inspection history, and ownership tracking.
+   - **Description**: CLI tool for accessing maritime intelligence via Equasis database - comprehensive vessel data with management details, inspection history, and ownership tracking.
    - URL: [equasis-cli](https://github.com/rhinonix/equasis-cli)
 
 7. **Shipinfo.net**
 
-   - Description: Offers comprehensive vessel information, including technical details, ownership, and historical data.
+   - **Description**: Offers comprehensive vessel information, including technical details, ownership, and historical data.
    - URL: [Shipinfo.net](https://shipinfo.net)
 
 8. **IMO GISIS**
 
-   - Description: Global Integrated Shipping Information System providing detailed ship information from the International Maritime Organization.
+   - **Description**: Global Integrated Shipping Information System providing detailed ship information from the International Maritime Organization.
    - URL: [IMO GISIS](https://gisis.imo.org/Public/SHIPS/Default.aspx)
 
 9. **Superyachts.com**
-   - Description: Provides information on the world's largest and most luxurious yachts, including ownership details and specifications.
+   - **Description**: Provides information on the world's largest and most luxurious yachts, including ownership details and specifications.
    - URL: [Superyachts.com Top 100](https://www.superyachts.com/top-100/)
 
 ## Container and Cargo Tracking
@@ -261,7 +261,7 @@ Feel free to explore the tools and provide feedback or suggestions for additiona
 ## Maritime Crew Management Tools
 
 1. **CrewLinker**
-   - Description: Recruitment platform for maritime crew.
+   - **Description**: Recruitment platform for maritime crew.
    - URL: [CrewLinker](https://www.crewlinker.com/)
 
 ## Contributing
