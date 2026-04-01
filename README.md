@@ -236,6 +236,10 @@ Feel free to explore the tools and provide feedback or suggestions for additiona
    - **Description**: A comprehensive guide to understanding and using Automatic Identification System (AIS) data.
    - **URL**: [AIS Handbook](https://unstats.un.org/wiki/display/AIS/)
 
+3. **Phantom Tide**
+   - **Description**: Cross-domain OSINT dashboard combining vessel tracking, airspace activity, official notices, environmental context, and satellite detections for maritime and airspace analysis.
+   - **URL**: [Phantom Tide](https://github.com/tg12/phantomtide)
+
 ## Vessel Information and Registration
 
 1. **USCG Maritime Information Exchange Port State Information Exchange**
