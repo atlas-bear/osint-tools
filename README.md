@@ -247,6 +247,11 @@ Feel free to explore the tools and provide feedback or suggestions for additiona
    - **Description**: Allows searching for ship station information registered with the International Telecommunication Union.
    - **URL**: [ITU Ship Station Search](https://www.itu.int/mmsapp/ShipStation/list)
 
+3. **ArcNautical**
+
+   - **Description**: Free vessel sanctions screening by IMO number against the OFAC SDN, EU, UK (OFSI) and UN consolidated lists, with an ownership-opacity score and a vetting grade for the hull; every result names which lists were reachable. No account required.
+   - **URL**: [ArcNautical](https://arcnautical.com/check)
+
 ## Maritime Infrastructure
 
 1. **SubTel Cable Map**
