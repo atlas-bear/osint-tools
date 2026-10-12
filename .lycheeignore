@@ -22,8 +22,6 @@ https://www.volza.com
 # Our own repository files and workflow badges: their existence is checked by the build, and they 404 on a branch before merge.
 https://github.com/atlas-bear/osint-tools/blob/main/
 https://github.com/atlas-bear/osint-tools/actions/
-# Temporary until GitHub Pages is enabled for this repository; remove afterwards.
-https://atlas-bear.github.io/osint-tools/
 # Refuses GitHub-hosted runners (403) though it opens in a browser.
 https://www.iomou.org
 # Certificate chain not trusted by lychee's TLS stack; opens fine in a browser.
