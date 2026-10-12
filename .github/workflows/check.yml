@@ -1,0 +1,39 @@
+name: Check list
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: requirements-docs.txt
+      - run: pip install -r requirements-docs.txt
+      - name: Generated files were not edited by hand
+        if: github.event_name == 'pull_request'
+        run: |
+          changed=$(git diff --name-only "origin/${{ github.base_ref }}...HEAD")
+          if echo "$changed" | grep -qE '^(README\.md|tools\.json|tools\.csv)$' && ! echo "$changed" | grep -q '^docs/'; then
+            msg="README.md, tools.json and tools.csv are generated from docs/. Move the change to the matching docs/ page and run: python scripts/build_readme.py"
+            echo "::error file=README.md::$msg"
+            echo "$msg" >> "$GITHUB_STEP_SUMMARY"
+            exit 1
+          fi
+      - name: README.md, tools.json and tools.csv match docs/
+        run: python scripts/build_readme.py --check
+      - name: Site builds without warnings
+        run: mkdocs build --strict
+      - name: Markdown lint
+        run: npx --yes markdownlint-cli2 "README.md" "docs/**/*.md" "CHANGELOG.md" "CONTRIBUTING.md" "COMMUNITY_GUIDELINES.md"

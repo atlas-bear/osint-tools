@@ -1,0 +1,24 @@
+## Learning and reference
+
+The method matters more than the tool. These are the guides we point students to, the training we run or take part in, and the general OSINT lists that cover everything this list leaves out on purpose.
+
+### Guides and handbooks
+
+- **[UN AIS Handbook](https://unstats.un.org/wiki/spaces/AIS/overview)** · Free · UN Committee of Experts on Big Data, AIS Task Team · The method handbook for cleaning and analysing AIS data for statistics, with worked examples. Most pages date from 2020 to 2023, but the fundamentals have not moved.
+- **[Peering Beyond the Clouds](https://www.bellingcat.com/resources/2023/05/11/peering-beyond-the-clouds-a-guide-to-bellingcats-ship-detection-tool/)** · Free · Bellingcat · The 2023 guide to finding ships in Sentinel-1 radar imagery with the Ship Detection Tool, and the best short introduction to SAR for analysts.
+- **[Bellingcat Online Investigation Toolkit](https://bellingcat.gitbook.io/toolkit)** · Free · Bellingcat · Hundreds of tool pages with cost, requirements, limitations and ethical notes, including a maritime section updated in 2026. Our pointer for general OSINT tools.
+- **[GIJN: Tracking Ships at Sea](https://gijn.org/resource/tracking-ships-at-sea/)** · Free · Global Investigative Journalism Network · A reporter's guide to vessel tracking, ownership and imagery, with case examples.
+- **[Deep Dive by Rae Baker](https://deepdive.raebaker.net/)** · Free · Rae Baker · Maritime OSINT guides from the author of *Deep Dive*, including a maritime patterning framework, port analysis and a Raspberry Pi AIS receiver build.
+- **[C4ADS](https://c4ads.org/)** · Free · C4ADS · Reports on illicit networks, sanctions evasion and the shadow fleet, with the data-driven method laid out in each one.
+
+### Training
+
+- **[Summer School on Illicit Trade](https://www.rug.nl/education/summer-winter-schools/illicit-trade)** · Paid (fee published per edition) · University of Groningen · The annual summer school where this list gets used and tested each year, with sessions on maritime and supply-chain OSINT.
+- **[Atlas Bear Academy](https://www.atlasbear.academy/)** · Paid (contact us) · Atlas Bear (ours) · Our professional development programmes in maritime security and supply chain intelligence.
+
+### Other lists
+
+- **[awesome-osint](https://github.com/jivoi/awesome-osint)** · Free · jivoi and contributors · The largest general OSINT list, with about 1,450 entries. Its maritime section is three lines long, which is why this list exists.
+- **[OSINT Framework](https://osintframework.com/)** · Free · Justin Nordine · A categorised tree of general OSINT tools with registration and pricing markers and a weekly link check.
+
+*Last checked 2026-10-12.*
