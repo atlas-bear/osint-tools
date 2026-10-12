@@ -1,0 +1,39 @@
+# Hosts that refuse automated requests but open normally in a browser.
+# Each was checked by hand on the date in the matching docs page.
+https://www.marinetraffic.com
+https://www.shipspotting.com
+https://map.baidu.com
+https://www.myshiptracking.com
+https://www.importyeti.com
+https://www.shipsgo.com
+https://www.ukmto.org
+https://www.unitedagainstnucleariran.com
+https://unitedagainstnucleariran.com
+https://www.spglobal.com
+https://www.transport.gov.mt
+https://www.searates.com
+https://www.shodan.io
+https://www.linkedin.com
+https://gijn.org
+https://usatrade.census.gov
+https://www.he360.com
+https://www.oni.navy.mil
+https://www.volza.com
+# Our own repository files and workflow badges: their existence is checked by the build, and they 404 on a branch before merge.
+https://github.com/atlas-bear/osint-tools/blob/main/
+https://github.com/atlas-bear/osint-tools/actions/
+# Temporary until GitHub Pages is enabled for this repository; remove afterwards.
+https://atlas-bear.github.io/osint-tools/
+# Refuses GitHub-hosted runners (403) though it opens in a browser.
+https://www.iomou.org
+# Certificate chain not trusted by lychee's TLS stack; opens fine in a browser.
+https://www.register-iri.com
+# Returns 403 to automated requests and from some networks; opens normally in Safari.
+https://datalastic.com
+# Challenge pages for automated requests; open normally in a browser.
+https://commercial.allianz.com
+https://www.kaggle.com
+# Substack blocks automated requests.
+https://maraiq.substack.com
+# Returns intermittent 503s to automated checks; the search page works in a browser.
+https://cgmix.uscg.mil

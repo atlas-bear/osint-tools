@@ -1,0 +1,32 @@
+name: Report a change
+description: A listed tool is dead, renamed, acquired, moved, or has lost or changed its free tier.
+title: "Change: <tool name>"
+labels: [change]
+body:
+  - type: input
+    id: name
+    attributes:
+      label: Tool name as listed
+    validations:
+      required: true
+  - type: dropdown
+    id: kind
+    attributes:
+      label: What changed?
+      options:
+        - Dead link or site gone
+        - New URL
+        - Renamed or acquired
+        - Free tier lost or changed
+        - Price or access terms changed
+        - Description is wrong
+        - Something else
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: Details
+      description: What you saw, when, and a link to a source if you have one (announcement, pricing page, press report).
+    validations:
+      required: true

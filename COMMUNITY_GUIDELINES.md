@@ -124,8 +124,8 @@ If you encounter behavior that violates these guidelines:
 
 These guidelines are adapted from best practices in the open source and intelligence communities. They may be updated periodically to reflect community needs and feedback.
 
-**Last Updated**: [Current Date]
-**Version**: 1.0
+**Last Updated**: 2026-10-12
+**Version**: 1.1
 
 ## Related Resources
 
@@ -135,4 +135,4 @@ These guidelines are adapted from best practices in the open source and intellig
 
 ---
 
-_Thank you for being part of the Atlas Bear community and helping us build valuable resources for intelligence professionals worldwide._
+*Thank you for being part of the Atlas Bear community and helping us build valuable resources for intelligence professionals worldwide.*

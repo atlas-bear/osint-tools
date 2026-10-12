@@ -1,0 +1,76 @@
+name: Propose a tool
+description: Suggest a maritime or supply-chain OSINT tool or data source for the list. No Markdown needed.
+title: "Propose: <tool name>"
+labels: [proposal]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks. We check every proposal against the criteria in [Contributing](https://github.com/atlas-bear/osint-tools/blob/main/docs/contributing.md) and reply either way.
+  - type: input
+    id: name
+    attributes:
+      label: Tool name
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: URL
+      placeholder: https://
+    validations:
+      required: true
+  - type: dropdown
+    id: page
+    attributes:
+      label: Which page does it belong on?
+      options:
+        - Vessel tracking (AIS)
+        - Vessel identity and inspections
+        - Ownership, sanctions and shadow fleet
+        - Satellite imagery and detection
+        - Ports, chokepoints and infrastructure
+        - Cargo, containers and trade data
+        - Security incidents and warnings
+        - Maps, weather and charts
+        - Commercial platforms
+        - Utilities, code and our tools
+        - Learning and reference
+        - Not sure
+    validations:
+      required: true
+  - type: dropdown
+    id: access
+    attributes:
+      label: Access
+      options:
+        - Free
+        - Free account
+        - Freemium
+        - Paid
+        - Enterprise quote
+        - Share-to-get
+        - On application
+    validations:
+      required: true
+  - type: input
+    id: owner
+    attributes:
+      label: Who operates it?
+      description: Company, agency, project or maintainer.
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: What does it do, and what does it add that a listed source does not?
+      description: One or two plain sentences on what it does, then what it adds (history, an API, coverage, a different collection method).
+    validations:
+      required: true
+  - type: input
+    id: affiliation
+    attributes:
+      label: Your connection to the tool
+      description: Write "none", or say how you are connected (author, employee, contractor). Self-submissions are welcome when disclosed.
+    validations:
+      required: true
