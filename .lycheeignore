@@ -26,3 +26,7 @@ https://github.com/atlas-bear/osint-tools/actions/
 https://www.wcpfc.int
 # Temporary until GitHub Pages is enabled for this repository; remove afterwards.
 https://atlas-bear.github.io/osint-tools/
+# Refuses GitHub-hosted runners (403) though it opens in a browser.
+https://www.iomou.org
+# Certificate chain not trusted by lychee's TLS stack; opens fine in a browser.
+https://www.register-iri.com

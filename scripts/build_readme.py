@@ -249,14 +249,15 @@ def main():
     targets = [(README, text), (TOOLS_JSON, js), (TOOLS_CSV, cs)]
     if "--check" in sys.argv:
         stale = [p.name for p, want in targets
-                 if not p.exists() or p.read_text(encoding="utf-8", newline="") != want]
+                 if not p.exists() or p.open(encoding="utf-8", newline="").read() != want]
         if stale:
             print(f"out of date: {', '.join(stale)}. Run: python scripts/build_readme.py", file=sys.stderr)
             return 1
         print(f"README.md, tools.json and tools.csv match docs/ ({len(entries)} tools)")
         return 0
     for p, want in targets:
-        p.write_text(want, encoding="utf-8", newline="")
+        with p.open("w", encoding="utf-8", newline="") as fh:
+            fh.write(want)
     print(f"wrote README.md ({len(text.splitlines())} lines), tools.json and tools.csv ({len(entries)} tools)")
     return 0
 
