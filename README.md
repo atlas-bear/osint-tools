@@ -255,7 +255,7 @@ Two cautions. Sanctions screening by name alone misses most ships; screen by IMO
 ### Shadow fleet trackers
 
 - **[KSE Institute Shadow Fleet Tracker](https://sanctions.kse.ua/)** · Free · Kyiv School of Economics Institute · Monthly reports on Russian seaborne oil exports and the tankers carrying them. Reports and data downloads rather than a vessel search.
-- **[Rendezvous](https://www.rdzvs.com/technology)** · Free account (early access; terms not yet published, 2026-10) · Rendezvous (an independent team working on the Baltic shadow fleet) · Scores vessels for shadow-fleet behaviour with a calibrated machine-learning model over AIS silences, encounters, flag history and port calls, and gives analysts a ranked triage console with the reasons for each score. Early-stage, with deployments around the Gulf of Finland and the Kerch Strait.
+- **[Rendezvous](https://www.rdzvs.com/)** · Free account (early access; terms not yet published, 2026-10) · Rendezvous, a non-profit foundation · An open platform on the Baltic shadow fleet whose tracker scores vessels with a calibrated machine-learning model over AIS silences, encounters, flag history and port calls, alongside commodity-flow data and maps of sensitive infrastructure. Early-stage, with deployments around the Gulf of Finland and the Kerch Strait; the technology page explains the method.
 - **[UANI tanker tracker](https://www.unitedagainstnucleariran.com/)** · Free · United Against Nuclear Iran · A running list of several hundred tankers linked to Iranian oil. UANI is an advocacy group, so confirm against the official lists before you rely on an entry.
 
 ### Fishing and IUU
