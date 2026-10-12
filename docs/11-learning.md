@@ -15,6 +15,7 @@ The method matters more than the tool. These are the guides we point students to
 
 ### Data and reference
 
+- **[World Factbook Archive](https://worldfactbookarchive.org/)** · Free (open source, MIT) · MilkMp, a community project not affiliated with the CIA · Every edition of the CIA World Factbook from 1990 to 2025 as a searchable site, a database and a free offline app, after the CIA discontinued the Factbook on 4 February 2026. Its Intelligence Atlas layers submarine cables, shipping routes, chokepoints and EEZ boundaries over the country data.
 - **[ODIS Catalogue of Sources](https://catalogue.odis.org/)** · Free · UNESCO/IOC Project Office for IODE · A searchable catalogue of more than 3,000 ocean data and information sources, for finding the agency that holds the dataset you need.
 - **[Allianz Safety and Shipping Review](https://commercial.allianz.com/news-and-insights/reports/shipping-safety.html)** · Free · Allianz Commercial · The annual review of ship losses, casualties and risk trends, the standard open reference on what goes wrong at sea and where.
 - **[The Organized Crime Index](https://ocindex.net/)** · Free · Global Initiative Against Transnational Organized Crime · Country scores for criminal markets and actors, from arms and drugs to human trafficking, with the methodology published. Useful context for any illicit trade case.

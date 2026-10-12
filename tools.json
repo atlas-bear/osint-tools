@@ -1,5 +1,5 @@
 {
-  "count": 185,
+  "count": 187,
   "last_checked": "2026-10-12",
   "tools": [
     {
@@ -648,6 +648,19 @@
       "description": "Consolidated sanctions and politically exposed person data from more than a hundred sources, with vessels as entities matched to IMO numbers, flag histories and shadow-fleet tags. Commercial use needs a licence.",
       "category": "Ownership, sanctions and shadow fleet",
       "section": "Sanctions lists and screening",
+      "page": "03-ownership-sanctions.md",
+      "ours": false,
+      "last_checked": "2026-10-12"
+    },
+    {
+      "name": "Rendezvous",
+      "url": "https://www.rdzvs.com/technology",
+      "access": "Free account",
+      "access_note": "early access; terms not yet published, 2026-10",
+      "owner": "Rendezvous (an independent team working on the Baltic shadow fleet)",
+      "description": "Scores vessels for shadow-fleet behaviour with a calibrated machine-learning model over AIS silences, encounters, flag history and port calls, and gives analysts a ranked triage console with the reasons for each score. Early-stage, with deployments around the Gulf of Finland and the Kerch Strait.",
+      "category": "Ownership, sanctions and shadow fleet",
+      "section": "Shadow fleet trackers",
       "page": "03-ownership-sanctions.md",
       "ours": false,
       "last_checked": "2026-10-12"
@@ -2403,6 +2416,19 @@
       "description": "The method handbook for cleaning and analysing AIS data for statistics, with worked examples. Most pages date from 2020 to 2023, but the fundamentals have not moved.",
       "category": "Learning and reference",
       "section": "Guides and handbooks",
+      "page": "11-learning.md",
+      "ours": false,
+      "last_checked": "2026-10-12"
+    },
+    {
+      "name": "World Factbook Archive",
+      "url": "https://worldfactbookarchive.org/",
+      "access": "Free",
+      "access_note": "open source, MIT",
+      "owner": "MilkMp, a community project not affiliated with the CIA",
+      "description": "Every edition of the CIA World Factbook from 1990 to 2025 as a searchable site, a database and a free offline app, after the CIA discontinued the Factbook on 4 February 2026. Its Intelligence Atlas layers submarine cables, shipping routes, chokepoints and EEZ boundaries over the country data.",
+      "category": "Learning and reference",
+      "section": "Data and reference",
       "page": "11-learning.md",
       "ours": false,
       "last_checked": "2026-10-12"

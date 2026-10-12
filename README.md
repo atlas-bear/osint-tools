@@ -255,6 +255,7 @@ Two cautions. Sanctions screening by name alone misses most ships; screen by IMO
 ### Shadow fleet trackers
 
 - **[KSE Institute Shadow Fleet Tracker](https://sanctions.kse.ua/)** · Free · Kyiv School of Economics Institute · Monthly reports on Russian seaborne oil exports and the tankers carrying them. Reports and data downloads rather than a vessel search.
+- **[Rendezvous](https://www.rdzvs.com/technology)** · Free account (early access; terms not yet published, 2026-10) · Rendezvous (an independent team working on the Baltic shadow fleet) · Scores vessels for shadow-fleet behaviour with a calibrated machine-learning model over AIS silences, encounters, flag history and port calls, and gives analysts a ranked triage console with the reasons for each score. Early-stage, with deployments around the Gulf of Finland and the Kerch Strait.
 - **[UANI tanker tracker](https://www.unitedagainstnucleariran.com/)** · Free · United Against Nuclear Iran · A running list of several hundred tankers linked to Iranian oil. UANI is an advocacy group, so confirm against the official lists before you rely on an entry.
 
 ### Fishing and IUU
@@ -552,6 +553,7 @@ The method matters more than the tool. These are the guides we point students to
 
 ### Data and reference
 
+- **[World Factbook Archive](https://worldfactbookarchive.org/)** · Free (open source, MIT) · MilkMp, a community project not affiliated with the CIA · Every edition of the CIA World Factbook from 1990 to 2025 as a searchable site, a database and a free offline app, after the CIA discontinued the Factbook on 4 February 2026. Its Intelligence Atlas layers submarine cables, shipping routes, chokepoints and EEZ boundaries over the country data.
 - **[ODIS Catalogue of Sources](https://catalogue.odis.org/)** · Free · UNESCO/IOC Project Office for IODE · A searchable catalogue of more than 3,000 ocean data and information sources, for finding the agency that holds the dataset you need.
 - **[Allianz Safety and Shipping Review](https://commercial.allianz.com/news-and-insights/reports/shipping-safety.html)** · Free · Allianz Commercial · The annual review of ship losses, casualties and risk trends, the standard open reference on what goes wrong at sea and where.
 - **[The Organized Crime Index](https://ocindex.net/)** · Free · Global Initiative Against Transnational Organized Crime · Country scores for criminal markets and actors, from arms and drugs to human trafficking, with the methodology published. Useful context for any illicit trade case.
