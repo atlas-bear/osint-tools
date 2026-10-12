@@ -21,6 +21,7 @@ A full rebuild. Every entry was re-verified, the list grew from 45 to well over 
 - A commercial platforms page that flags enterprise products and names the free alternative for each group.
 - Our own tools: equasis-cli, cue-kit and MARA, marked as ours.
 - ArcNautical (proposed by SaltyTaro in #3) and Phantom Tide (proposed by tg12 in #2).
+- From our own bookmark review: MarineRadar, Tradlinx, Ships IO, OpenAerialMap, the Maritime Cyber Attack Database, GDELT, Worldwide AIS Network, bbox finder, the VESSA dataset, the ODIS catalogue, the Allianz Safety and Shipping Review, the Organized Crime Index, Shipmap.org, Kaggle AIS datasets and two guides.
 - A glossary, an archive of retired tools, written inclusion criteria, issue forms and a pull request template.
 - A website at atlas-bear.github.io/osint-tools built with MkDocs Material from the pages in `docs/`.
 - `tools.json` and `tools.csv`, generated from the pages, for anyone who wants the list as data.

@@ -59,7 +59,7 @@ This is not an exhaustive list, and it is not meant to be. We list what works fo
   - [Freight rates](#freight-rates)
 - [Security incidents and warnings](#security-incidents-and-warnings)
   - [Reporting centres and advisories](#reporting-centres-and-advisories)
-  - [Conflict and event maps](#conflict-and-event-maps)
+  - [Conflict maps and event databases](#conflict-maps-and-event-databases)
 - [Maps, weather and charts](#maps-weather-and-charts)
   - [Maps and street-level imagery](#maps-and-street-level-imagery)
   - [Weather and sea state](#weather-and-sea-state)
@@ -75,6 +75,7 @@ This is not an exhaustive list, and it is not meant to be. We list what works fo
   - [Libraries and code](#libraries-and-code)
 - [Learning and reference](#learning-and-reference)
   - [Guides and handbooks](#guides-and-handbooks)
+  - [Data and reference](#data-and-reference)
   - [Training](#training)
   - [Other lists](#other-lists)
 - [Glossary](#glossary)
@@ -132,6 +133,8 @@ One OPSEC point. Searching a named vessel on a commercial site while logged in t
 - **[MyShipTracking](https://www.myshiptracking.com/)** · Freemium · MyShipTracking · Terrestrial AIS map with a credit-based API and a free trial key. Coverage is near-shore only.
 - **[ShipAtlas](https://www.maritimeoptima.com/shipatlas)** · Freemium (from €10/month, 2026-10) · Maritime Optima, Norway · Satellite AIS positions, recent port calls and a sea-route calculator. The free tier is capped at ten satellite position views.
 - **[ShipXplorer](https://www.shipxplorer.com/)** · Freemium · AirNav Systems · AIS map fed by hobbyist receivers, from the company behind ShipSpotting. Hosting a receiver earns a premium account.
+- **[MarineRadar](https://www.marineradar.com/)** · Freemium · Lascade, Dubai · Live terrestrial and satellite AIS for more than 100,000 vessels with route playback, on the web and in mobile apps. Subscription prices are not published.
+- **[Tradlinx vessel tracking](https://www.tradlinx.com/vessel-tracking/)** · Free · Tradlinx Inc., Seoul · Latest position, destination and identifiers for a ship by name, MMSI, IMO or call sign, with no account. Near-shore receivers only; satellite coverage is in the paid Ocean Visibility product.
 - **[Shipinfo.net](https://shipinfo.net/)** · Freemium · STELS A LLC, Russia · AIS map with waterway and port-congestion analytics and Northern Sea Route ice layers. Operated from Russia, so think about what you query from a case machine.
 - **[Global Fishing Watch map](https://globalfishingwatch.org/map)** · Free account · Global Fishing Watch · Tracks from 2012, port visits, encounters, loitering, AIS gaps and radar detections for the whole world. Built around fishing and carrier vessels, and about three days behind live.
 
@@ -200,6 +203,7 @@ Equasis and GISIS need an account and log your searches to it. If you query many
 - **[Equasis](https://www.equasis.org/)** · Free account · EMSA and a consortium of maritime administrations · Particulars, registered owner and managers, class, P&I cover and port state inspections for most merchant ships, and from 2026 a record of ship-to-ship transfers. The first stop for any vessel.
 - **[IMO GISIS](https://gisis.imo.org/Public/SHIPS/Default.aspx)** · Free account · International Maritime Organization · The IMO's own ship and company records: name and flag history, IMO company numbers and registered addresses. The public modules need a free IMO web account.
 - **[ITU MARS ship station search](https://mmsapp.itu.int/mmsapp/shipstation/list)** · Free · International Telecommunication Union · Looks up a ship by MMSI, call sign, name or distress-beacon identity and returns the administration that registered it. The quickest check that an MMSI matches a flag.
+- **[Ships IO](https://shipsio.com/ships)** · Paid (30-day free trial, from $19.99/yr, 2026-10) · ShipVault LLC, Hawaii · Crowd-sourced database of about 160,000 large ships with technical and commercial details, linked companies, yards and parts. Cheap enough for individuals, but check its claims against Equasis.
 - **[DNV Vessel Register](https://vesselregister.dnv.com/)** · Free · DNV · Class status, surveys and certificates for ships classed by DNV.
 - **[ABS Record](https://www.eagle.org/portal/#/absrecord/search)** · Free · American Bureau of Shipping · Class records for ABS-classed ships.
 - **[ClassNK Register of Ships](https://www.classnk.or.jp/register/regships/regships.aspx)** · Free · Nippon Kaiji Kyokai · Class records for the Japanese society's large fleet.
@@ -277,6 +281,7 @@ Imagery is how you test what AIS tells you. Radar (SAR) sees ships through cloud
 - **[Copernicus Data Space](https://dataspace.copernicus.eu/)** · Free account · European Space Agency · The APIs behind the browser (STAC, OData and processing) for pulling Sentinel data into your own tools.
 - **[NASA Worldview](https://worldview.earthdata.nasa.gov/)** · Free · NASA · Same-day, low-resolution global imagery from MODIS and VIIRS, enough to see weather, smoke, ice and large slicks.
 - **[NASA FIRMS](https://firms.modaps.eosdis.nasa.gov/)** · Free · NASA · Active fire and thermal anomaly detections, including flaring at offshore platforms and fires at sea.
+- **[OpenAerialMap](https://map.openaerialmap.org/)** · Free (open licences) · Humanitarian OpenStreetMap Team · Openly licensed aerial and drone imagery uploaded by mappers and responders, much of it very high resolution and much of it after disasters. Patchy, but where it exists it beats satellite imagery.
 - **[EOS LandViewer](https://eos.com/landviewer/)** · Freemium · EOS Data Analytics · Browser for Sentinel, Landsat and some commercial imagery with analysis tools; the free tier allows a small number of scenes a month.
 
 ### Dark vessel and anomaly detection
@@ -384,7 +389,10 @@ Our own platform, MARA, is on this page too. It is a commercial product and we s
 - **[MARA](https://maraiq.com/)** · Paid (contact us) · Atlas Bear (ours) · Our maritime security intelligence platform: round-the-clock monitoring of security incidents with alerts, intelligence reports, daily hot spots and country and port indices. Feedback and the public roadmap are on GitHub.
 - **[Phantom Tide](https://phantom.labs.jamessawyer.co.uk/)** · Free account (Starter tier; higher tiers exist, prices not published, 2026-10) · James Sawyer · Analyst dashboard that ranks hotspots where vessel tracks, aircraft, navigation warnings, weather, satellite detections and GNSS interference overlap, with a notebook and area reports. A hosted app with closed source; the public repository holds the docs and release notes.
 
-### Conflict and event maps
+### Conflict maps and event databases
+
+- **[Maritime Cyber Attack Database](https://maritimecybersecurity.nl/)** · Free · NHL Stenden University of Applied Sciences, Netherlands · About 300 cyber incidents against ships, ports and maritime companies since 2001, with a map filterable by victim, attacker, country and year.
+- **[GDELT](https://www.gdeltproject.org/data.html)** · Free · The GDELT Project · Machine-coded records of news events and mentions worldwide, downloadable in bulk or through BigQuery. Noisy, but a quick way to see what was reported about a port or sea area on a given day.
 
 - **[Liveuamap](https://liveuamap.com/)** · Freemium · Liveuamap · Geolocated news events, including strikes on shipping and ports in the Black Sea and the Red Sea. Ad-supported, with an optional ad-free subscription.
 - **[Eyes on Russia map](https://eyesonrussia.org/)** · Free · Centre for Information Resilience · Verified, geolocated incidents from the war in Ukraine, including Black Sea and port events, built with C4ADS.
@@ -452,6 +460,7 @@ Free alternatives: [vessel tracking](#vessel-tracking-ais) and [vessel identity]
 - **[Vortexa](https://www.vortexa.com/)** · Enterprise quote · Vortexa · Cargo-level tracking of oil, gas and refined products, with analytics on floating storage and shadow fleet flows.
 - **[Starboard Maritime Intelligence](https://starboard.nz/)** · Enterprise quote · Starboard, New Zealand · Vessel risk and dark activity analytics aimed at governments and fisheries agencies in the Pacific and beyond.
 - **[TankerTrackers.com](https://www.tankertrackers.com/)** · Paid (Corporate Lite $12,000/yr, 2026-10) · TankerTrackers.com · Tanker movements, floating storage and sanctioned oil flows from imagery and AIS. Retail tiers are closed to new subscribers.
+- **[Worldwide AIS Network](https://www.worldwideais.org/)** · Enterprise quote · Worldwide AIS Network ApS, Copenhagen · Live and regional AIS feeds over REST, WebSocket and raw NMEA, with a free data sample for evaluation. A smaller alternative to the Kpler and S&P feeds.
 - **[Datalastic](https://datalastic.com/)** · Paid (from about €199/month, 2026-10) · Datalastic · A developer-oriented AIS and vessel data API, one of the cheaper paid routes to programmatic positions. The site refuses some automated and overseas requests.
 
 ### Radar, optical and RF detection
@@ -514,6 +523,8 @@ Once you are looking at more than a handful of ships, you need code. It queries 
 - **[Bellingcat auto-archiver](https://github.com/bellingcat/auto-archiver)** · Free (open source, MIT) · Bellingcat · Archives web pages, posts and media from a spreadsheet of URLs, with hashes and timestamps, so that a vessel page or a port notice is preserved before it changes.
 - **[QGIS](https://qgis.org/)** · Free (open source, GPL-2.0) · QGIS project · Desktop GIS for laying AIS points, EEZ boundaries, bathymetry and satellite imagery on one map. Plugins pull Copernicus and Vantor open data in directly.
 - **[Kepler.gl](https://kepler.gl/)** · Free (open source, MIT) · OpenJS Foundation · Browser tool that plots millions of points from a CSV or GeoParquet file with a time slider, which is how we first look at a bulk AIS download.
+- **[bbox finder](https://bboxfinder.com/)** · Free (open source) · CUGOS · Draw a box on a map and get its coordinates in the format an API wants, which is the quickest way to set up an aisstream.io or Copernicus filter.
+- **[VESSA dataset](https://zenodo.org/records/17246832)** · Free (GPL-3.0) · Pablo Rangel and colleagues, Brazilian Navy Research Institute and UFRJ · More than 200,000 labelled vessel images in 25 categories for training detectors and classifiers, published on Zenodo in November 2025.
 - **[SunCalc](https://www.suncalc.org/)** · Free · Torsten Hoffmann · Sun position and shadow length for any place and time, for dating or placing a photograph of a ship or a port.
 - **[Shodan](https://www.shodan.io/)** · Freemium · Shodan · Search engine for internet-exposed devices, including ships' satellite terminals and port systems. Its old AIS ship tracker is gone and AIS data is now sold only as a bulk dataset.
 - **[Hunchly](https://hunch.ly/)** · Paid · Hunchly · Browser extension that captures and hashes every page you visit during an investigation, which is the evidence trail you want when a vessel page changes after you cite it.
@@ -536,6 +547,16 @@ The method matters more than the tool. These are the guides we point students to
 - **[GIJN: Tracking Ships at Sea](https://gijn.org/resource/tracking-ships-at-sea/)** · Free · Global Investigative Journalism Network · A reporter's guide to vessel tracking, ownership and imagery, with case examples.
 - **[Deep Dive by Rae Baker](https://deepdive.raebaker.net/)** · Free · Rae Baker · Maritime OSINT guides from the author of *Deep Dive*, including a maritime patterning framework, port analysis and a Raspberry Pi AIS receiver build.
 - **[C4ADS](https://c4ads.org/)** · Free · C4ADS · Reports on illicit networks, sanctions evasion and the shadow fleet, with the data-driven method laid out in each one.
+- **[Setting up an SDR AIS receiver with AIS-catcher](https://www.worldwideais.org/post/how-to-set-up-sdr-ais-receiver-ais-catcher)** · Free · Worldwide AIS Network ApS · A step-by-step guide to building your own AIS receiver from a software-defined radio dongle, written by a commercial feed provider.
+- **[Free government nautical charts](https://blog.anchorages.co/tools/free-nautical-charts/)** · Free · Anchorages · A maintained list of the national hydrographic offices that give their charts away, with links.
+
+### Data and reference
+
+- **[ODIS Catalogue of Sources](https://catalogue.odis.org/)** · Free · UNESCO/IOC Project Office for IODE · A searchable catalogue of more than 3,000 ocean data and information sources, for finding the agency that holds the dataset you need.
+- **[Allianz Safety and Shipping Review](https://commercial.allianz.com/news-and-insights/reports/shipping-safety.html)** · Free · Allianz Commercial · The annual review of ship losses, casualties and risk trends, the standard open reference on what goes wrong at sea and where.
+- **[The Organized Crime Index](https://ocindex.net/)** · Free · Global Initiative Against Transnational Organized Crime · Country scores for criminal markets and actors, from arms and drugs to human trafficking, with the methodology published. Useful context for any illicit trade case.
+- **[Shipmap.org](https://www.shipmap.org/)** · Free · Kiln and the UCL Energy Institute · An animated map of the world's merchant shipping over one year, built from 2012 AIS data. Old, but the best single picture of how trade moves for a classroom.
+- **[AIS datasets on Kaggle](https://www.kaggle.com/datasets?search=ais)** · Free account · Kaggle (Google) · Practice datasets of AIS positions uploaded by users, mostly copies of public releases such as MarineCadastre and the Danish files, for learning to clean and plot tracks.
 
 ### Training
 
@@ -743,7 +764,7 @@ Thanks to everyone who has proposed tools, reported dead links and corrected us.
 | [cue-kit](https://github.com/atlas-bear/cue-kit) | Turn video into frames and transcripts for analysis | ![Last commit](https://img.shields.io/github/last-commit/atlas-bear/cue-kit) |
 | [mara-roadmap](https://github.com/atlas-bear/mara-roadmap) | Public roadmap and feedback for [MARA](https://maraiq.com), our maritime security intelligence platform | ![Last commit](https://img.shields.io/github/last-commit/atlas-bear/mara-roadmap) |
 
-**Learn more:** [Atlas Bear Academy](https://www.atlasbear.academy) and [atlasbear.co](https://atlasbear.co). **Contact:** [support@atlasbear.co](mailto:support@atlasbear.co).
+**Learn more:** [Atlas Bear Academy](https://www.atlasbear.academy), [atlasbear.co](https://atlasbear.co) and [Waterline](https://maraiq.substack.com/), our newsletter. **Contact:** [support@atlasbear.co](mailto:support@atlasbear.co).
 
 [↑ Back to top](#maritime-and-supply-chain-osint-tools)
 

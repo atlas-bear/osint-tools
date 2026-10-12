@@ -8,6 +8,7 @@ Imagery is how you test what AIS tells you. Radar (SAR) sees ships through cloud
 - **[Copernicus Data Space](https://dataspace.copernicus.eu/)** · Free account · European Space Agency · The APIs behind the browser (STAC, OData and processing) for pulling Sentinel data into your own tools.
 - **[NASA Worldview](https://worldview.earthdata.nasa.gov/)** · Free · NASA · Same-day, low-resolution global imagery from MODIS and VIIRS, enough to see weather, smoke, ice and large slicks.
 - **[NASA FIRMS](https://firms.modaps.eosdis.nasa.gov/)** · Free · NASA · Active fire and thermal anomaly detections, including flaring at offshore platforms and fires at sea.
+- **[OpenAerialMap](https://map.openaerialmap.org/)** · Free (open licences) · Humanitarian OpenStreetMap Team · Openly licensed aerial and drone imagery uploaded by mappers and responders, much of it very high resolution and much of it after disasters. Patchy, but where it exists it beats satellite imagery.
 - **[EOS LandViewer](https://eos.com/landviewer/)** · Freemium · EOS Data Analytics · Browser for Sentinel, Landsat and some commercial imagery with analysis tools; the free tier allows a small number of scenes a month.
 
 ### Dark vessel and anomaly detection

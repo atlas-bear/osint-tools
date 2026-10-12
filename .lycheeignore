@@ -30,3 +30,6 @@ https://www.iomou.org
 https://www.register-iri.com
 # Returns 403 to automated requests and from some networks; opens normally in Safari.
 https://datalastic.com
+# Challenge pages for automated requests; open normally in a browser.
+https://commercial.allianz.com
+https://www.kaggle.com

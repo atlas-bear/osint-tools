@@ -10,6 +10,16 @@ The method matters more than the tool. These are the guides we point students to
 - **[GIJN: Tracking Ships at Sea](https://gijn.org/resource/tracking-ships-at-sea/)** · Free · Global Investigative Journalism Network · A reporter's guide to vessel tracking, ownership and imagery, with case examples.
 - **[Deep Dive by Rae Baker](https://deepdive.raebaker.net/)** · Free · Rae Baker · Maritime OSINT guides from the author of *Deep Dive*, including a maritime patterning framework, port analysis and a Raspberry Pi AIS receiver build.
 - **[C4ADS](https://c4ads.org/)** · Free · C4ADS · Reports on illicit networks, sanctions evasion and the shadow fleet, with the data-driven method laid out in each one.
+- **[Setting up an SDR AIS receiver with AIS-catcher](https://www.worldwideais.org/post/how-to-set-up-sdr-ais-receiver-ais-catcher)** · Free · Worldwide AIS Network ApS · A step-by-step guide to building your own AIS receiver from a software-defined radio dongle, written by a commercial feed provider.
+- **[Free government nautical charts](https://blog.anchorages.co/tools/free-nautical-charts/)** · Free · Anchorages · A maintained list of the national hydrographic offices that give their charts away, with links.
+
+### Data and reference
+
+- **[ODIS Catalogue of Sources](https://catalogue.odis.org/)** · Free · UNESCO/IOC Project Office for IODE · A searchable catalogue of more than 3,000 ocean data and information sources, for finding the agency that holds the dataset you need.
+- **[Allianz Safety and Shipping Review](https://commercial.allianz.com/news-and-insights/reports/shipping-safety.html)** · Free · Allianz Commercial · The annual review of ship losses, casualties and risk trends, the standard open reference on what goes wrong at sea and where.
+- **[The Organized Crime Index](https://ocindex.net/)** · Free · Global Initiative Against Transnational Organized Crime · Country scores for criminal markets and actors, from arms and drugs to human trafficking, with the methodology published. Useful context for any illicit trade case.
+- **[Shipmap.org](https://www.shipmap.org/)** · Free · Kiln and the UCL Energy Institute · An animated map of the world's merchant shipping over one year, built from 2012 AIS data. Old, but the best single picture of how trade moves for a classroom.
+- **[AIS datasets on Kaggle](https://www.kaggle.com/datasets?search=ais)** · Free account · Kaggle (Google) · Practice datasets of AIS positions uploaded by users, mostly copies of public releases such as MarineCadastre and the Danish files, for learning to clean and plot tracks.
 
 ### Training
 

@@ -16,7 +16,10 @@ Our own platform, MARA, is on this page too. It is a commercial product and we s
 - **[MARA](https://maraiq.com/)** · Paid (contact us) · Atlas Bear (ours) · Our maritime security intelligence platform: round-the-clock monitoring of security incidents with alerts, intelligence reports, daily hot spots and country and port indices. Feedback and the public roadmap are on GitHub.
 - **[Phantom Tide](https://phantom.labs.jamessawyer.co.uk/)** · Free account (Starter tier; higher tiers exist, prices not published, 2026-10) · James Sawyer · Analyst dashboard that ranks hotspots where vessel tracks, aircraft, navigation warnings, weather, satellite detections and GNSS interference overlap, with a notebook and area reports. A hosted app with closed source; the public repository holds the docs and release notes.
 
-### Conflict and event maps
+### Conflict maps and event databases
+
+- **[Maritime Cyber Attack Database](https://maritimecybersecurity.nl/)** · Free · NHL Stenden University of Applied Sciences, Netherlands · About 300 cyber incidents against ships, ports and maritime companies since 2001, with a map filterable by victim, attacker, country and year.
+- **[GDELT](https://www.gdeltproject.org/data.html)** · Free · The GDELT Project · Machine-coded records of news events and mentions worldwide, downloadable in bulk or through BigQuery. Noisy, but a quick way to see what was reported about a port or sea area on a given day.
 
 - **[Liveuamap](https://liveuamap.com/)** · Freemium · Liveuamap · Geolocated news events, including strikes on shipping and ports in the Black Sea and the Red Sea. Ad-supported, with an optional ad-free subscription.
 - **[Eyes on Russia map](https://eyesonrussia.org/)** · Free · Centre for Information Resilience · Verified, geolocated incidents from the war in Ukraine, including Black Sea and port events, built with C4ADS.
