@@ -656,7 +656,7 @@
       "name": "Rendezvous",
       "url": "https://www.rdzvs.com/",
       "access": "Free account",
-      "access_note": "early access; terms not yet published, 2026-10",
+      "access_note": "early access, 2026-10",
       "owner": "Rendezvous, a non-profit foundation",
       "description": "An open platform on the Baltic shadow fleet whose tracker scores vessels with a calibrated machine-learning model over AIS silences, encounters, flag history and port calls, alongside commodity-flow data and maps of sensitive infrastructure. Early-stage, with deployments around the Gulf of Finland and the Kerch Strait; the technology page explains the method.",
       "category": "Ownership, sanctions and shadow fleet",
