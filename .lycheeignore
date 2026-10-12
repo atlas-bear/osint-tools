@@ -33,3 +33,7 @@ https://datalastic.com
 # Challenge pages for automated requests; open normally in a browser.
 https://commercial.allianz.com
 https://www.kaggle.com
+# Substack blocks automated requests.
+https://maraiq.substack.com
+# Returns intermittent 503s to automated checks; the search page works in a browser.
+https://cgmix.uscg.mil
