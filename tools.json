@@ -1,5 +1,5 @@
 {
-  "count": 169,
+  "count": 167,
   "last_checked": "2026-10-12",
   "tools": [
     {
@@ -653,12 +653,12 @@
       "last_checked": "2026-10-12"
     },
     {
-      "name": "WCPFC vessel records",
-      "url": "https://www.wcpfc.int/vessels",
+      "name": "WCPFC Record of Fishing Vessels",
+      "url": "https://vessels.wcpfc.int/",
       "access": "Free",
       "access_note": "",
       "owner": "Western and Central Pacific Fisheries Commission",
-      "description": "The record of vessels authorised to fish in the western and central Pacific, and the commission's IUU list.",
+      "description": "Public search and CSV download of vessels authorised to fish in the western and central Pacific, with photos and the option to include deleted records.",
       "category": "Ownership, sanctions and shadow fleet",
       "section": "Fishing and IUU",
       "page": "03-ownership-sanctions.md",
@@ -857,19 +857,6 @@
       "category": "Satellite imagery and detection",
       "section": "Dark vessel and anomaly detection",
       "page": "04-satellite-imagery.md",
-      "ours": false,
-      "last_checked": "2026-10-12"
-    },
-    {
-      "name": "Container Port Performance Index",
-      "url": "https://www.worldbank.org/en/topic/transport/brief/container-port-performance-index",
-      "access": "Free",
-      "access_note": "",
-      "owner": "World Bank and S&P Global Market Intelligence",
-      "description": "Annual ranking of container ports by time in port, built from AIS, as a report and data file.",
-      "category": "Ports, chokepoints and infrastructure",
-      "section": "Ports and chokepoints",
-      "page": "05-ports-infrastructure.md",
       "ours": false,
       "last_checked": "2026-10-12"
     },
@@ -1610,19 +1597,6 @@
       "description": "Maritime security advisories, intelligence and armed guarding.",
       "category": "Commercial platforms",
       "section": "Security and risk advisories",
-      "page": "09-commercial-platforms.md",
-      "ours": false,
-      "last_checked": "2026-10-12"
-    },
-    {
-      "name": "Datalastic",
-      "url": "https://datalastic.com/",
-      "access": "Paid",
-      "access_note": "from about €199/month, 2026-10",
-      "owner": "Datalastic",
-      "description": "A developer-oriented AIS and vessel data API, one of the cheaper paid routes to programmatic positions.",
-      "category": "Commercial platforms",
-      "section": "Vessel tracking and maritime intelligence",
       "page": "09-commercial-platforms.md",
       "ours": false,
       "last_checked": "2026-10-12"

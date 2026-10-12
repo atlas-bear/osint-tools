@@ -14,7 +14,6 @@ https://www.transport.gov.mt
 https://www.searates.com
 https://www.shodan.io
 https://www.linkedin.com
-https://datalastic.com
 https://gijn.org
 https://usatrade.census.gov
 https://www.he360.com
@@ -23,7 +22,6 @@ https://www.volza.com
 # Our own repository files and workflow badges: their existence is checked by the build, and they 404 on a branch before merge.
 https://github.com/atlas-bear/osint-tools/blob/main/
 https://github.com/atlas-bear/osint-tools/actions/
-https://www.wcpfc.int
 # Temporary until GitHub Pages is enabled for this repository; remove afterwards.
 https://atlas-bear.github.io/osint-tools/
 # Refuses GitHub-hosted runners (403) though it opens in a browser.

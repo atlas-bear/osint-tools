@@ -29,7 +29,7 @@ Two cautions. Sanctions screening by name alone misses most ships; screen by IMO
 
 - **[Combined IUU Vessel List](https://iuu-vessels.org/)** · Free · Trygg Mat Tracking · Every regional fisheries organisation's list of vessels caught fishing illegally, merged with Interpol notices, with name and flag history, alerts and a spreadsheet download.
 - **[FAO Global Record](https://globalrecord.fao.org/)** · Free · UN Food and Agriculture Organization · The Global Record of Fishing Vessels, with a unique vessel identifier and quick search by IMO, MMSI or call sign.
-- **[WCPFC vessel records](https://www.wcpfc.int/vessels)** · Free · Western and Central Pacific Fisheries Commission · The record of vessels authorised to fish in the western and central Pacific, and the commission's IUU list.
+- **[WCPFC Record of Fishing Vessels](https://vessels.wcpfc.int/)** · Free · Western and Central Pacific Fisheries Commission · Public search and CSV download of vessels authorised to fish in the western and central Pacific, with photos and the option to include deleted records.
 - **[IOTC vessel records](https://iotc.org/vessels)** · Free · Indian Ocean Tuna Commission · Authorised and IUU vessel lists for the Indian Ocean.
 - **[ICCAT Record of Vessels](https://www.iccat.int/en/VesselsRecord.asp)** · Free · International Commission for the Conservation of Atlantic Tunas · Authorised vessels and the Atlantic IUU list.
 
