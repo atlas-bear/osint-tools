@@ -310,6 +310,7 @@ What is normal for this port or strait, and what has changed? The IMF's PortWatc
 - **[IMF PortWatch](https://portwatch.imf.org/)** · Free · International Monetary Fund with the University of Oxford · Daily port calls and trade volume estimates for about 1,800 ports and transit counts for the main chokepoints, updated weekly, with an ArcGIS API. The figures are modelled from AIS and get revised.
 - **[NGA World Port Index](https://msi.nga.mil/Publications/WPI)** · Free · US National Geospatial-Intelligence Agency · Publication 150: location, depths, facilities and services for several thousand ports, as a spreadsheet or GIS layer.
 - **[UNCTAD Liner Shipping Connectivity Index](https://unctadstat.unctad.org/datacentre/)** · Free · UN Trade and Development · Quarterly index of how well each country and port is connected to container shipping networks, inside the UNCTADstat data centre.
+- **[Container Port Performance Index](https://www.worldbank.org/en/topic/transport/publication/cppi)** · Free · World Bank and S&P Global Market Intelligence · Annual ranking of about 400 container ports by time in port, built from AIS, with the report and the data file for download.
 - **[Port Optimizer](https://www.portoflosangeles.org/business/supply-chain/port-optimizer)** · Free account · Port of Los Angeles with Wabtec · Volumes, forecasts and container tracking for the port of Los Angeles. One of the few ports that publishes forward-looking data.
 
 ### Cables, pipelines and boundaries
@@ -451,6 +452,7 @@ Free alternatives: [vessel tracking](#vessel-tracking-ais) and [vessel identity]
 - **[Vortexa](https://www.vortexa.com/)** · Enterprise quote · Vortexa · Cargo-level tracking of oil, gas and refined products, with analytics on floating storage and shadow fleet flows.
 - **[Starboard Maritime Intelligence](https://starboard.nz/)** · Enterprise quote · Starboard, New Zealand · Vessel risk and dark activity analytics aimed at governments and fisheries agencies in the Pacific and beyond.
 - **[TankerTrackers.com](https://www.tankertrackers.com/)** · Paid (Corporate Lite $12,000/yr, 2026-10) · TankerTrackers.com · Tanker movements, floating storage and sanctioned oil flows from imagery and AIS. Retail tiers are closed to new subscribers.
+- **[Datalastic](https://datalastic.com/)** · Paid (from about €199/month, 2026-10) · Datalastic · A developer-oriented AIS and vessel data API, one of the cheaper paid routes to programmatic positions. The site refuses some automated and overseas requests.
 
 ### Radar, optical and RF detection
 

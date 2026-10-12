@@ -1,5 +1,5 @@
 {
-  "count": 167,
+  "count": 169,
   "last_checked": "2026-10-12",
   "tools": [
     {
@@ -861,6 +861,19 @@
       "last_checked": "2026-10-12"
     },
     {
+      "name": "Container Port Performance Index",
+      "url": "https://www.worldbank.org/en/topic/transport/publication/cppi",
+      "access": "Free",
+      "access_note": "",
+      "owner": "World Bank and S&P Global Market Intelligence",
+      "description": "Annual ranking of about 400 container ports by time in port, built from AIS, with the report and the data file for download.",
+      "category": "Ports, chokepoints and infrastructure",
+      "section": "Ports and chokepoints",
+      "page": "05-ports-infrastructure.md",
+      "ours": false,
+      "last_checked": "2026-10-12"
+    },
+    {
       "name": "Global Gas Infrastructure Tracker",
       "url": "https://globalenergymonitor.org/projects/global-gas-infrastructure-tracker/",
       "access": "Free",
@@ -1597,6 +1610,19 @@
       "description": "Maritime security advisories, intelligence and armed guarding.",
       "category": "Commercial platforms",
       "section": "Security and risk advisories",
+      "page": "09-commercial-platforms.md",
+      "ours": false,
+      "last_checked": "2026-10-12"
+    },
+    {
+      "name": "Datalastic",
+      "url": "https://datalastic.com/",
+      "access": "Paid",
+      "access_note": "from about €199/month, 2026-10",
+      "owner": "Datalastic",
+      "description": "A developer-oriented AIS and vessel data API, one of the cheaper paid routes to programmatic positions. The site refuses some automated and overseas requests.",
+      "category": "Commercial platforms",
+      "section": "Vessel tracking and maritime intelligence",
       "page": "09-commercial-platforms.md",
       "ours": false,
       "last_checked": "2026-10-12"

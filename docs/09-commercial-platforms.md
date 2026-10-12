@@ -16,6 +16,7 @@ Free alternatives: [vessel tracking](01-vessel-tracking.md) and [vessel identity
 - **[Vortexa](https://www.vortexa.com/)** · Enterprise quote · Vortexa · Cargo-level tracking of oil, gas and refined products, with analytics on floating storage and shadow fleet flows.
 - **[Starboard Maritime Intelligence](https://starboard.nz/)** · Enterprise quote · Starboard, New Zealand · Vessel risk and dark activity analytics aimed at governments and fisheries agencies in the Pacific and beyond.
 - **[TankerTrackers.com](https://www.tankertrackers.com/)** · Paid (Corporate Lite $12,000/yr, 2026-10) · TankerTrackers.com · Tanker movements, floating storage and sanctioned oil flows from imagery and AIS. Retail tiers are closed to new subscribers.
+- **[Datalastic](https://datalastic.com/)** · Paid (from about €199/month, 2026-10) · Datalastic · A developer-oriented AIS and vessel data API, one of the cheaper paid routes to programmatic positions. The site refuses some automated and overseas requests.
 
 ### Radar, optical and RF detection
 

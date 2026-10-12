@@ -28,3 +28,5 @@ https://atlas-bear.github.io/osint-tools/
 https://www.iomou.org
 # Certificate chain not trusted by lychee's TLS stack; opens fine in a browser.
 https://www.register-iri.com
+# Returns 403 to automated requests and from some networks; opens normally in Safari.
+https://datalastic.com
