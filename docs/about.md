@@ -1,5 +1,6 @@
 ---
 title: "About, licence and contact"
+description: "Licence, disclaimer, contact and the rest of our repositories."
 ---
 
 ## Licence

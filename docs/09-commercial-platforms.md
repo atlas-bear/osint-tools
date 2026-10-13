@@ -1,5 +1,6 @@
 ---
 title: "Commercial platforms"
+description: "The enterprise vessel-tracking and risk platforms, what each does, and the free sources that answer the same question more slowly."
 ---
 
 > **Read this first.** The platforms on this page are enterprise products priced for shipping companies, insurers, banks and governments. Most publish no price; expect a contract rather than a credit card. We list them because readers ask what the big names do, and because reports and news stories cite them. For most investigations the free sources on the earlier pages answer the same question, more slowly. Each group below names the free page to start from.

@@ -1,5 +1,6 @@
 ---
 title: "Utilities, code and our tools"
+description: "Libraries and small tools for working with ships at scale, starting with the two we wrote: equasis-cli and cue-kit."
 ---
 
 Once you are looking at more than a handful of ships, you need code. It queries Equasis in batches, decodes AIS messages, plots a million positions, and archives what you found before it changes. These are the libraries and small tools we reach for, starting with the two we wrote ourselves.

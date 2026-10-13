@@ -1,5 +1,6 @@
 ---
 title: "Vessel tracking (AIS)"
+description: "Where a ship is now and where it has been: live AIS maps, the free government and NGO archives, and feeds to build on."
 ---
 
 Where is a ship now, and where has it been? The commercial maps answer the first question for free and charge for the second. The free route to history is the government and NGO data below. It covers more than most people expect: the whole US coast since 2009, Norway since 2005 with satellite AIS included, and Global Fishing Watch's global record since 2012. For a live feed to build on, aisstream.io costs nothing, and a receiver of your own costs about the price of a textbook.

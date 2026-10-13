@@ -1,5 +1,6 @@
 ---
 title: "Vessel identity and inspections"
+description: "Who a ship is and who runs it: IMO lookups, ownership and management registers, port state inspections and class records."
 ---
 
 Who is this ship, who runs it, and has anyone inspected it lately? Start from the IMO number, because names, flags, MMSIs and call signs all change and the IMO number does not. Equasis and GISIS give the registered owner and the managers for free. The port state control databases give detention and deficiency histories. The class registers tell you whether a recognised society still stands behind the hull. Beneficial ownership, the person behind the one-ship company, takes the corporate records on the [next page](03-ownership-sanctions.md).

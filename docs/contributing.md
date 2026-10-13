@@ -1,5 +1,6 @@
 ---
 title: "Contributing"
+description: "How to propose a tool or report a dead one, what earns a place on the list, and the entry format."
 ---
 
 Know of a tool we left off, or spotted one that has died, moved or lost its free tier? Please tell us. The easiest route is the [issue form](https://github.com/atlas-bear/osint-tools/issues/new/choose), which needs no Markdown. If you prefer a pull request, edit one page in `docs/` and follow the format below. We reply to every proposal, whether or not we add the tool.

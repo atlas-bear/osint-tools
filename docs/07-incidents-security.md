@@ -1,5 +1,6 @@
 ---
 title: "Security incidents and warnings"
+description: "Where ships report attacks and suspicious approaches, the historical incident series, the official warnings and the conflict maps."
 ---
 
 What has happened in this stretch of water, and what are the authorities warning about? The reporting centres below are where ships report attacks and suspicious approaches, and most publish their incident records and advisories for free. The NGA's anti-shipping activity messages go back decades and are the best free historical series of attacks with coordinates. Conflict maps round out the picture where war, rather than crime, is the hazard.

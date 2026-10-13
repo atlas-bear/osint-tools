@@ -1,5 +1,6 @@
 ---
 title: "Who owns the AIS data"
+description: "How most commercial AIS data came to belong to two companies, and what that means before you build on a free tier."
 ---
 
 Most of the commercial vessel-tracking data that analysts use now belongs to two companies, and it is worth knowing how that happened before you build a workflow on a free tier.

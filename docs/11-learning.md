@@ -1,5 +1,6 @@
 ---
 title: "Learning and reference"
+description: "Guides, handbooks, training and the general OSINT lists that cover everything this list leaves out on purpose."
 ---
 
 The method matters more than the tool. These are the guides we point students to, the training we run or take part in, and the general OSINT lists that cover everything this list leaves out on purpose.

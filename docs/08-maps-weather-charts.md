@@ -1,5 +1,6 @@
 ---
 title: "Maps, weather and charts"
+description: "The maps, historical imagery, weather, currents and charts that earn a maritime sentence beyond the general OSINT toolkits."
 ---
 
 The general mapping tools every OSINT analyst uses are covered well by [Bellingcat's toolkit](https://bellingcat.gitbook.io/toolkit) and we do not repeat them. The ones here earn a maritime sentence. Historical imagery shows a port changing. Russian and Chinese maps cover ports the Western providers cover thinly. Weather and currents test whether a claimed track is physically possible, and charts check draught against depth.

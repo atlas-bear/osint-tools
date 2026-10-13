@@ -1,5 +1,6 @@
 ---
 title: "Archive"
+description: "Tools that were on this list and no longer are, with a date and a reason for each."
 ---
 
 Tools that were on this list and no longer are. We keep them here, with a date and a reason, so that people who remember a tool can see what happened to it, and so that nobody adds it back by mistake. Dead sites are named without links.
