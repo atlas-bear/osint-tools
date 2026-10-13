@@ -707,7 +707,7 @@
   - Security incidents and warnings
   - Freemium
 - title: MARA
-  subtitle: Paid (contact us) · Atlas Bear (ours)
+  subtitle: Paid (contact us) · AB//LABS (ours)
   description: 'Our maritime security intelligence platform: round-the-clock monitoring of security incidents with alerts, intelligence reports, daily hot spots and country and port indices. Feedback and the public roadmap are on GitHub.'
   path: 07-incidents-security.html#reporting-centres-and-advisories
   categories:
@@ -1113,14 +1113,14 @@
   - Utilities, code and our tools
   - Free
 - title: cue-kit
-  subtitle: Free (open source, AGPL-3.0) · Atlas Bear (ours)
+  subtitle: Free (open source, AGPL-3.0) · AB//LABS (ours)
   description: Turns a video URL or file into extracted frames and a timestamped transcript that a language model can actually read, with a bundled Claude Code skill for asking questions about footage. Alpha, and useful for port and vessel videos.
   path: 10-utilities-code.html#our-tools
   categories:
   - Utilities, code and our tools
   - Free
 - title: equasis-cli
-  subtitle: Free (open source, PolyForm Noncommercial) · Atlas Bear (ours)
+  subtitle: Free (open source, PolyForm Noncommercial) · AB//LABS (ours)
   description: Looks up vessels, port state inspections, ownership history and company fleets in Equasis from the command line, an interactive shell or Python, handles batches of hundreds of ships, and flags renames, reflagging, detentions and missing P&I cover. Needs your own free Equasis account; install from PyPI or this repository only.
   path: 10-utilities-code.html#our-tools
   categories:
@@ -1197,8 +1197,8 @@
   - Learning and reference
   - Free
 - title: Atlas Bear Academy
-  subtitle: Paid (contact us) · Atlas Bear (ours)
-  description: Our professional development programmes in maritime security and supply chain intelligence.
+  subtitle: Paid (contact us) · Atlas Bear
+  description: Professional development programmes in maritime security and supply chain intelligence from Atlas Bear, the company AB//LABS spun off from; our people teach on them.
   path: 11-learning.html#training
   categories:
   - Learning and reference

@@ -33,7 +33,7 @@ Tools that were on this list and no longer are. We keep them here, with a date a
 | PeakFinder | peakfinder.org | peakfinder.com |
 | SubTel Forum cable map | /online-map/ | /submarine-cable-map/ |
 | MSCHOA | Maritime Security Centre Horn of Africa (mschoa.org) | Maritime Security Centre Indian Ocean (mscio.eu), run by EU Naval Force. |
-| Supply Chain Management Tools | A separate Atlas Bear repository of open-source ERP software (Apache OFBiz, OpenBoxes, OpenLMIS, Odoo, xTuple) | Folded into this list in October 2026 and retired. They are operations software, not intelligence sources. xTuple has been closed source since 2019 and was bought by CAI Software in 2022; the other four are alive and well for people who need an ERP. |
+| Supply Chain Management Tools | A separate repository of ours listing open-source ERP software (Apache OFBiz, OpenBoxes, OpenLMIS, Odoo, xTuple) | Folded into this list in October 2026 and retired. They are operations software, not intelligence sources. xTuple has been closed source since 2019 and was bought by CAI Software in 2022; the other four are alive and well for people who need an ERP. |
 
 ## Dropped as off-topic
 

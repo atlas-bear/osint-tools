@@ -6,6 +6,7 @@ All notable changes to this list are recorded here. The format follows [Keep a C
 
 ### Changed
 
+- Ownership wording, contacts and names now reflect AB//LABS, which began as Atlas Bear Labs and spun off from Atlas Bear; the connection is explained in About. Copyright lines read AB//LABS (formerly Atlas Bear Labs); contact is `support@ab-labs.io`.
 - The website is now built with Quarto instead of MkDocs Material, with the same pages, a Browse page (a filterable card grid of every tool, generated from the entries) and the shared Atlas Bear theme. The pages in `docs/` now carry a front-matter title instead of a top heading; the README is unchanged.
 
 ## [2.0.0] - 2026-10-12

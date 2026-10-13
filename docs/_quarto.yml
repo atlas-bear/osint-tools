@@ -7,7 +7,7 @@ project:
 
 website:
   title: "Maritime and Supply Chain OSINT Tools"
-  description: "A curated, verified list of maritime and supply-chain OSINT tools and data sources, by Atlas Bear Labs."
+  description: "A curated, verified list of maritime and supply-chain OSINT tools and data sources, by AB//LABS."
   site-url: https://atlas-bear.github.io/osint-tools/
   repo-url: https://github.com/atlas-bear/osint-tools
   repo-subdir: docs
@@ -24,7 +24,7 @@ website:
       - text: Browse
         href: browse.qmd
     right:
-      - text: Atlas Bear Library
+      - text: Library
         href: https://atlas-bear.github.io/
   sidebar:
     style: docked
@@ -55,14 +55,14 @@ website:
       - contributing.md
       - about.md
   page-footer:
-    left: "Copyright 2024-2026 Atlas Bear. List and data files licensed MIT. Each tool has its own terms."
+    left: "Copyright 2024-2026 AB//LABS (formerly Atlas Bear Labs). List and data files licensed MIT. Each tool has its own terms."
     right:
-      - text: Atlas Bear Library
+      - text: Library
         href: https://atlas-bear.github.io/
-      - text: atlasbear.co
-        href: https://atlasbear.co
+      - text: ab-labs.io
+        href: https://ab-labs.io
       - text: Contact
-        href: mailto:support@atlasbear.co
+        href: mailto:support@ab-labs.io
 
 format:
   atlas-bear/theme-html:

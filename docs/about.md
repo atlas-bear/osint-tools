@@ -16,13 +16,13 @@ A few entries are hosted in jurisdictions you may not want a case machine to con
 
 - Corrections, dead links and proposals: the [issue forms](https://github.com/atlas-bear/osint-tools/issues/new/choose).
 - Questions and discussion: [GitHub Discussions](https://github.com/atlas-bear/osint-tools/discussions).
-- Anything else: [support@atlasbear.co](mailto:support@atlasbear.co).
+- Anything else: [support@ab-labs.io](mailto:support@ab-labs.io).
 
 ## Acknowledgments
 
 Thanks to everyone who has proposed tools, reported dead links and corrected us. Thanks in particular to the maintainers of the open AIS feeds and the public registries listed here, who keep this field open at all. Thanks also to the organisers and participants of the Summer School on Illicit Trade, where much of this list is put to work each year.
 
-## Atlas Bear ecosystem
+## Our repositories
 
 | Repository | Purpose | Status |
 | --- | --- | --- |
@@ -33,6 +33,6 @@ Thanks to everyone who has proposed tools, reported dead links and corrected us.
 | [cue-kit](https://github.com/atlas-bear/cue-kit) | Turn video into frames and transcripts for analysis | ![Last commit](https://img.shields.io/github/last-commit/atlas-bear/cue-kit) |
 | [mara-roadmap](https://github.com/atlas-bear/mara-roadmap) | Public roadmap and feedback for [MARA](https://maraiq.com), our maritime security intelligence platform | ![Last commit](https://img.shields.io/github/last-commit/atlas-bear/mara-roadmap) |
 
-Everything above is gathered at the [Atlas Bear Library](https://atlas-bear.github.io/).
+Everything above is gathered at the [Library](https://atlas-bear.github.io/). AB//LABS began as Atlas Bear Labs, the technical side of [Atlas Bear](https://atlasbear.co), and is now a company of its own. The two still work together, and our repositories keep the `atlas-bear` name on GitHub for now.
 
-**Learn more:** [Atlas Bear Academy](https://www.atlasbear.academy), [atlasbear.co](https://atlasbear.co) and [Waterline](https://maraiq.substack.com/), our newsletter. **Contact:** [support@atlasbear.co](mailto:support@atlasbear.co).
+**Learn more:** [ab-labs.io](https://ab-labs.io), [Atlas Bear](https://atlasbear.co) and its [Academy](https://www.atlasbear.academy), and [Waterline](https://maraiq.substack.com/), our newsletter. **Contact:** [support@ab-labs.io](mailto:support@ab-labs.io).
