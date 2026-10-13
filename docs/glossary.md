@@ -1,5 +1,6 @@
 ---
 title: "Glossary"
+description: "Short definitions of the identifiers, data types and inspection terms the entries use."
 ---
 
 Short definitions of the terms the entries use. The [UN AIS Handbook](https://unstats.un.org/wiki/spaces/AIS/overview) and the IMO's [identification number page](https://www.imo.org/en/OurWork/IIIS/Pages/IMO-Identification-Number-Schemes.aspx) go deeper.

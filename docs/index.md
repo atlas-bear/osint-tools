@@ -1,5 +1,6 @@
 ---
 title: "Maritime and Supply Chain OSINT Tools"
+description: "A verified list of the tools and data sources we use to track ships, cargo and trade, with who runs each and what it costs."
 ---
 
 ![Tools](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fatlas-bear%2Fosint-tools%2Fmain%2Ftools.json&query=%24.count&label=tools&color=blue)

@@ -1,5 +1,6 @@
 ---
 title: "Cargo, containers and trade data"
+description: "Container tracking, bills of lading and trade statistics, for checking what is in the box and whether a trade flow makes sense."
 ---
 
 What is in the box, who shipped it, and does the trade flow make sense? Container tracking is free as long as you have a container or booking number. Shipment records come from customs releases of bills of lading, which are public in the United States and sold everywhere else. Trade statistics from the UN, the World Bank and national agencies are free and are the quickest way to check whether a claimed flow is plausible at all.

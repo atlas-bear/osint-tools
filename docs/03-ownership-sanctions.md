@@ -1,5 +1,6 @@
 ---
 title: "Ownership, sanctions and shadow fleet"
+description: "Who stands behind a one-ship company: corporate records, leaks databases, sanctions lists and the shadow fleet trackers."
 ---
 
 The registered owner on a ship's papers is usually a one-ship company. Finding who stands behind it means corporate records, leaks databases and sanctions lists, and the free sources here are the same ones the big platforms build on. The fishing lists sit at the bottom because illegal fishing uses the same tricks (reflagging, renaming, dark periods) and the same tools find it. Tracking data for fishing vessels is on the [vessel tracking](01-vessel-tracking.md) page.

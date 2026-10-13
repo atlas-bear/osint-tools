@@ -1,5 +1,6 @@
 ---
 title: "Satellite imagery and detection"
+description: "Testing what AIS tells you with free radar and optical imagery, and the detection tools that find ships that stopped transmitting."
 ---
 
 Imagery is how you test what AIS tells you. Radar (SAR) sees ships through cloud and at night and is the main free way to find a vessel that has stopped transmitting; optical imagery confirms what the radar return is. The European Sentinel satellites make both free, with a revisit of a few days. Sentinel Hub's EO Browser, which many guides still link, was retired on 20 March 2026; the Copernicus Browser is its free replacement. Commercial high-resolution imagery is sold per scene, but two operators publish open samples and Vantor releases free imagery after major disasters.

@@ -1,5 +1,6 @@
 ---
 title: "Ports, chokepoints and infrastructure"
+description: "Port and chokepoint traffic, what a port can handle, and the fixed geography of the sea: cables, pipelines, terminals and boundaries."
 ---
 
 What is normal for this port or strait, and what has changed? The IMF's PortWatch is the free answer for traffic volumes at ports and chokepoints; the NGA's World Port Index tells you what a port can physically handle. The rest of this page is the fixed geography of the sea: cables, pipelines, terminals and the boundaries that decide whose rules apply.
