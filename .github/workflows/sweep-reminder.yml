@@ -1,0 +1,39 @@
+name: Sweep reminder
+
+on:
+  schedule:
+    - cron: "0 7 1 3 *"
+    - cron: "0 7 1 9 *"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  remind:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Open the sweep issue
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          year=$(date -u +%Y)
+          season=$([ "$(date -u +%m)" -lt 7 ] && echo Spring || echo Autumn)
+          title="$season $year sweep of the tools list"
+          if [ "$(gh issue list --repo "${{ github.repository }}" --label sweep --state open --json number --jq 'length')" != "0" ]; then
+            echo "an open sweep issue already exists"; exit 0
+          fi
+          cat > /tmp/sweep.md <<'BODY'
+          Time for the twice-yearly sweep of the tools list. One branch, one PR; each page gets a new `*Last checked*` date only after every item on it has been looked at.
+
+          - [ ] Open every link on every page (the monthly link check only catches dead ones; this is for sites that moved, changed hands or paywalled a free tier).
+          - [ ] Re-check each entry's owner, access term and any price or date in the qualifier; prices older than a year get re-verified or removed.
+          - [ ] Look for renames and acquisitions since the last sweep (AIS providers, imagery, trade data vendors) and update the "Who owns the AIS data" note if the ownership picture changed.
+          - [ ] Move dead or withdrawn tools to the archive with a date and a reason; look at the open proposals and the forks for candidates.
+          - [ ] Re-read each page intro for anything now wrong, and the glossary for new terms the entries use.
+          - [ ] Update the `*Last checked*` line on each page, run `python scripts/build_readme.py`, and check the badge count still matches.
+          - [ ] Check for a newer stable Quarto and a newer release of `atlas-bear/quarto-theme`; bump the workflow pin and run `quarto update atlas-bear/quarto-theme` if so.
+          - [ ] Add the CHANGELOG entry, merge, and cut the release.
+          BODY
+          gh issue create --repo "${{ github.repository }}" --label sweep --title "$title" --body-file /tmp/sweep.md
