@@ -743,7 +743,7 @@ The list, the text and the data files (`tools.json`, `tools.csv`) are released u
 
 Listing a tool is not an endorsement. We check that each tool is live, that we can name who runs it, and that its access terms are what the entry says. We do not audit the accuracy of the data a tool returns. Prices and free tiers change without notice, so treat every price here as a snapshot from the date next to it.
 
-A few entries are hosted in jurisdictions you may not want a case machine to connect to, and several require an account that logs what you search. Where we know this, the entry says so. The [OPSEC parts of our AI guide](https://atlas-bear.github.io/osint-ai-guide/05-opsec/) cover the general practice.
+A few entries are hosted in jurisdictions you may not want a case machine to connect to, and several require an account that logs what you search. Where we know this, the entry says so. The [OPSEC parts of our AI guide](https://atlas-bear.github.io/osint-ai-guide/05-opsec.html) cover the general practice.
 
 ### Contact and support
 
