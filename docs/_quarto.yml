@@ -55,7 +55,7 @@ website:
       - contributing.md
       - about.md
   page-footer:
-    left: "Copyright 2024-2026 AB//LABS (formerly Atlas Bear Labs). List and data files licensed MIT. Each tool has its own terms."
+    left: "Copyright 2024-2026 AB//LABS (formerly Atlas|Bear Labs). List and data files licensed MIT. Each tool has its own terms."
     right:
       - text: Library
         href: https://atlas-bear.github.io/
