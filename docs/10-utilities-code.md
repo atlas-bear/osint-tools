@@ -6,8 +6,8 @@ Once you are looking at more than a handful of ships, you need code. It queries 
 
 ## Our tools
 
-- **[equasis-cli](https://github.com/rhinonix/equasis-cli)** · Free (open source, PolyForm Noncommercial) · Atlas Bear (ours) · Looks up vessels, port state inspections, ownership history and company fleets in Equasis from the command line, an interactive shell or Python, handles batches of hundreds of ships, and flags renames, reflagging, detentions and missing P&I cover. Needs your own free Equasis account; install from PyPI or this repository only.
-- **[cue-kit](https://github.com/atlas-bear/cue-kit)** · Free (open source, AGPL-3.0) · Atlas Bear (ours) · Turns a video URL or file into extracted frames and a timestamped transcript that a language model can actually read, with a bundled Claude Code skill for asking questions about footage. Alpha, and useful for port and vessel videos.
+- **[equasis-cli](https://github.com/rhinonix/equasis-cli)** · Free (open source, PolyForm Noncommercial) · AB//LABS (ours) · Looks up vessels, port state inspections, ownership history and company fleets in Equasis from the command line, an interactive shell or Python, handles batches of hundreds of ships, and flags renames, reflagging, detentions and missing P&I cover. Needs your own free Equasis account; install from PyPI or this repository only.
+- **[cue-kit](https://github.com/atlas-bear/cue-kit)** · Free (open source, AGPL-3.0) · AB//LABS (ours) · Turns a video URL or file into extracted frames and a timestamped transcript that a language model can actually read, with a bundled Claude Code skill for asking questions about footage. Alpha, and useful for port and vessel videos.
 
 ## Libraries and code
 

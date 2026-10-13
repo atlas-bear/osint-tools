@@ -8,7 +8,7 @@
 ![Check links](https://github.com/atlas-bear/osint-tools/actions/workflows/links.yml/badge.svg)
 ![License](https://img.shields.io/github/license/atlas-bear/osint-tools)
 
-> Part of the [Atlas Bear Library](https://atlas-bear.github.io/), where Atlas Bear Labs gathers its public guides, lists and tools. Read this list as a website at [atlas-bear.github.io/osint-tools](https://atlas-bear.github.io/osint-tools/), or download it as [tools.json](tools.json) or [tools.csv](tools.csv).
+> Part of the [Library](https://atlas-bear.github.io/), where AB//LABS gathers its public guides, lists and tools. Read this list as a website at [atlas-bear.github.io/osint-tools](https://atlas-bear.github.io/osint-tools/), or download it as [tools.json](tools.json) or [tools.csv](tools.csv).
 
 **Related resources:**
 
@@ -18,7 +18,7 @@
 
 ---
 
-Atlas Bear Labs created this repository to share the tools we use in our own research. We hope they are useful to others doing maritime and supply chain work. The list covers applications, sites, data sets and code for tracking ships, cargo and trade, finding out who owns and runs a vessel, and checking what you find against imagery, inspection records and sanctions lists.
+We at AB//LABS created this repository to share the tools we use in our own research. We hope they are useful to others doing maritime and supply chain work. The list covers applications, sites, data sets and code for tracking ships, cargo and trade, finding out who owns and runs a vessel, and checking what you find against imagery, inspection records and sanctions lists.
 
 Every entry was opened and checked on the date at the bottom of its page. Each one names who runs the tool and what it costs, because both have changed a lot since we started the list, and because the market for vessel data has consolidated into a few owners. There is a short [note on that](#who-owns-the-ais-data) after the tracking page.
 
@@ -93,7 +93,7 @@ This is not an exhaustive list, and it is not meant to be. We list what works fo
   - [Disclaimer](#disclaimer)
   - [Contact and support](#contact-and-support)
   - [Acknowledgments](#acknowledgments)
-  - [Atlas Bear ecosystem](#atlas-bear-ecosystem)
+  - [Our repositories](#our-repositories)
 <!-- /TOC -->
 
 ---
@@ -387,7 +387,7 @@ Our own platform, MARA, is on this page too. It is a commercial product and we s
 - **[MICA Center](https://www.mica-center.org/)** · Free · French Navy · The Brest centre that hosts MDAT-GoG, the French and British reporting and advisory service for the Gulf of Guinea, and publishes annual and weekly maritime security reports.
 - **[NGA Maritime Safety Information](https://msi.nga.mil/)** · Free · US National Geospatial-Intelligence Agency · Navigation warnings, broadcast warnings and the Anti-Shipping Activity Messages (ASAM) database, a geocoded record of attacks and suspicious approaches going back to the 1980s.
 - **[ONI Worldwide Threat to Shipping](https://www.oni.navy.mil/news/shipping-threat-reports/)** · Free · US Office of Naval Intelligence · Weekly summary of threats and incidents by region, compiled from the reporting centres and open sources.
-- **[MARA](https://maraiq.com/)** · Paid (contact us) · Atlas Bear (ours) · Our maritime security intelligence platform: round-the-clock monitoring of security incidents with alerts, intelligence reports, daily hot spots and country and port indices. Feedback and the public roadmap are on GitHub.
+- **[MARA](https://maraiq.com/)** · Paid (contact us) · AB//LABS (ours) · Our maritime security intelligence platform: round-the-clock monitoring of security incidents with alerts, intelligence reports, daily hot spots and country and port indices. Feedback and the public roadmap are on GitHub.
 - **[Phantom Tide](https://phantom.labs.jamessawyer.co.uk/)** · Free account (Starter tier; higher tiers exist, prices not published, 2026-10) · James Sawyer · Analyst dashboard that ranks hotspots where vessel tracks, aircraft, navigation warnings, weather, satellite detections and GNSS interference overlap, with a notebook and area reports. A hosted app with closed source; the public repository holds the docs and release notes.
 
 ### Conflict maps and event databases
@@ -514,8 +514,8 @@ Once you are looking at more than a handful of ships, you need code. It queries 
 
 ### Our tools
 
-- **[equasis-cli](https://github.com/rhinonix/equasis-cli)** · Free (open source, PolyForm Noncommercial) · Atlas Bear (ours) · Looks up vessels, port state inspections, ownership history and company fleets in Equasis from the command line, an interactive shell or Python, handles batches of hundreds of ships, and flags renames, reflagging, detentions and missing P&I cover. Needs your own free Equasis account; install from PyPI or this repository only.
-- **[cue-kit](https://github.com/atlas-bear/cue-kit)** · Free (open source, AGPL-3.0) · Atlas Bear (ours) · Turns a video URL or file into extracted frames and a timestamped transcript that a language model can actually read, with a bundled Claude Code skill for asking questions about footage. Alpha, and useful for port and vessel videos.
+- **[equasis-cli](https://github.com/rhinonix/equasis-cli)** · Free (open source, PolyForm Noncommercial) · AB//LABS (ours) · Looks up vessels, port state inspections, ownership history and company fleets in Equasis from the command line, an interactive shell or Python, handles batches of hundreds of ships, and flags renames, reflagging, detentions and missing P&I cover. Needs your own free Equasis account; install from PyPI or this repository only.
+- **[cue-kit](https://github.com/atlas-bear/cue-kit)** · Free (open source, AGPL-3.0) · AB//LABS (ours) · Turns a video URL or file into extracted frames and a timestamped transcript that a language model can actually read, with a bundled Claude Code skill for asking questions about footage. Alpha, and useful for port and vessel videos.
 
 ### Libraries and code
 
@@ -563,7 +563,7 @@ The method matters more than the tool. These are the guides we point students to
 ### Training
 
 - **[Summer School on Illicit Trade](https://www.rug.nl/education/summer-winter-schools/illicit-trade)** · Paid (fee published per edition) · University of Groningen · The annual summer school where this list gets used and tested each year, with sessions on maritime and supply-chain OSINT.
-- **[Atlas Bear Academy](https://www.atlasbear.academy/)** · Paid (contact us) · Atlas Bear (ours) · Our professional development programmes in maritime security and supply chain intelligence.
+- **[Atlas Bear Academy](https://www.atlasbear.academy/)** · Paid (contact us) · Atlas Bear · Professional development programmes in maritime security and supply chain intelligence from Atlas Bear, the company AB//LABS spun off from; our people teach on them.
 
 ### Other lists
 
@@ -653,7 +653,7 @@ Tools that were on this list and no longer are. We keep them here, with a date a
 | PeakFinder | peakfinder.org | peakfinder.com |
 | SubTel Forum cable map | /online-map/ | /submarine-cable-map/ |
 | MSCHOA | Maritime Security Centre Horn of Africa (mschoa.org) | Maritime Security Centre Indian Ocean (mscio.eu), run by EU Naval Force. |
-| Supply Chain Management Tools | A separate Atlas Bear repository of open-source ERP software (Apache OFBiz, OpenBoxes, OpenLMIS, Odoo, xTuple) | Folded into this list in October 2026 and retired. They are operations software, not intelligence sources. xTuple has been closed source since 2019 and was bought by CAI Software in 2022; the other four are alive and well for people who need an ERP. |
+| Supply Chain Management Tools | A separate repository of ours listing open-source ERP software (Apache OFBiz, OpenBoxes, OpenLMIS, Odoo, xTuple) | Folded into this list in October 2026 and retired. They are operations software, not intelligence sources. xTuple has been closed source since 2019 and was bought by CAI Software in 2022; the other four are alive and well for people who need an ERP. |
 
 ### Dropped as off-topic
 
@@ -749,13 +749,13 @@ A few entries are hosted in jurisdictions you may not want a case machine to con
 
 - Corrections, dead links and proposals: the [issue forms](https://github.com/atlas-bear/osint-tools/issues/new/choose).
 - Questions and discussion: [GitHub Discussions](https://github.com/atlas-bear/osint-tools/discussions).
-- Anything else: [support@atlasbear.co](mailto:support@atlasbear.co).
+- Anything else: [support@ab-labs.io](mailto:support@ab-labs.io).
 
 ### Acknowledgments
 
 Thanks to everyone who has proposed tools, reported dead links and corrected us. Thanks in particular to the maintainers of the open AIS feeds and the public registries listed here, who keep this field open at all. Thanks also to the organisers and participants of the Summer School on Illicit Trade, where much of this list is put to work each year.
 
-### Atlas Bear ecosystem
+### Our repositories
 
 | Repository | Purpose | Status |
 | --- | --- | --- |
@@ -766,9 +766,9 @@ Thanks to everyone who has proposed tools, reported dead links and corrected us.
 | [cue-kit](https://github.com/atlas-bear/cue-kit) | Turn video into frames and transcripts for analysis | ![Last commit](https://img.shields.io/github/last-commit/atlas-bear/cue-kit) |
 | [mara-roadmap](https://github.com/atlas-bear/mara-roadmap) | Public roadmap and feedback for [MARA](https://maraiq.com), our maritime security intelligence platform | ![Last commit](https://img.shields.io/github/last-commit/atlas-bear/mara-roadmap) |
 
-Everything above is gathered at the [Atlas Bear Library](https://atlas-bear.github.io/).
+Everything above is gathered at the [Library](https://atlas-bear.github.io/). AB//LABS began as Atlas Bear Labs, the technical side of [Atlas Bear](https://atlasbear.co), and is now a company of its own. The two still work together, and our repositories keep the `atlas-bear` name on GitHub for now.
 
-**Learn more:** [Atlas Bear Academy](https://www.atlasbear.academy), [atlasbear.co](https://atlasbear.co) and [Waterline](https://maraiq.substack.com/), our newsletter. **Contact:** [support@atlasbear.co](mailto:support@atlasbear.co).
+**Learn more:** [ab-labs.io](https://ab-labs.io), [Atlas Bear](https://atlasbear.co) and its [Academy](https://www.atlasbear.academy), and [Waterline](https://maraiq.substack.com/), our newsletter. **Contact:** [support@ab-labs.io](mailto:support@ab-labs.io).
 
 [↑ Back to top](#maritime-and-supply-chain-osint-tools)
 

@@ -15,7 +15,7 @@ Entry format (one line per tool, on the pages listed in ENTRY_PAGES):
     - **[Name](https://example.org/)** · Access · Owner · What it does, in one or two sentences.
 
 Access is one of the words in ACCESS, with an optional qualifier in
-parentheses. Owner is required. Atlas Bear tools carry "(ours)" in the owner
+parentheses. Owner is required. Our own tools carry "(ours)" in the owner
 field. Each entries page ends with a line "*Last checked YYYY-MM-DD.*".
 """
 import csv
