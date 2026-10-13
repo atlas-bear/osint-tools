@@ -6,6 +6,7 @@ All notable changes to this list are recorded here. The format follows [Keep a C
 
 ### Changed
 
+- The website moved to <https://library.ab-labs.io/osint-tools/>. The old atlas-bear.github.io address redirects there, so existing links keep working.
 - Ownership wording, contacts and names now reflect AB//LABS, which began as Atlas|Bear Labs and spun off from Atlas|Bear; the connection is explained in About. Copyright lines read AB//LABS (formerly Atlas|Bear Labs); contact is `support@ab-labs.io`.
 - The website is now built with Quarto instead of MkDocs Material, with the same pages, a Browse page (a filterable card grid of every tool, generated from the entries) and the shared theme. The pages in `docs/` now carry a front-matter title instead of a top heading; the README is unchanged.
 

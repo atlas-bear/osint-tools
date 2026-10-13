@@ -8,7 +8,7 @@ title: "Maritime and Supply Chain OSINT Tools"
 ![Check links](https://github.com/atlas-bear/osint-tools/actions/workflows/links.yml/badge.svg)
 ![License](https://img.shields.io/github/license/atlas-bear/osint-tools)
 
-> Part of the [Library](https://atlas-bear.github.io/), where AB//LABS gathers its public guides, lists and tools. Read this list as a website at [atlas-bear.github.io/osint-tools](https://atlas-bear.github.io/osint-tools/), or download it as [tools.json](https://github.com/atlas-bear/osint-tools/blob/main/tools.json) or [tools.csv](https://github.com/atlas-bear/osint-tools/blob/main/tools.csv).
+> Part of the [Library](https://library.ab-labs.io/), where AB//LABS gathers its public guides, lists and tools. Read this list as a website at [library.ab-labs.io/osint-tools](https://library.ab-labs.io/osint-tools/), or download it as [tools.json](https://github.com/atlas-bear/osint-tools/blob/main/tools.json) or [tools.csv](https://github.com/atlas-bear/osint-tools/blob/main/tools.csv).
 
 **Related resources:**
 
