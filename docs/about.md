@@ -33,6 +33,6 @@ Thanks to everyone who has proposed tools, reported dead links and corrected us.
 | [cue-kit](https://github.com/atlas-bear/cue-kit) | Turn video into frames and transcripts for analysis | ![Last commit](https://img.shields.io/github/last-commit/atlas-bear/cue-kit) |
 | [mara-roadmap](https://github.com/atlas-bear/mara-roadmap) | Public roadmap and feedback for [MARA](https://maraiq.com), our maritime security intelligence platform | ![Last commit](https://img.shields.io/github/last-commit/atlas-bear/mara-roadmap) |
 
-Everything above is gathered at the [Library](https://atlas-bear.github.io/). AB//LABS began as Atlas Bear Labs, the technical side of [Atlas Bear](https://atlasbear.co), and is now a company of its own. The two still work together, and our repositories keep the `atlas-bear` name on GitHub for now.
+Everything above is gathered at the [Library](https://atlas-bear.github.io/). AB//LABS began as Atlas|Bear Labs, the technical side of [Atlas|Bear](https://atlasbear.co), and is now a company of its own. The two still work together, and our repositories keep the `atlas-bear` name on GitHub for now.
 
-**Learn more:** [ab-labs.io](https://ab-labs.io), [Atlas Bear](https://atlasbear.co) and its [Academy](https://www.atlasbear.academy), and [Waterline](https://maraiq.substack.com/), our newsletter. **Contact:** [support@ab-labs.io](mailto:support@ab-labs.io).
+**Learn more:** [ab-labs.io](https://ab-labs.io), [Atlas|Bear](https://atlasbear.co) and its [Academy](https://www.atlasbear.academy), and [Waterline](https://maraiq.substack.com/), our newsletter. **Contact:** [support@ab-labs.io](mailto:support@ab-labs.io).

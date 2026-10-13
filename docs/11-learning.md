@@ -27,7 +27,7 @@ The method matters more than the tool. These are the guides we point students to
 ## Training
 
 - **[Summer School on Illicit Trade](https://www.rug.nl/education/summer-winter-schools/illicit-trade)** · Paid (fee published per edition) · University of Groningen · The annual summer school where this list gets used and tested each year, with sessions on maritime and supply-chain OSINT.
-- **[Atlas Bear Academy](https://www.atlasbear.academy/)** · Paid (contact us) · Atlas Bear · Professional development programmes in maritime security and supply chain intelligence from Atlas Bear, the company AB//LABS spun off from; our people teach on them.
+- **[Atlas|Bear Academy](https://www.atlasbear.academy/)** · Paid (contact us) · Atlas|Bear · Professional development programmes in maritime security and supply chain intelligence from Atlas|Bear, the company AB//LABS spun off from; our people teach on them.
 
 ## Other lists
 
