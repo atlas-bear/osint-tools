@@ -1,8 +1,10 @@
-## Satellite imagery and detection
+---
+title: "Satellite imagery and detection"
+---
 
 Imagery is how you test what AIS tells you. Radar (SAR) sees ships through cloud and at night and is the main free way to find a vessel that has stopped transmitting; optical imagery confirms what the radar return is. The European Sentinel satellites make both free, with a revisit of a few days. Sentinel Hub's EO Browser, which many guides still link, was retired on 20 March 2026; the Copernicus Browser is its free replacement. Commercial high-resolution imagery is sold per scene, but two operators publish open samples and Vantor releases free imagery after major disasters.
 
-### Free imagery browsers and archives
+## Free imagery browsers and archives
 
 - **[Copernicus Browser](https://browser.dataspace.copernicus.eu/)** · Free account · European Space Agency for the European Commission · Sentinel-1 radar and Sentinel-2 optical imagery with search, time-lapse and download. Sentinel-1 is back to a six-day revisit since the 1C and 1D satellites came into service in 2025 and 2026.
 - **[Copernicus Data Space](https://dataspace.copernicus.eu/)** · Free account · European Space Agency · The APIs behind the browser (STAC, OData and processing) for pulling Sentinel data into your own tools.
@@ -11,7 +13,7 @@ Imagery is how you test what AIS tells you. Radar (SAR) sees ships through cloud
 - **[OpenAerialMap](https://map.openaerialmap.org/)** · Free (open licences) · Humanitarian OpenStreetMap Team · Openly licensed aerial and drone imagery uploaded by mappers and responders, much of it very high resolution and much of it after disasters. Patchy, but where it exists it beats satellite imagery.
 - **[EOS LandViewer](https://eos.com/landviewer/)** · Freemium · EOS Data Analytics · Browser for Sentinel, Landsat and some commercial imagery with analysis tools; the free tier allows a small number of scenes a month.
 
-### Dark vessel and anomaly detection
+## Dark vessel and anomaly detection
 
 - **[Bellingcat Ship Detection Tool](https://ollielballinger.users.earthengine.app/view/ship-detection-tool)** · Free · Ollie Ballinger for Bellingcat · Counts and plots ships in Sentinel-1 radar imagery for any area and date range, including ships with AIS off. Runs in Google Earth Engine; Bellingcat's 2023 guide explains the method.
 - **[Global Fishing Watch data portal](https://globalfishingwatch.org/data-download/)** · Free account (non-commercial) · Global Fishing Watch · Downloads of radar vessel detections matched to AIS (from 2017), fishing effort and other derived datasets. The radar layer is the simplest global view of unmatched, likely dark, vessels.
@@ -19,7 +21,7 @@ Imagery is how you test what AIS tells you. Radar (SAR) sees ships through cloud
 - **[Skylight](https://www.skylight.global/)** · On application · Allen Institute for AI (Ai2) · Maritime monitoring platform that fuses AIS, radar and optical detections into alerts, free to governments, regional bodies and NGOs working on illegal fishing and maritime security.
 - **[VIIRS Boat Detection](https://eogdata.mines.edu/products/vbd/)** · Free · Earth Observation Group, Colorado School of Mines · Nightly detections of lit fishing boats from the VIIRS day-night band, useful for squid and other light-attracting fleets.
 
-### Open commercial imagery
+## Open commercial imagery
 
 - **[Vantor Open Data Program](https://vantor.com/company/open-data-program/)** · Free (CC BY-NC 4.0) · Vantor (formerly Maxar Intelligence) · High-resolution before-and-after imagery released for major disasters as a catalogue on AWS. Event-driven rather than on demand, and non-commercial use only.
 - **[Vantor Discover](https://xpress.maxar.com/)** · Freemium · Vantor · Browse previews of the commercial high-resolution archive for free; buying a scene is quote-based. The portal kept its Maxar address after the 2025 rename.

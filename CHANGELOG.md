@@ -4,6 +4,10 @@ All notable changes to this list are recorded here. The format follows [Keep a C
 
 ## [Unreleased]
 
+### Changed
+
+- The website is now built with Quarto instead of MkDocs Material, with the same pages, a Browse page (a filterable card grid of every tool, generated from the entries) and the shared Atlas Bear theme. The pages in `docs/` now carry a front-matter title instead of a top heading; the README is unchanged.
+
 ## [2.0.0] - 2026-10-12
 
 A full rebuild. Every entry was re-verified, the list grew from 45 to well over a hundred tools, and the repository gained a website, data exports and continuous checks.

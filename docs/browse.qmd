@@ -1,0 +1,16 @@
+---
+title: "Browse all tools"
+description: "Filter the whole list by name, page or access."
+listing:
+  contents: listing.yml
+  type: grid
+  grid-columns: 3
+  sort: false
+  categories: true
+  fields: [title, subtitle, description, categories]
+  filter-ui: true
+  page-size: 24
+toc: false
+---
+
+Every tool on the list as a card. Type in the filter box to search names, owners and descriptions, or click a page or an access term on the right to narrow the grid. Each card opens the section of the page where the tool is listed, with its neighbours for context. The same data is in [tools.json](https://github.com/atlas-bear/osint-tools/blob/main/tools.json) and [tools.csv](https://github.com/atlas-bear/osint-tools/blob/main/tools.csv).

@@ -26,11 +26,14 @@ import pathlib
 import re
 import sys
 
+import yaml
+
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 DOCS = ROOT / "docs"
 README = ROOT / "README.md"
 TOOLS_JSON = ROOT / "tools.json"
 TOOLS_CSV = ROOT / "tools.csv"
+LISTING = ROOT / "docs" / "listing.yml"
 
 ORDER = [
     "index.md",
@@ -178,13 +181,17 @@ def build():
         if not path.exists():
             errors.append(f"docs/{name}: missing")
             continue
-        text = path.read_text(encoding="utf-8")
+        try:
+            text = readme_form(path.read_text(encoding="utf-8"), name)
+        except BuildError as err:
+            errors.append(str(err))
+            continue
         if name in ENTRY_PAGES:
             all_entries.extend(parse_entries(text, name, errors))
         elif "—" in text:
             errors.append(f"docs/{name}: em dash")
         text = re.sub(r"\]\([0-9a-z-]+\.md#([^)]+)\)", r"](#\1)", text)       # cross-page -> in-page
-        text = re.sub(r"\]\([0-9a-z-]+\.md\)", lambda m: "](#" + slug(first_h2(DOCS / m.group(0)[2:-1])) + ")", text)
+        text = re.sub(r"\]\([0-9a-z-]+\.md\)", lambda m: "](#" + slug(page_title(DOCS / m.group(0)[2:-1])) + ")", text)
         for f in REPO_FILES:
             text = text.replace(f"]({REPO_BLOB}{f})", f"]({f})")             # site URLs -> repo-relative
         for chunk in split_h2(text):
@@ -220,11 +227,43 @@ def build():
     return text, all_entries
 
 
-def first_h2(path):
-    for line in path.read_text(encoding="utf-8").splitlines():
-        if line.startswith("## "):
-            return line[3:]
-    raise BuildError(f"{path.name}: no H2 heading to link to")
+FRONT = re.compile(r'^---\ntitle: "(?P<title>[^"\n]+)"\n(?:[^\n]*\n)*?---\n\n?', re.S)
+
+
+def page_title(path):
+    m = FRONT.match(path.read_text(encoding="utf-8"))
+    if not m:
+        raise BuildError(f"{path.name}: no front-matter title")
+    return m.group("title")
+
+
+def readme_form(text, name):
+    """A docs page (front-matter title, H2 subsections) as README text: the title becomes
+    an H1 for the front page and an H2 elsewhere, and body headings move down one level."""
+    m = FRONT.match(text)
+    if not m:
+        raise BuildError(f"docs/{name}: no front-matter title")
+    body = text[m.end():]
+    if name == "index.md":
+        return f"# {m.group('title')}\n\n{body}"
+    body = re.sub(r"^(#{2,5}) ", lambda h: "#" + h.group(1) + " ", body, flags=re.M)
+    return f"## {m.group('title')}\n\n{body}"
+
+
+def listing_yaml(entries):
+    """Cards for the Browse page: a Quarto listing, one item per tool, linking to its section."""
+    rows = []
+    for e in entries:
+        anchor = slug(e["section"] or e["category"])
+        rows.append({
+            "title": e["name"],
+            "subtitle": f"{e['access']}{' (' + e['access_note'] + ')' if e['access_note'] else ''} · {e['owner']}",
+            "description": e["description"],
+            "path": e["page"].replace(".md", ".html") + "#" + anchor,
+            "categories": [e["category"], e["access"]],
+        })
+    return ("# GENERATED FILE. Do not edit by hand. It is built from the pages in docs/ by scripts/build_readme.py\n"
+            + yaml.safe_dump(rows, allow_unicode=True, sort_keys=False, width=1000))
 
 
 def exports(entries):
@@ -246,19 +285,19 @@ def main():
         print(f"build failed:\n{err}", file=sys.stderr)
         return 1
     js, cs = exports(entries)
-    targets = [(README, text), (TOOLS_JSON, js), (TOOLS_CSV, cs)]
+    targets = [(README, text), (TOOLS_JSON, js), (TOOLS_CSV, cs), (LISTING, listing_yaml(entries))]
     if "--check" in sys.argv:
         stale = [p.name for p, want in targets
                  if not p.exists() or p.open(encoding="utf-8", newline="").read() != want]
         if stale:
             print(f"out of date: {', '.join(stale)}. Run: python scripts/build_readme.py", file=sys.stderr)
             return 1
-        print(f"README.md, tools.json and tools.csv match docs/ ({len(entries)} tools)")
+        print(f"README.md, tools.json, tools.csv and docs/listing.yml match docs/ ({len(entries)} tools)")
         return 0
     for p, want in targets:
         with p.open("w", encoding="utf-8", newline="") as fh:
             fh.write(want)
-    print(f"wrote README.md ({len(text.splitlines())} lines), tools.json and tools.csv ({len(entries)} tools)")
+    print(f"wrote README.md ({len(text.splitlines())} lines), tools.json, tools.csv and docs/listing.yml ({len(entries)} tools)")
     return 0
 
 

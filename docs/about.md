@@ -1,26 +1,28 @@
-## About, licence and contact
+---
+title: "About, licence and contact"
+---
 
-### Licence
+## Licence
 
 The list, the text and the data files (`tools.json`, `tools.csv`) are released under the [MIT License](https://github.com/atlas-bear/osint-tools/blob/main/LICENSE). Every tool on the list has its own licence and terms of use, and several of the free sources are free for non-commercial use only. Read the terms before you build on a source, and before you redistribute its data.
 
-### Disclaimer
+## Disclaimer
 
 Listing a tool is not an endorsement. We check that each tool is live, that we can name who runs it, and that its access terms are what the entry says. We do not audit the accuracy of the data a tool returns. Prices and free tiers change without notice, so treat every price here as a snapshot from the date next to it.
 
 A few entries are hosted in jurisdictions you may not want a case machine to connect to, and several require an account that logs what you search. Where we know this, the entry says so. The [OPSEC parts of our AI guide](https://atlas-bear.github.io/osint-ai-guide/05-opsec/) cover the general practice.
 
-### Contact and support
+## Contact and support
 
 - Corrections, dead links and proposals: the [issue forms](https://github.com/atlas-bear/osint-tools/issues/new/choose).
 - Questions and discussion: [GitHub Discussions](https://github.com/atlas-bear/osint-tools/discussions).
 - Anything else: [support@atlasbear.co](mailto:support@atlasbear.co).
 
-### Acknowledgments
+## Acknowledgments
 
 Thanks to everyone who has proposed tools, reported dead links and corrected us. Thanks in particular to the maintainers of the open AIS feeds and the public registries listed here, who keep this field open at all. Thanks also to the organisers and participants of the Summer School on Illicit Trade, where much of this list is put to work each year.
 
-### Atlas Bear ecosystem
+## Atlas Bear ecosystem
 
 | Repository | Purpose | Status |
 | --- | --- | --- |

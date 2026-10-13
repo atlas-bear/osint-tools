@@ -1,10 +1,12 @@
-## Commercial platforms
+---
+title: "Commercial platforms"
+---
 
 > **Read this first.** The platforms on this page are enterprise products priced for shipping companies, insurers, banks and governments. Most publish no price; expect a contract rather than a credit card. We list them because readers ask what the big names do, and because reports and news stories cite them. For most investigations the free sources on the earlier pages answer the same question, more slowly. Each group below names the free page to start from.
 
 Ownership changes fast in this market. Kpler owns MarineTraffic, FleetMon and the former Spire Maritime; S&P Global owns the Sea-web ship database and Panjiva; Lloyd's List Intelligence belongs to Montagu; Windward to FTV Capital. The [AIS data note](ais-data-note.md) has the details and dates.
 
-### Vessel tracking and maritime intelligence
+## Vessel tracking and maritime intelligence
 
 Free alternatives: [vessel tracking](01-vessel-tracking.md) and [vessel identity](02-vessel-identity.md).
 
@@ -19,7 +21,7 @@ Free alternatives: [vessel tracking](01-vessel-tracking.md) and [vessel identity
 - **[Worldwide AIS Network](https://www.worldwideais.org/)** · Enterprise quote · Worldwide AIS Network ApS, Copenhagen · Live and regional AIS feeds over REST, WebSocket and raw NMEA, with a free data sample for evaluation. A smaller alternative to the Kpler and S&P feeds.
 - **[Datalastic](https://datalastic.com/)** · Paid (from about €199/month, 2026-10) · Datalastic · A developer-oriented AIS and vessel data API, one of the cheaper paid routes to programmatic positions. The site refuses some automated and overseas requests.
 
-### Radar, optical and RF detection
+## Radar, optical and RF detection
 
 Free alternatives: [satellite imagery and detection](04-satellite-imagery.md).
 
@@ -29,7 +31,7 @@ Free alternatives: [satellite imagery and detection](04-satellite-imagery.md).
 - **[SynMax](https://www.synmax.com/)** · Enterprise quote · SynMax · Theia, a dark vessel detection platform combining radar and optical imagery with AIS.
 - **[Planet](https://www.planet.com/)** · Enterprise quote · Planet Labs · Daily optical imagery of the whole land surface and coasts, plus the Sentinel Hub APIs under the Planet Insights Platform.
 
-### Ownership, sanctions and risk
+## Ownership, sanctions and risk
 
 Free alternatives: [ownership, sanctions and shadow fleet](03-ownership-sanctions.md).
 
@@ -38,7 +40,7 @@ Free alternatives: [ownership, sanctions and shadow fleet](03-ownership-sanction
 - **[Altana](https://altana.ai/)** · Enterprise quote · Altana · Supply chain network mapping across shipment and corporate records.
 - **[Sourcemap](https://www.sourcemap.com/)** · Enterprise quote · Sourcemap · Supplier mapping and traceability for regulatory due diligence. The free edition we once listed is gone.
 
-### Trade and shipment data
+## Trade and shipment data
 
 Free alternatives: [cargo, containers and trade data](06-cargo-trade.md).
 
@@ -49,7 +51,7 @@ Free alternatives: [cargo, containers and trade data](06-cargo-trade.md).
 - **[Linerlytica](https://www.linerlytica.com/)** · Paid · Linerlytica · Container shipping market analysis and port congestion tracking.
 - **[Sea-Intelligence](https://www.sea-intelligence.com/)** · Paid · Sea-Intelligence · Liner schedule reliability and container market research.
 
-### Security and risk advisories
+## Security and risk advisories
 
 Free alternatives: [security incidents and warnings](07-incidents-security.md).
 

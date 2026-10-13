@@ -1,4 +1,6 @@
-# Maritime and Supply Chain OSINT Tools
+---
+title: "Maritime and Supply Chain OSINT Tools"
+---
 
 ![Tools](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fatlas-bear%2Fosint-tools%2Fmain%2Ftools.json&query=%24.count&label=tools&color=blue)
 ![Last checked](https://img.shields.io/badge/last%20checked-2026--10-blue)

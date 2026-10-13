@@ -1,4 +1,6 @@
-## Who owns the AIS data
+---
+title: "Who owns the AIS data"
+---
 
 Most of the commercial vessel-tracking data that analysts use now belongs to two companies, and it is worth knowing how that happened before you build a workflow on a free tier.
 
@@ -6,13 +8,13 @@ Most of the commercial vessel-tracking data that analysts use now belongs to two
 
 **S&P Global** merged with IHS Markit on [28 February 2022](https://press.spglobal.com/2022-02-28-S-P-Global-Completes-Merger-with-IHS-Markit,-Creating-a-Global-Leader-to-Power-the-Markets-of-the-Future). That brought it the ship database that began life as Lloyd's Register-Fairplay (sold today as Sea-web and the Maritime Portal) and the Panjiva trade data. S&P Global also [assigns IMO ship numbers](https://www.imo.org/en/OurWork/IIIS/Pages/IMO-Identification-Number-Schemes.aspx) on the IMO's behalf, free of charge, and on 10 November 2025 it [completed the purchase of ORBCOMM's satellite AIS business](https://press.spglobal.com/2025-11-10-S-P-Global-Announces-Successful-Completion-of-its-Acquisition-of-ORBCOMMs-Automatic-Identification-System-Business). Of the other names you will meet, Lloyd's List Intelligence was [sold by Informa to Montagu Private Equity](https://montagu.com/montagu-acquires-maritime-intelligence-from-informa-plc/) in 2022, and Windward was [taken private by FTV Capital](https://www.uktech.news/ai/maritime-ai-firm-windward-bought-by-ftv-capital-in-216m-deal-20241224) in early 2025.
 
-### Why it matters
+## Why it matters
 
 Terrestrial AIS is collected by thousands of receivers, many of them run by volunteers who are [rewarded with subscriptions](https://support.marinetraffic.com/en/articles/9552976-what-benefits-do-i-get-as-an-ais-partner) rather than paid. The aggregated data is then sold back, and the free tiers have narrowed. A free MarineTraffic account shows about a day of track and no port calls or ownership, and the [Density plan was retired in 2025](https://support.marinetraffic.com/en/articles/13456094-mobile-pro-plan-faq). History, which is what an investigation needs, sits behind the paywall. Even the main NGO dataset depends on these companies: Global Fishing Watch [buys its AIS](https://globalfishingwatch.org/faqs/data-source-updates) from Spire (since 2023) and MarineTraffic (since 2024), and both now belong to Kpler.
 
 None of this is a complaint about the companies. Collecting, cleaning and serving AIS at global scale costs money. It is a reason to know the open sources, to keep copies of what you download, and to say in your reports which source and date range you used.
 
-### What is still open
+## What is still open
 
 - **United States**: NOAA and BOEM publish every year of US-waters AIS since 2009 through MarineCadastre, free and without an account.
 - **Norway**: the Coastal Administration publishes a live feed under an open licence and historical files back to 2005 that include satellite AIS, with full history on application.

@@ -1,8 +1,10 @@
-## Archive
+---
+title: "Archive"
+---
 
 Tools that were on this list and no longer are. We keep them here, with a date and a reason, so that people who remember a tool can see what happened to it, and so that nobody adds it back by mistake. Dead sites are named without links.
 
-### Shut down, merged or gone
+## Shut down, merged or gone
 
 | Tool | What it was | Retired | Why |
 | --- | --- | --- | --- |
@@ -19,7 +21,7 @@ Tools that were on this list and no longer are. We keep them here, with a date a
 | TankerTrackers retail tiers | Individual subscriptions | By 2026 | Closed to new subscribers; corporate plans only. |
 | Bing Maps for Enterprise | Developer API behind many map mashups | Free keys June 2025, paid June 2028 | Microsoft is retiring the API. The consumer Bing Maps site is unaffected. |
 
-### Renamed or moved
+## Renamed or moved
 
 | Tool | Was | Now |
 | --- | --- | --- |
@@ -33,6 +35,6 @@ Tools that were on this list and no longer are. We keep them here, with a date a
 | MSCHOA | Maritime Security Centre Horn of Africa (mschoa.org) | Maritime Security Centre Indian Ocean (mscio.eu), run by EU Naval Force. |
 | Supply Chain Management Tools | A separate Atlas Bear repository of open-source ERP software (Apache OFBiz, OpenBoxes, OpenLMIS, Odoo, xTuple) | Folded into this list in October 2026 and retired. They are operations software, not intelligence sources. xTuple has been closed source since 2019 and was bought by CAI Software in 2022; the other four are alive and well for people who need an ERP. |
 
-### Dropped as off-topic
+## Dropped as off-topic
 
 Removed in the October 2026 rebuild because they are general tools with no maritime use beyond what the maps page covers, or because they add nothing. They are CrewLinker (a seafarer job board), DuckDuckGo Maps (a wrapper around Apple Maps), Satellites.pro (repackaged imagery from an unnamed operator), F4map (3D city views) and HERE WeGo (a general map).
