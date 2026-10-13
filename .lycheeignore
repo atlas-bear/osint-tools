@@ -35,3 +35,6 @@ https://www.kaggle.com
 https://maraiq.substack.com
 # Returns intermittent 503s to automated checks; the search page works in a browser.
 https://cgmix.uscg.mil
+# Intermittent 500s and 403s to GitHub-hosted runners; both open normally in a browser.
+https://www.operations.amsa.gov.au
+https://liveuamap.com
