@@ -1,0 +1,1310 @@
+# GENERATED FILE. Do not edit by hand. It is built from the pages in docs/ by scripts/build_readme.py
+- title: AIS-catcher
+  subtitle: Free (open source, GPL-3.0) · jvde-github
+  description: Turns an RTL-SDR or similar dongle and a small computer into an AIS receiver with a web map, and feeds AISHub or the commercial networks. Range is line of sight, a few tens of nautical miles.
+  path: 01-vessel-tracking.html#raw-feeds-and-your-own-receiver
+  categories:
+  - Vessel tracking (AIS)
+  - Free
+- title: AISHub
+  subtitle: Share-to-get · AISHub
+  description: A pooled raw AIS feed and API that you get access to by contributing a live feed from your own receiver. Live data only.
+  path: 01-vessel-tracking.html#raw-feeds-and-your-own-receiver
+  categories:
+  - Vessel tracking (AIS)
+  - Share-to-get
+- title: aisstream.io
+  subtitle: Free account · aisstream.io (community project)
+  description: A live global WebSocket feed of AIS messages, filtered by bounding box or MMSI, with GitHub sign-in. No history, three connections per account, and connections must come from a server rather than a browser.
+  path: 01-vessel-tracking.html#raw-feeds-and-your-own-receiver
+  categories:
+  - Vessel tracking (AIS)
+  - Free account
+- title: AMSA vessel traffic data
+  subtitle: Free · Australian Maritime Safety Authority
+  description: Monthly AIS shapefiles for the Australian search-and-rescue region, at roughly hourly positions. Good free history for the Indo-Pacific approaches.
+  path: 01-vessel-tracking.html#open-government-ais-data
+  categories:
+  - Vessel tracking (AIS)
+  - Free
+- title: BarentsWatch AIS API
+  subtitle: Free account · BarentsWatch, Norway
+  description: Developer API over the Norwegian AIS feed with about two weeks of history. Norway only.
+  path: 01-vessel-tracking.html#open-government-ais-data
+  categories:
+  - Vessel tracking (AIS)
+  - Free account
+- title: Danish AIS data
+  subtitle: Free · Danish Maritime Authority
+  description: Daily files of AIS for Danish waters, the approach to the Baltic. The shore network moved to the Danish Emergency Management Agency; historical files are supplied on application.
+  path: 01-vessel-tracking.html#open-government-ais-data
+  categories:
+  - Vessel tracking (AIS)
+  - Free
+- title: Digitraffic Marine
+  subtitle: Free (CC BY 4.0) · Fintraffic, Finland
+  description: Live AIS over REST and MQTT plus Portnet port-call schedules, with commercial use allowed. Finland and the northern Baltic only; requests need a `Digitraffic-User` header.
+  path: 01-vessel-tracking.html#open-government-ais-data
+  categories:
+  - Vessel tracking (AIS)
+  - Free
+- title: Global Fishing Watch APIs
+  subtitle: Free account (non-commercial) · Global Fishing Watch
+  description: Vessel search, events, presence grids from 2012 to about four days ago, and radar detections through a documented API with a Python client. No commercial licence is offered.
+  path: 01-vessel-tracking.html#open-government-ais-data
+  categories:
+  - Vessel tracking (AIS)
+  - Free account
+- title: Global Fishing Watch map
+  subtitle: Free account · Global Fishing Watch
+  description: Tracks from 2012, port visits, encounters, loitering, AIS gaps and radar detections for the whole world. Built around fishing and carrier vessels, and about three days behind live.
+  path: 01-vessel-tracking.html#live-maps-with-a-free-tier
+  categories:
+  - Vessel tracking (AIS)
+  - Free account
+- title: Kystverket AIS
+  subtitle: Free (NLOD open licence) · Norwegian Coastal Administration
+  description: A live API for the Norwegian economic zone with no registration, plus historical files back to 2005 that include Norway's own satellite AIS. Small fishing and leisure craft are excluded, and full history needs an application.
+  path: 01-vessel-tracking.html#open-government-ais-data
+  categories:
+  - Vessel tracking (AIS)
+  - Free
+- title: MarineCadastre vessel traffic
+  subtitle: Free · NOAA and BOEM
+  description: Bulk US-waters AIS from 2009 to the previous year, filtered to one position a minute, with GeoParquet files from 2024 onward. The deepest free raw AIS archive anywhere, but US waters only.
+  path: 01-vessel-tracking.html#open-government-ais-data
+  categories:
+  - Vessel tracking (AIS)
+  - Free
+- title: MarineRadar
+  subtitle: Freemium · Lascade, Dubai
+  description: Live terrestrial and satellite AIS for more than 100,000 vessels with route playback, on the web and in mobile apps. Subscription prices are not published.
+  path: 01-vessel-tracking.html#live-maps-with-a-free-tier
+  categories:
+  - Vessel tracking (AIS)
+  - Freemium
+- title: MarineTraffic
+  subtitle: Freemium · Kpler
+  description: The largest crowd-sourced AIS map, with vessel pages, port calls and photos. Free accounts see about a day of track and no port calls or ownership; Kpler has owned it since March 2023 and the free tier has narrowed since.
+  path: 01-vessel-tracking.html#live-maps-with-a-free-tier
+  categories:
+  - Vessel tracking (AIS)
+  - Freemium
+- title: MyShipTracking
+  subtitle: Freemium · MyShipTracking
+  description: Terrestrial AIS map with a credit-based API and a free trial key. Coverage is near-shore only.
+  path: 01-vessel-tracking.html#live-maps-with-a-free-tier
+  categories:
+  - Vessel tracking (AIS)
+  - Freemium
+- title: OpenCPN
+  subtitle: Free (open source, GPL-2.0) · OpenCPN project
+  description: A chart plotter that shows AIS from your receiver over real charts and keeps a local log. Useful for offline analysis of your own feed.
+  path: 01-vessel-tracking.html#raw-feeds-and-your-own-receiver
+  categories:
+  - Vessel tracking (AIS)
+  - Free
+- title: ShipAtlas
+  subtitle: Freemium (from €10/month, 2026-10) · Maritime Optima, Norway
+  description: Satellite AIS positions, recent port calls and a sea-route calculator. The free tier is capped at ten satellite position views.
+  path: 01-vessel-tracking.html#live-maps-with-a-free-tier
+  categories:
+  - Vessel tracking (AIS)
+  - Freemium
+- title: Shipinfo.net
+  subtitle: Freemium · STELS A LLC, Russia
+  description: AIS map with waterway and port-congestion analytics and Northern Sea Route ice layers. Operated from Russia, so think about what you query from a case machine.
+  path: 01-vessel-tracking.html#live-maps-with-a-free-tier
+  categories:
+  - Vessel tracking (AIS)
+  - Freemium
+- title: ShipXplorer
+  subtitle: Freemium · AirNav Systems
+  description: AIS map fed by hobbyist receivers, from the company behind ShipSpotting. Hosting a receiver earns a premium account.
+  path: 01-vessel-tracking.html#live-maps-with-a-free-tier
+  categories:
+  - Vessel tracking (AIS)
+  - Freemium
+- title: Tradlinx vessel tracking
+  subtitle: Free · Tradlinx Inc., Seoul
+  description: Latest position, destination and identifiers for a ship by name, MMSI, IMO or call sign, with no account. Near-shore receivers only; satellite coverage is in the paid Ocean Visibility product.
+  path: 01-vessel-tracking.html#live-maps-with-a-free-tier
+  categories:
+  - Vessel tracking (AIS)
+  - Free
+- title: VesselFinder
+  subtitle: Freemium (Basic from €9/yr, 2026-10) · VesselFinder Ltd, Bulgaria
+  description: Live map and vessel particulars with the cheapest paid route to longer tracks (3, 7 or 90 days by tier). Its terms forbid scraping and building datasets.
+  path: 01-vessel-tracking.html#live-maps-with-a-free-tier
+  categories:
+  - Vessel tracking (AIS)
+  - Freemium
+- title: ABS Record
+  subtitle: Free · American Bureau of Shipping
+  description: Class records for ABS-classed ships.
+  path: 02-vessel-identity.html#identity-and-registration
+  categories:
+  - Vessel identity and inspections
+  - Free
+- title: Black Sea MoU
+  subtitle: Free · Black Sea MoU
+  description: Inspection records for the Black Sea states. The public database is developed and hosted by the Russian Federation, and may not load from every network.
+  path: 02-vessel-identity.html#port-state-control
+  categories:
+  - Vessel identity and inspections
+  - Free
+- title: ClassNK Register of Ships
+  subtitle: Free · Nippon Kaiji Kyokai
+  description: Class records for the Japanese society's large fleet.
+  path: 02-vessel-identity.html#identity-and-registration
+  categories:
+  - Vessel identity and inspections
+  - Free
+- title: DNV Vessel Register
+  subtitle: Free · DNV
+  description: Class status, surveys and certificates for ships classed by DNV.
+  path: 02-vessel-identity.html#identity-and-registration
+  categories:
+  - Vessel identity and inspections
+  - Free
+- title: Equasis
+  subtitle: Free account · EMSA and a consortium of maritime administrations
+  description: Particulars, registered owner and managers, class, P&I cover and port state inspections for most merchant ships, and from 2026 a record of ship-to-ship transfers. The first stop for any vessel.
+  path: 02-vessel-identity.html#identity-and-registration
+  categories:
+  - Vessel identity and inspections
+  - Free account
+- title: IMO GISIS
+  subtitle: Free account · International Maritime Organization
+  description: 'The IMO''s own ship and company records: name and flag history, IMO company numbers and registered addresses. The public modules need a free IMO web account.'
+  path: 02-vessel-identity.html#identity-and-registration
+  categories:
+  - Vessel identity and inspections
+  - Free account
+- title: Indian Ocean MoU
+  subtitle: Free · Indian Ocean MoU
+  description: Inspection and detention data for the Indian Ocean region.
+  path: 02-vessel-identity.html#port-state-control
+  categories:
+  - Vessel identity and inspections
+  - Free
+- title: ITU MARS ship station search
+  subtitle: Free · International Telecommunication Union
+  description: Looks up a ship by MMSI, call sign, name or distress-beacon identity and returns the administration that registered it. The quickest check that an MMSI matches a flag.
+  path: 02-vessel-identity.html#identity-and-registration
+  categories:
+  - Vessel identity and inspections
+  - Free
+- title: Liberian Registry
+  subtitle: Free · LISCR
+  description: Public vessel and certificate lookups for the Liberian flag.
+  path: 02-vessel-identity.html#identity-and-registration
+  categories:
+  - Vessel identity and inspections
+  - Free
+- title: Marshall Islands Registry
+  subtitle: Free · International Registries, Inc.
+  description: Public information and lookups for the Marshall Islands flag.
+  path: 02-vessel-identity.html#identity-and-registration
+  categories:
+  - Vessel identity and inspections
+  - Free
+- title: Panama Maritime Authority
+  subtitle: Free · Autoridad Marítima de Panamá
+  description: The world's largest flag registry; its public pages hold registry notices and verification services.
+  path: 02-vessel-identity.html#identity-and-registration
+  categories:
+  - Vessel identity and inspections
+  - Free
+- title: Ships IO
+  subtitle: Paid (30-day free trial, from $19.99/yr, 2026-10) · ShipVault LLC, Hawaii
+  description: Crowd-sourced database of about 160,000 large ships with technical and commercial details, linked companies, yards and parts. Cheap enough for individuals, but check its claims against Equasis.
+  path: 02-vessel-identity.html#identity-and-registration
+  categories:
+  - Vessel identity and inspections
+  - Paid
+- title: ShipSpotting
+  subtitle: Free account · AirNav Systems
+  description: Dated, crowd-sourced ship photos, useful for confirming a hull, a livery or a name change. Browsing is free; uploading needs an account.
+  path: 02-vessel-identity.html#photos-and-yachts
+  categories:
+  - Vessel identity and inspections
+  - Free account
+- title: Superyachts.com Top 100
+  subtitle: Free · Superyachts.com Ltd
+  description: Rankings and owner searches for the largest yachts, useful in sanctions and asset-tracing work.
+  path: 02-vessel-identity.html#photos-and-yachts
+  categories:
+  - Vessel identity and inspections
+  - Free
+- title: THETIS (Paris MoU)
+  subtitle: Free · EMSA for the Paris MoU
+  description: Inspection and detention records for ships calling in Europe, Canada and Russia's European ports.
+  path: 02-vessel-identity.html#port-state-control
+  categories:
+  - Vessel identity and inspections
+  - Free
+- title: Tokyo MoU APCIS
+  subtitle: Free · Tokyo MoU
+  description: Asia-Pacific inspection records in near real time. The database is hosted in Vladivostok.
+  path: 02-vessel-identity.html#port-state-control
+  categories:
+  - Vessel identity and inspections
+  - Free
+- title: USCG PSIX
+  subtitle: Free · US Coast Guard
+  description: 'Weekly snapshot of Coast Guard records: particulars, inspections, deficiencies and detentions for ships in US waters.'
+  path: 02-vessel-identity.html#port-state-control
+  categories:
+  - Vessel identity and inspections
+  - Free
+- title: ArcNautical
+  subtitle: Free · ArcNautical
+  description: Screens one IMO number against the OFAC, EU, UK and UN lists without an account, states which lists it could reach, and offers a keyless JSON endpoint. Launched in 2026; cross-check its result against OpenSanctions and the official lists.
+  path: 03-ownership-sanctions.html#sanctions-lists-and-screening
+  categories:
+  - Ownership, sanctions and shadow fleet
+  - Free
+- title: Combined IUU Vessel List
+  subtitle: Free · Trygg Mat Tracking
+  description: Every regional fisheries organisation's list of vessels caught fishing illegally, merged with Interpol notices, with name and flag history, alerts and a spreadsheet download.
+  path: 03-ownership-sanctions.html#fishing-and-iuu
+  categories:
+  - Ownership, sanctions and shadow fleet
+  - Free
+- title: EU Sanctions Map
+  subtitle: Free · European Union
+  description: Every EU sanctions regime with the legal acts and the listed persons, entities and vessels.
+  path: 03-ownership-sanctions.html#sanctions-lists-and-screening
+  categories:
+  - Ownership, sanctions and shadow fleet
+  - Free
+- title: FAO Global Record
+  subtitle: Free · UN Food and Agriculture Organization
+  description: The Global Record of Fishing Vessels, with a unique vessel identifier and quick search by IMO, MMSI or call sign.
+  path: 03-ownership-sanctions.html#fishing-and-iuu
+  categories:
+  - Ownership, sanctions and shadow fleet
+  - Free
+- title: GLEIF LEI search
+  subtitle: Free · Global Legal Entity Identifier Foundation
+  description: Legal entity identifiers with registered addresses and parent relationships for companies that have one. Good for banks, traders and larger shipowners.
+  path: 03-ownership-sanctions.html#corporate-and-beneficial-ownership
+  categories:
+  - Ownership, sanctions and shadow fleet
+  - Free
+- title: ICCAT Record of Vessels
+  subtitle: Free · International Commission for the Conservation of Atlantic Tunas
+  description: Authorised vessels and the Atlantic IUU list.
+  path: 03-ownership-sanctions.html#fishing-and-iuu
+  categories:
+  - Ownership, sanctions and shadow fleet
+  - Free
+- title: ICIJ Offshore Leaks Database
+  subtitle: Free · International Consortium of Investigative Journalists
+  description: Companies, officers and addresses from the Panama Papers, Paradise Papers, Pandora Papers and related leaks. The usual way into offshore shipowning structures.
+  path: 03-ownership-sanctions.html#corporate-and-beneficial-ownership
+  categories:
+  - Ownership, sanctions and shadow fleet
+  - Free
+- title: IOTC vessel records
+  subtitle: Free · Indian Ocean Tuna Commission
+  description: Authorised and IUU vessel lists for the Indian Ocean.
+  path: 03-ownership-sanctions.html#fishing-and-iuu
+  categories:
+  - Ownership, sanctions and shadow fleet
+  - Free
+- title: KSE Institute Shadow Fleet Tracker
+  subtitle: Free · Kyiv School of Economics Institute
+  description: Monthly reports on Russian seaborne oil exports and the tankers carrying them. Reports and data downloads rather than a vessel search.
+  path: 03-ownership-sanctions.html#shadow-fleet-trackers
+  categories:
+  - Ownership, sanctions and shadow fleet
+  - Free
+- title: OCCRP Aleph
+  subtitle: Free account · Organized Crime and Corruption Reporting Project
+  description: Searchable archive of company registries, leaks and documents. Some collections are open only to journalists.
+  path: 03-ownership-sanctions.html#corporate-and-beneficial-ownership
+  categories:
+  - Ownership, sanctions and shadow fleet
+  - Free account
+- title: OFAC Sanctions List Search
+  subtitle: Free · US Treasury
+  description: The official search of US designations, including vessels by IMO number.
+  path: 03-ownership-sanctions.html#sanctions-lists-and-screening
+  categories:
+  - Ownership, sanctions and shadow fleet
+  - Free
+- title: OpenCorporates
+  subtitle: Freemium · OpenCorporates
+  description: The largest open database of companies and officers, with searches free on the web and the API and bulk data paid. Free API access is available to public-benefit projects on application.
+  path: 03-ownership-sanctions.html#corporate-and-beneficial-ownership
+  categories:
+  - Ownership, sanctions and shadow fleet
+  - Freemium
+- title: OpenSanctions
+  subtitle: Freemium (free for non-commercial use) · OpenSanctions
+  description: Consolidated sanctions and politically exposed person data from more than a hundred sources, with vessels as entities matched to IMO numbers, flag histories and shadow-fleet tags. Commercial use needs a licence.
+  path: 03-ownership-sanctions.html#sanctions-lists-and-screening
+  categories:
+  - Ownership, sanctions and shadow fleet
+  - Freemium
+- title: Rendezvous
+  subtitle: Free account (early access, 2026-10) · Rendezvous, a non-profit foundation
+  description: An open platform on the Baltic shadow fleet whose tracker scores vessels with a calibrated machine-learning model over AIS silences, encounters, flag history and port calls, alongside commodity-flow data and maps of sensitive infrastructure. Early-stage, with deployments around the Gulf of Finland and the Kerch Strait; the technology page explains the method.
+  path: 03-ownership-sanctions.html#shadow-fleet-trackers
+  categories:
+  - Ownership, sanctions and shadow fleet
+  - Free account
+- title: UANI tanker tracker
+  subtitle: Free · United Against Nuclear Iran
+  description: A running list of several hundred tankers linked to Iranian oil. UANI is an advocacy group, so confirm against the official lists before you rely on an entry.
+  path: 03-ownership-sanctions.html#shadow-fleet-trackers
+  categories:
+  - Ownership, sanctions and shadow fleet
+  - Free
+- title: UK Sanctions List
+  subtitle: Free · UK Foreign, Commonwealth and Development Office
+  description: The UK's consolidated designations, including ships specified under the Russia regime.
+  path: 03-ownership-sanctions.html#sanctions-lists-and-screening
+  categories:
+  - Ownership, sanctions and shadow fleet
+  - Free
+- title: UN Security Council Consolidated List
+  subtitle: Free · United Nations Security Council
+  description: All individuals, entities and vessels listed by the Council's sanctions committees.
+  path: 03-ownership-sanctions.html#sanctions-lists-and-screening
+  categories:
+  - Ownership, sanctions and shadow fleet
+  - Free
+- title: WCPFC Record of Fishing Vessels
+  subtitle: Free · Western and Central Pacific Fisheries Commission
+  description: Public search and CSV download of vessels authorised to fish in the western and central Pacific, with photos and the option to include deleted records.
+  path: 03-ownership-sanctions.html#fishing-and-iuu
+  categories:
+  - Ownership, sanctions and shadow fleet
+  - Free
+- title: Bellingcat Ship Detection Tool
+  subtitle: Free · Ollie Ballinger for Bellingcat
+  description: Counts and plots ships in Sentinel-1 radar imagery for any area and date range, including ships with AIS off. Runs in Google Earth Engine; Bellingcat's 2023 guide explains the method.
+  path: 04-satellite-imagery.html#dark-vessel-and-anomaly-detection
+  categories:
+  - Satellite imagery and detection
+  - Free
+- title: Capella Open Data
+  subtitle: Free (CC BY 4.0) · Capella Space
+  description: Sample high-resolution radar scenes on AWS. Capella has been owned by IonQ since July 2025.
+  path: 04-satellite-imagery.html#open-commercial-imagery
+  categories:
+  - Satellite imagery and detection
+  - Free
+- title: Copernicus Browser
+  subtitle: Free account · European Space Agency for the European Commission
+  description: Sentinel-1 radar and Sentinel-2 optical imagery with search, time-lapse and download. Sentinel-1 is back to a six-day revisit since the 1C and 1D satellites came into service in 2025 and 2026.
+  path: 04-satellite-imagery.html#free-imagery-browsers-and-archives
+  categories:
+  - Satellite imagery and detection
+  - Free account
+- title: Copernicus Data Space
+  subtitle: Free account · European Space Agency
+  description: The APIs behind the browser (STAC, OData and processing) for pulling Sentinel data into your own tools.
+  path: 04-satellite-imagery.html#free-imagery-browsers-and-archives
+  categories:
+  - Satellite imagery and detection
+  - Free account
+- title: EOS LandViewer
+  subtitle: Freemium · EOS Data Analytics
+  description: Browser for Sentinel, Landsat and some commercial imagery with analysis tools; the free tier allows a small number of scenes a month.
+  path: 04-satellite-imagery.html#free-imagery-browsers-and-archives
+  categories:
+  - Satellite imagery and detection
+  - Freemium
+- title: Global Fishing Watch data portal
+  subtitle: Free account (non-commercial) · Global Fishing Watch
+  description: Downloads of radar vessel detections matched to AIS (from 2017), fishing effort and other derived datasets. The radar layer is the simplest global view of unmatched, likely dark, vessels.
+  path: 04-satellite-imagery.html#dark-vessel-and-anomaly-detection
+  categories:
+  - Satellite imagery and detection
+  - Free account
+- title: NASA FIRMS
+  subtitle: Free · NASA
+  description: Active fire and thermal anomaly detections, including flaring at offshore platforms and fires at sea.
+  path: 04-satellite-imagery.html#free-imagery-browsers-and-archives
+  categories:
+  - Satellite imagery and detection
+  - Free
+- title: NASA Worldview
+  subtitle: Free · NASA
+  description: Same-day, low-resolution global imagery from MODIS and VIIRS, enough to see weather, smoke, ice and large slicks.
+  path: 04-satellite-imagery.html#free-imagery-browsers-and-archives
+  categories:
+  - Satellite imagery and detection
+  - Free
+- title: OpenAerialMap
+  subtitle: Free (open licences) · Humanitarian OpenStreetMap Team
+  description: Openly licensed aerial and drone imagery uploaded by mappers and responders, much of it very high resolution and much of it after disasters. Patchy, but where it exists it beats satellite imagery.
+  path: 04-satellite-imagery.html#free-imagery-browsers-and-archives
+  categories:
+  - Satellite imagery and detection
+  - Free
+- title: SkyFi
+  subtitle: Paid · SkyFi
+  description: Marketplace for buying archive imagery or new tasking from several satellite operators by the scene, for people who need one picture rather than a contract.
+  path: 04-satellite-imagery.html#open-commercial-imagery
+  categories:
+  - Satellite imagery and detection
+  - Paid
+- title: Skylight
+  subtitle: On application · Allen Institute for AI (Ai2)
+  description: Maritime monitoring platform that fuses AIS, radar and optical detections into alerts, free to governments, regional bodies and NGOs working on illegal fishing and maritime security.
+  path: 04-satellite-imagery.html#dark-vessel-and-anomaly-detection
+  categories:
+  - Satellite imagery and detection
+  - On application
+- title: SkyTruth Cerulean
+  subtitle: Free · SkyTruth
+  description: Oil slicks detected in Sentinel-1 radar, with the likely source vessel or platform suggested from AIS, through a map and an API. Vessel attribution runs a few days behind.
+  path: 04-satellite-imagery.html#dark-vessel-and-anomaly-detection
+  categories:
+  - Satellite imagery and detection
+  - Free
+- title: Umbra Open Data
+  subtitle: Free (CC BY 4.0) · Umbra
+  description: Very high-resolution radar imagery of about twenty fixed sites, some of them ports, with no sign-up. A good way to learn what commercial SAR can show.
+  path: 04-satellite-imagery.html#open-commercial-imagery
+  categories:
+  - Satellite imagery and detection
+  - Free
+- title: Vantor Discover
+  subtitle: Freemium · Vantor
+  description: Browse previews of the commercial high-resolution archive for free; buying a scene is quote-based. The portal kept its Maxar address after the 2025 rename.
+  path: 04-satellite-imagery.html#open-commercial-imagery
+  categories:
+  - Satellite imagery and detection
+  - Freemium
+- title: Vantor Open Data Program
+  subtitle: Free (CC BY-NC 4.0) · Vantor (formerly Maxar Intelligence)
+  description: High-resolution before-and-after imagery released for major disasters as a catalogue on AWS. Event-driven rather than on demand, and non-commercial use only.
+  path: 04-satellite-imagery.html#open-commercial-imagery
+  categories:
+  - Satellite imagery and detection
+  - Free
+- title: VIIRS Boat Detection
+  subtitle: Free · Earth Observation Group, Colorado School of Mines
+  description: Nightly detections of lit fishing boats from the VIIRS day-night band, useful for squid and other light-attracting fleets.
+  path: 04-satellite-imagery.html#dark-vessel-and-anomaly-detection
+  categories:
+  - Satellite imagery and detection
+  - Free
+- title: Container Port Performance Index
+  subtitle: Free · World Bank and S&P Global Market Intelligence
+  description: Annual ranking of about 400 container ports by time in port, built from AIS, with the report and the data file for download.
+  path: 05-ports-infrastructure.html#ports-and-chokepoints
+  categories:
+  - Ports, chokepoints and infrastructure
+  - Free
+- title: Global Gas Infrastructure Tracker
+  subtitle: Free (CC BY 4.0) · Global Energy Monitor
+  description: LNG terminals and gas pipelines worldwide, with ownership and status, downloadable after a short form.
+  path: 05-ports-infrastructure.html#cables-pipelines-and-boundaries
+  categories:
+  - Ports, chokepoints and infrastructure
+  - Free
+- title: IMF PortWatch
+  subtitle: Free · International Monetary Fund with the University of Oxford
+  description: Daily port calls and trade volume estimates for about 1,800 ports and transit counts for the main chokepoints, updated weekly, with an ArcGIS API. The figures are modelled from AIS and get revised.
+  path: 05-ports-infrastructure.html#ports-and-chokepoints
+  categories:
+  - Ports, chokepoints and infrastructure
+  - Free
+- title: Marine Regions
+  subtitle: Free · Flanders Marine Institute (VLIZ)
+  description: Exclusive economic zones, territorial seas and other maritime boundaries as downloadable geodata. The reference layer for "whose waters is this ship in".
+  path: 05-ports-infrastructure.html#cables-pipelines-and-boundaries
+  categories:
+  - Ports, chokepoints and infrastructure
+  - Free
+- title: NGA World Port Index
+  subtitle: Free · US National Geospatial-Intelligence Agency
+  description: 'Publication 150: location, depths, facilities and services for several thousand ports, as a spreadsheet or GIS layer.'
+  path: 05-ports-infrastructure.html#ports-and-chokepoints
+  categories:
+  - Ports, chokepoints and infrastructure
+  - Free
+- title: OpenInfraMap
+  subtitle: Free · Russ Garrett
+  description: Power lines, telecoms, oil and gas infrastructure drawn from OpenStreetMap, including offshore platforms and pipelines.
+  path: 05-ports-infrastructure.html#cables-pipelines-and-boundaries
+  categories:
+  - Ports, chokepoints and infrastructure
+  - Free
+- title: Port Optimizer
+  subtitle: Free account · Port of Los Angeles with Wabtec
+  description: Volumes, forecasts and container tracking for the port of Los Angeles. One of the few ports that publishes forward-looking data.
+  path: 05-ports-infrastructure.html#ports-and-chokepoints
+  categories:
+  - Ports, chokepoints and infrastructure
+  - Free account
+- title: SubTel Forum Cable Map
+  subtitle: Free · Submarine Telecoms Forum
+  description: A second cable map that also shows the cable-ship fleet and planned systems.
+  path: 05-ports-infrastructure.html#cables-pipelines-and-boundaries
+  categories:
+  - Ports, chokepoints and infrastructure
+  - Free
+- title: TeleGeography Submarine Cable Map
+  subtitle: Free · TeleGeography
+  description: The standard interactive map of submarine cables and landing stations, covering 694 systems in its 2026 edition.
+  path: 05-ports-infrastructure.html#cables-pipelines-and-boundaries
+  categories:
+  - Ports, chokepoints and infrastructure
+  - Free
+- title: UNCTAD Liner Shipping Connectivity Index
+  subtitle: Free · UN Trade and Development
+  description: Quarterly index of how well each country and port is connected to container shipping networks, inside the UNCTADstat data centre.
+  path: 05-ports-infrastructure.html#ports-and-chokepoints
+  categories:
+  - Ports, chokepoints and infrastructure
+  - Free
+- title: BIC container owner codes
+  subtitle: Free · Bureau International des Containers
+  description: 'The register behind the first three letters of every container number: who owns or operates the box.'
+  path: 06-cargo-trade.html#container-tracking
+  categories:
+  - Cargo, containers and trade data
+  - Free
+- title: Drewry World Container Index
+  subtitle: Free (headline) · Drewry
+  description: Weekly spot container rates on the main east-west routes. The headline figures are free; the detail is a subscription.
+  path: 06-cargo-trade.html#freight-rates
+  categories:
+  - Cargo, containers and trade data
+  - Free
+- title: Eurostat Comext
+  subtitle: Free · Eurostat
+  description: EU trade in goods at eight-digit product detail by partner country and month.
+  path: 06-cargo-trade.html#trade-statistics
+  categories:
+  - Cargo, containers and trade data
+  - Free
+- title: Freightos Baltic Index
+  subtitle: Freemium · Freightos
+  description: Daily container spot index by lane; headline rates are free and the full series is paid.
+  path: 06-cargo-trade.html#freight-rates
+  categories:
+  - Cargo, containers and trade data
+  - Freemium
+- title: ImportYeti
+  subtitle: Freemium · ImportYeti
+  description: US import bills of lading searchable by company, supplier and product, free with limits on how much detail you see. The free way into the data Panjiva and ImportGenius sell.
+  path: 06-cargo-trade.html#bills-of-lading-and-facilities
+  categories:
+  - Cargo, containers and trade data
+  - Freemium
+- title: ITC Trade Map
+  subtitle: Free account · International Trade Centre
+  description: Trade flows, tariffs and market indicators by product and country, with company directories for some markets.
+  path: 06-cargo-trade.html#trade-statistics
+  categories:
+  - Cargo, containers and trade data
+  - Free account
+- title: OEC
+  subtitle: Freemium · Datawheel
+  description: Visual explorer of trade flows by country and product, built on Comtrade and national data. Good for a first picture; check the numbers at source.
+  path: 06-cargo-trade.html#trade-statistics
+  categories:
+  - Cargo, containers and trade data
+  - Freemium
+- title: Open Supply Hub
+  subtitle: Free (API from $225/month, 2026-10) · Open Supply Hub
+  description: An open database of production facilities with names, addresses and the brands that list them. Search and downloads are free; the API is paid.
+  path: 06-cargo-trade.html#bills-of-lading-and-facilities
+  categories:
+  - Cargo, containers and trade data
+  - Free
+- title: Resource Trade Earth
+  subtitle: Free · Chatham House
+  description: Trade in natural resources (fuels, metals, agricultural goods) by country pair, with maps and downloads.
+  path: 06-cargo-trade.html#trade-statistics
+  categories:
+  - Cargo, containers and trade data
+  - Free
+- title: SeaRates container tracking
+  subtitle: Freemium · DP World
+  description: Tracks by container, bill of lading or booking number across most carriers and shows the carrying vessel's position. Free lookups are limited without an account.
+  path: 06-cargo-trade.html#container-tracking
+  categories:
+  - Cargo, containers and trade data
+  - Freemium
+- title: ShipsGo
+  subtitle: Freemium · ShipsGo
+  description: Multi-carrier container tracking with a few free lookups, then per-shipment credits and an API.
+  path: 06-cargo-trade.html#container-tracking
+  categories:
+  - Cargo, containers and trade data
+  - Freemium
+- title: Track-Trace
+  subtitle: Free · Webfokus, Norway
+  description: Sends a container number to the right page of about 170 carriers. Nothing stored, nothing to sign up for.
+  path: 06-cargo-trade.html#container-tracking
+  categories:
+  - Cargo, containers and trade data
+  - Free
+- title: UN Comtrade
+  subtitle: Free account · UN Statistics Division
+  description: Bilateral trade by product code for almost every country, with a free API key subject to daily limits.
+  path: 06-cargo-trade.html#trade-statistics
+  categories:
+  - Cargo, containers and trade data
+  - Free account
+- title: USA Trade Online
+  subtitle: Free account · US Census Bureau
+  description: US imports and exports at ten-digit detail by country, district and port.
+  path: 06-cargo-trade.html#trade-statistics
+  categories:
+  - Cargo, containers and trade data
+  - Free account
+- title: WITS
+  subtitle: Free · World Bank
+  description: Trade and tariff data with bulk download and an API, drawing on Comtrade and tariff databases.
+  path: 06-cargo-trade.html#trade-statistics
+  categories:
+  - Cargo, containers and trade data
+  - Free
+- title: ACLED
+  subtitle: Free account (non-commercial) · Armed Conflict Location and Event Data
+  description: Coded political violence and protest events worldwide, including attacks on ports and shipping, downloadable after registration.
+  path: 07-incidents-security.html#conflict-maps-and-event-databases
+  categories:
+  - Security incidents and warnings
+  - Free account
+- title: Eyes on Russia map
+  subtitle: Free · Centre for Information Resilience
+  description: Verified, geolocated incidents from the war in Ukraine, including Black Sea and port events, built with C4ADS.
+  path: 07-incidents-security.html#conflict-maps-and-event-databases
+  categories:
+  - Security incidents and warnings
+  - Free
+- title: GDELT
+  subtitle: Free · The GDELT Project
+  description: Machine-coded records of news events and mentions worldwide, downloadable in bulk or through BigQuery. Noisy, but a quick way to see what was reported about a port or sea area on a given day.
+  path: 07-incidents-security.html#conflict-maps-and-event-databases
+  categories:
+  - Security incidents and warnings
+  - Free
+- title: IMB
+  subtitle: Free · ICC International Maritime Bureau
+  description: Runs the 24-hour Piracy Reporting Centre that collects attack reports worldwide and publishes quarterly statistics and an incident map.
+  path: 07-incidents-security.html#reporting-centres-and-advisories
+  categories:
+  - Security incidents and warnings
+  - Free
+- title: Liveuamap
+  subtitle: Freemium · Liveuamap
+  description: Geolocated news events, including strikes on shipping and ports in the Black Sea and the Red Sea. Ad-supported, with an optional ad-free subscription.
+  path: 07-incidents-security.html#conflict-maps-and-event-databases
+  categories:
+  - Security incidents and warnings
+  - Freemium
+- title: MARA
+  subtitle: Paid (contact us) · Atlas Bear (ours)
+  description: 'Our maritime security intelligence platform: round-the-clock monitoring of security incidents with alerts, intelligence reports, daily hot spots and country and port indices. Feedback and the public roadmap are on GitHub.'
+  path: 07-incidents-security.html#reporting-centres-and-advisories
+  categories:
+  - Security incidents and warnings
+  - Paid
+- title: Maritime Cyber Attack Database
+  subtitle: Free · NHL Stenden University of Applied Sciences, Netherlands
+  description: About 300 cyber incidents against ships, ports and maritime companies since 2001, with a map filterable by victim, attacker, country and year.
+  path: 07-incidents-security.html#conflict-maps-and-event-databases
+  categories:
+  - Security incidents and warnings
+  - Free
+- title: Maritime Security Centre Indian Ocean
+  subtitle: Free account · EU Naval Force
+  description: Threat assessments, incident updates and voluntary registration for ships transiting the Red Sea, Gulf of Aden and western Indian Ocean. The successor to MSCHOA, the Horn of Africa centre.
+  path: 07-incidents-security.html#reporting-centres-and-advisories
+  categories:
+  - Security incidents and warnings
+  - Free account
+- title: MICA Center
+  subtitle: Free · French Navy
+  description: The Brest centre that hosts MDAT-GoG, the French and British reporting and advisory service for the Gulf of Guinea, and publishes annual and weekly maritime security reports.
+  path: 07-incidents-security.html#reporting-centres-and-advisories
+  categories:
+  - Security incidents and warnings
+  - Free
+- title: NGA Maritime Safety Information
+  subtitle: Free · US National Geospatial-Intelligence Agency
+  description: Navigation warnings, broadcast warnings and the Anti-Shipping Activity Messages (ASAM) database, a geocoded record of attacks and suspicious approaches going back to the 1980s.
+  path: 07-incidents-security.html#reporting-centres-and-advisories
+  categories:
+  - Security incidents and warnings
+  - Free
+- title: ONI Worldwide Threat to Shipping
+  subtitle: Free · US Office of Naval Intelligence
+  description: Weekly summary of threats and incidents by region, compiled from the reporting centres and open sources.
+  path: 07-incidents-security.html#reporting-centres-and-advisories
+  categories:
+  - Security incidents and warnings
+  - Free
+- title: Phantom Tide
+  subtitle: Free account (Starter tier; higher tiers exist, prices not published, 2026-10) · James Sawyer
+  description: Analyst dashboard that ranks hotspots where vessel tracks, aircraft, navigation warnings, weather, satellite detections and GNSS interference overlap, with a notebook and area reports. A hosted app with closed source; the public repository holds the docs and release notes.
+  path: 07-incidents-security.html#reporting-centres-and-advisories
+  categories:
+  - Security incidents and warnings
+  - Free account
+- title: ReCAAP ISC
+  subtitle: Free account · ReCAAP Information Sharing Centre, Singapore
+  description: Incident reports, weekly and annual statistics and a searchable map for piracy and armed robbery in Asia. The dashboard needs a free account.
+  path: 07-incidents-security.html#reporting-centres-and-advisories
+  categories:
+  - Security incidents and warnings
+  - Free account
+- title: UKMTO
+  subtitle: Free · UK Maritime Trade Operations (Royal Navy)
+  description: Advisories and incident reports for the Red Sea, Gulf of Aden, Arabian Sea and the Gulf, and the voluntary reporting scheme ships use there.
+  path: 07-incidents-security.html#reporting-centres-and-advisories
+  categories:
+  - Security incidents and warnings
+  - Free
+- title: Baidu Maps
+  subtitle: Free · Baidu
+  description: Coverage and street views of Chinese ports. It uses its own shifted coordinate system, so convert before you compare positions.
+  path: 08-maps-weather-charts.html#maps-and-street-level-imagery
+  categories:
+  - Maps, weather and charts
+  - Free
+- title: Bing Maps
+  subtitle: Free · Microsoft
+  description: A second aerial imagery source, often from a different date than Google's, with bird's-eye views of many ports.
+  path: 08-maps-weather-charts.html#maps-and-street-level-imagery
+  categories:
+  - Maps, weather and charts
+  - Free
+- title: Copernicus Marine
+  subtitle: Free account · Mercator Ocean International
+  description: Ocean current, wave, temperature and sea-ice datasets, for drift and feasibility analysis.
+  path: 08-maps-weather-charts.html#weather-and-sea-state
+  categories:
+  - Maps, weather and charts
+  - Free account
+- title: DualMaps
+  subtitle: Free · MapChannels
+  description: Road map, aerial view and Street View side by side for one point.
+  path: 08-maps-weather-charts.html#maps-and-street-level-imagery
+  categories:
+  - Maps, weather and charts
+  - Free
+- title: earth.nullschool
+  subtitle: Free · Cameron Beccario
+  description: Animated global wind, ocean current and wave fields, with a time slider.
+  path: 08-maps-weather-charts.html#weather-and-sea-state
+  categories:
+  - Maps, weather and charts
+  - Free
+- title: EMODnet
+  subtitle: Free · European Commission
+  description: 'European marine data: bathymetry, human activities (cables, pipelines, wind farms, dredging) and more as map layers and downloads.'
+  path: 08-maps-weather-charts.html#charts-and-bathymetry
+  categories:
+  - Maps, weather and charts
+  - Free
+- title: GEBCO
+  subtitle: Free · GEBCO (IHO and IOC)
+  description: The global bathymetry grid. Can a ship of this draught be where its AIS says it is?
+  path: 08-maps-weather-charts.html#charts-and-bathymetry
+  categories:
+  - Maps, weather and charts
+  - Free
+- title: GeoNames
+  subtitle: Free · GeoNames
+  description: Gazetteer of place names with coordinates and alternate spellings, for matching ports named in several languages.
+  path: 08-maps-weather-charts.html#maps-and-street-level-imagery
+  categories:
+  - Maps, weather and charts
+  - Free
+- title: Google Earth
+  subtitle: Free · Google
+  description: The desktop Pro version has a historical imagery slider, the easiest way to watch a berth, a terminal or a shipyard change over years.
+  path: 08-maps-weather-charts.html#maps-and-street-level-imagery
+  categories:
+  - Maps, weather and charts
+  - Free
+- title: KartaView
+  subtitle: Free · Grab
+  description: Crowd-sourced street-level photos, useful where Street View has nothing.
+  path: 08-maps-weather-charts.html#maps-and-street-level-imagery
+  categories:
+  - Maps, weather and charts
+  - Free
+- title: Navionics ChartViewer
+  subtitle: Free · Garmin
+  description: Worldwide nautical charts with depths and anchorages in the browser.
+  path: 08-maps-weather-charts.html#charts-and-bathymetry
+  categories:
+  - Maps, weather and charts
+  - Free
+- title: NOAA ENC Viewer
+  subtitle: Free · NOAA Office of Coast Survey
+  description: US electronic navigational charts in the browser.
+  path: 08-maps-weather-charts.html#charts-and-bathymetry
+  categories:
+  - Maps, weather and charts
+  - Free
+- title: OpenSeaMap
+  subtitle: Free · OpenSeaMap
+  description: 'A nautical overlay on OpenStreetMap: buoys, lights, harbours and anchorages.'
+  path: 08-maps-weather-charts.html#maps-and-street-level-imagery
+  categories:
+  - Maps, weather and charts
+  - Free
+- title: OpenStreetMap
+  subtitle: Free · OpenStreetMap Foundation
+  description: Community-mapped berths, terminals, piers and port infrastructure with tags you can query.
+  path: 08-maps-weather-charts.html#maps-and-street-level-imagery
+  categories:
+  - Maps, weather and charts
+  - Free
+- title: PeakFinder
+  subtitle: Free · PeakFinder GmbH
+  description: Draws the mountain skyline from any viewpoint, which geolocates many coastal photographs.
+  path: 08-maps-weather-charts.html#maps-and-street-level-imagery
+  categories:
+  - Maps, weather and charts
+  - Free
+- title: WikiMapia
+  subtitle: Free · WikiMapia
+  description: Crowd-labelled places, including industrial sites, terminals and naval facilities that official maps leave blank.
+  path: 08-maps-weather-charts.html#maps-and-street-level-imagery
+  categories:
+  - Maps, weather and charts
+  - Free
+- title: Windy
+  subtitle: Freemium · Windyty SE
+  description: Wind, wave, swell and current forecasts and recent history from several models. A quick check on whether a claimed speed or route makes sense.
+  path: 08-maps-weather-charts.html#weather-and-sea-state
+  categories:
+  - Maps, weather and charts
+  - Freemium
+- title: Yandex Maps
+  subtitle: Free · Yandex
+  description: The best coverage and street panoramas for Russian and Central Asian ports.
+  path: 08-maps-weather-charts.html#maps-and-street-level-imagery
+  categories:
+  - Maps, weather and charts
+  - Free
+- title: Zoom Earth
+  subtitle: Freemium · Neave Interactive
+  description: Near-real-time weather satellite imagery and storm tracks that affect shipping routes.
+  path: 08-maps-weather-charts.html#weather-and-sea-state
+  categories:
+  - Maps, weather and charts
+  - Freemium
+- title: Altana
+  subtitle: Enterprise quote · Altana
+  description: Supply chain network mapping across shipment and corporate records.
+  path: 09-commercial-platforms.html#ownership-sanctions-and-risk
+  categories:
+  - Commercial platforms
+  - Enterprise quote
+- title: Ambrey
+  subtitle: Enterprise quote · Ambrey
+  description: Maritime security advisories, intelligence and armed guarding.
+  path: 09-commercial-platforms.html#security-and-risk-advisories
+  categories:
+  - Commercial platforms
+  - Enterprise quote
+- title: Datalastic
+  subtitle: Paid (from about €199/month, 2026-10) · Datalastic
+  description: A developer-oriented AIS and vessel data API, one of the cheaper paid routes to programmatic positions. The site refuses some automated and overseas requests.
+  path: 09-commercial-platforms.html#vessel-tracking-and-maritime-intelligence
+  categories:
+  - Commercial platforms
+  - Paid
+- title: Descartes Datamyne
+  subtitle: Enterprise quote · Descartes
+  description: Import and export records for the Americas and beyond.
+  path: 09-commercial-platforms.html#trade-and-shipment-data
+  categories:
+  - Commercial platforms
+  - Enterprise quote
+- title: Dryad Global
+  subtitle: Enterprise quote · Dryad Global
+  description: Maritime risk intelligence and advisories, with some free weekly commentary.
+  path: 09-commercial-platforms.html#security-and-risk-advisories
+  categories:
+  - Commercial platforms
+  - Enterprise quote
+- title: HawkEye 360
+  subtitle: Enterprise quote · HawkEye 360
+  description: Radio-frequency geolocation and maritime domain awareness products for governments.
+  path: 09-commercial-platforms.html#radar-optical-and-rf-detection
+  categories:
+  - Commercial platforms
+  - Enterprise quote
+- title: ICEYE
+  subtitle: Enterprise quote · ICEYE
+  description: Tasked high-resolution radar imagery and dark vessel detection products.
+  path: 09-commercial-platforms.html#radar-optical-and-rf-detection
+  categories:
+  - Commercial platforms
+  - Enterprise quote
+- title: ImportGenius
+  subtitle: Paid · ImportGenius
+  description: US and other customs shipment records with published subscription plans.
+  path: 09-commercial-platforms.html#trade-and-shipment-data
+  categories:
+  - Commercial platforms
+  - Paid
+- title: Kharon
+  subtitle: Enterprise quote · Kharon
+  description: Research and data on sanctions, export controls and the networks around designated parties.
+  path: 09-commercial-platforms.html#ownership-sanctions-and-risk
+  categories:
+  - Commercial platforms
+  - Enterprise quote
+- title: Kpler
+  subtitle: Enterprise quote · Kpler
+  description: Commodity flows, cargo tracking and the combined MarineTraffic, FleetMon and Spire AIS feeds, sold as a platform and as data.
+  path: 09-commercial-platforms.html#vessel-tracking-and-maritime-intelligence
+  categories:
+  - Commercial platforms
+  - Enterprise quote
+- title: Linerlytica
+  subtitle: Paid · Linerlytica
+  description: Container shipping market analysis and port congestion tracking.
+  path: 09-commercial-platforms.html#trade-and-shipment-data
+  categories:
+  - Commercial platforms
+  - Paid
+- title: Lloyd's List Intelligence
+  subtitle: Enterprise quote · Lloyd's List Intelligence (Montagu)
+  description: Seasearcher vessel database, risk and compliance screening, casualty records and the Lloyd's List news service.
+  path: 09-commercial-platforms.html#vessel-tracking-and-maritime-intelligence
+  categories:
+  - Commercial platforms
+  - Enterprise quote
+- title: Panjiva
+  subtitle: Enterprise quote · S&P Global
+  description: Bills of lading and shipment records for many countries, with company profiles and network views.
+  path: 09-commercial-platforms.html#trade-and-shipment-data
+  categories:
+  - Commercial platforms
+  - Enterprise quote
+- title: Planet
+  subtitle: Enterprise quote · Planet Labs
+  description: Daily optical imagery of the whole land surface and coasts, plus the Sentinel Hub APIs under the Planet Insights Platform.
+  path: 09-commercial-platforms.html#radar-optical-and-rf-detection
+  categories:
+  - Commercial platforms
+  - Enterprise quote
+- title: Pole Star Global
+  subtitle: Enterprise quote · Pole Star Global
+  description: PurpleTRAC sanctions screening and fleet monitoring, widely used by banks and traders.
+  path: 09-commercial-platforms.html#vessel-tracking-and-maritime-intelligence
+  categories:
+  - Commercial platforms
+  - Enterprise quote
+- title: Risk Intelligence
+  subtitle: Enterprise quote · Risk Intelligence, Denmark
+  description: The MaRisk system of port and sea-area threat assessments.
+  path: 09-commercial-platforms.html#security-and-risk-advisories
+  categories:
+  - Commercial platforms
+  - Enterprise quote
+- title: S&P Global Market Intelligence
+  subtitle: Enterprise quote · S&P Global
+  description: Sea-web and the Maritime Portal (the ship database descended from Lloyd's Register-Fairplay), satellite AIS from the former ORBCOMM business, and Panjiva trade data.
+  path: 09-commercial-platforms.html#vessel-tracking-and-maritime-intelligence
+  categories:
+  - Commercial platforms
+  - Enterprise quote
+- title: Sayari
+  subtitle: Enterprise quote · Sayari
+  description: Corporate ownership graph built from public records in many jurisdictions, with trade and sanctions risk screening.
+  path: 09-commercial-platforms.html#ownership-sanctions-and-risk
+  categories:
+  - Commercial platforms
+  - Enterprise quote
+- title: Sea-Intelligence
+  subtitle: Paid · Sea-Intelligence
+  description: Liner schedule reliability and container market research.
+  path: 09-commercial-platforms.html#trade-and-shipment-data
+  categories:
+  - Commercial platforms
+  - Paid
+- title: Sourcemap
+  subtitle: Enterprise quote · Sourcemap
+  description: Supplier mapping and traceability for regulatory due diligence. The free edition we once listed is gone.
+  path: 09-commercial-platforms.html#ownership-sanctions-and-risk
+  categories:
+  - Commercial platforms
+  - Enterprise quote
+- title: Starboard Maritime Intelligence
+  subtitle: Enterprise quote · Starboard, New Zealand
+  description: Vessel risk and dark activity analytics aimed at governments and fisheries agencies in the Pacific and beyond.
+  path: 09-commercial-platforms.html#vessel-tracking-and-maritime-intelligence
+  categories:
+  - Commercial platforms
+  - Enterprise quote
+- title: SynMax
+  subtitle: Enterprise quote · SynMax
+  description: Theia, a dark vessel detection platform combining radar and optical imagery with AIS.
+  path: 09-commercial-platforms.html#radar-optical-and-rf-detection
+  categories:
+  - Commercial platforms
+  - Enterprise quote
+- title: TankerTrackers.com
+  subtitle: Paid (Corporate Lite $12,000/yr, 2026-10) · TankerTrackers.com
+  description: Tanker movements, floating storage and sanctioned oil flows from imagery and AIS. Retail tiers are closed to new subscribers.
+  path: 09-commercial-platforms.html#vessel-tracking-and-maritime-intelligence
+  categories:
+  - Commercial platforms
+  - Paid
+- title: Unseenlabs
+  subtitle: Enterprise quote · Unseenlabs
+  description: Geolocation of ships from their radio-frequency emissions, independent of AIS.
+  path: 09-commercial-platforms.html#radar-optical-and-rf-detection
+  categories:
+  - Commercial platforms
+  - Enterprise quote
+- title: Volza
+  subtitle: Paid · Volza
+  description: Export and import shipment data for a large set of countries, sold by subscription.
+  path: 09-commercial-platforms.html#trade-and-shipment-data
+  categories:
+  - Commercial platforms
+  - Paid
+- title: Vortexa
+  subtitle: Enterprise quote · Vortexa
+  description: Cargo-level tracking of oil, gas and refined products, with analytics on floating storage and shadow fleet flows.
+  path: 09-commercial-platforms.html#vessel-tracking-and-maritime-intelligence
+  categories:
+  - Commercial platforms
+  - Enterprise quote
+- title: Windward
+  subtitle: Enterprise quote · Windward (FTV Capital)
+  description: AI risk scores for vessels and companies, dark activity and sanctions compliance workflows.
+  path: 09-commercial-platforms.html#vessel-tracking-and-maritime-intelligence
+  categories:
+  - Commercial platforms
+  - Enterprise quote
+- title: Worldwide AIS Network
+  subtitle: Enterprise quote · Worldwide AIS Network ApS, Copenhagen
+  description: Live and regional AIS feeds over REST, WebSocket and raw NMEA, with a free data sample for evaluation. A smaller alternative to the Kpler and S&P feeds.
+  path: 09-commercial-platforms.html#vessel-tracking-and-maritime-intelligence
+  categories:
+  - Commercial platforms
+  - Enterprise quote
+- title: bbox finder
+  subtitle: Free (open source) · CUGOS
+  description: Draw a box on a map and get its coordinates in the format an API wants, which is the quickest way to set up an aisstream.io or Copernicus filter.
+  path: 10-utilities-code.html#libraries-and-code
+  categories:
+  - Utilities, code and our tools
+  - Free
+- title: Bellingcat auto-archiver
+  subtitle: Free (open source, MIT) · Bellingcat
+  description: Archives web pages, posts and media from a spreadsheet of URLs, with hashes and timestamps, so that a vessel page or a port notice is preserved before it changes.
+  path: 10-utilities-code.html#libraries-and-code
+  categories:
+  - Utilities, code and our tools
+  - Free
+- title: cue-kit
+  subtitle: Free (open source, AGPL-3.0) · Atlas Bear (ours)
+  description: Turns a video URL or file into extracted frames and a timestamped transcript that a language model can actually read, with a bundled Claude Code skill for asking questions about footage. Alpha, and useful for port and vessel videos.
+  path: 10-utilities-code.html#our-tools
+  categories:
+  - Utilities, code and our tools
+  - Free
+- title: equasis-cli
+  subtitle: Free (open source, PolyForm Noncommercial) · Atlas Bear (ours)
+  description: Looks up vessels, port state inspections, ownership history and company fleets in Equasis from the command line, an interactive shell or Python, handles batches of hundreds of ships, and flags renames, reflagging, detentions and missing P&I cover. Needs your own free Equasis account; install from PyPI or this repository only.
+  path: 10-utilities-code.html#our-tools
+  categories:
+  - Utilities, code and our tools
+  - Free
+- title: gfw-api-python-client
+  subtitle: Free (open source, Apache-2.0) · Global Fishing Watch
+  description: 'Official Python client for the Global Fishing Watch APIs: vessel search, events and presence grids straight into pandas.'
+  path: 10-utilities-code.html#libraries-and-code
+  categories:
+  - Utilities, code and our tools
+  - Free
+- title: Hunchly
+  subtitle: Paid · Hunchly
+  description: Browser extension that captures and hashes every page you visit during an investigation, which is the evidence trail you want when a vessel page changes after you cite it.
+  path: 10-utilities-code.html#libraries-and-code
+  categories:
+  - Utilities, code and our tools
+  - Paid
+- title: Kepler.gl
+  subtitle: Free (open source, MIT) · OpenJS Foundation
+  description: Browser tool that plots millions of points from a CSV or GeoParquet file with a time slider, which is how we first look at a bulk AIS download.
+  path: 10-utilities-code.html#libraries-and-code
+  categories:
+  - Utilities, code and our tools
+  - Free
+- title: pyais
+  subtitle: Free (open source, MIT) · Leon Morten Richter
+  description: Python library that decodes and encodes AIS NMEA sentences, the first thing you need to read a raw feed or a receiver log.
+  path: 10-utilities-code.html#libraries-and-code
+  categories:
+  - Utilities, code and our tools
+  - Free
+- title: QGIS
+  subtitle: Free (open source, GPL-2.0) · QGIS project
+  description: Desktop GIS for laying AIS points, EEZ boundaries, bathymetry and satellite imagery on one map. Plugins pull Copernicus and Vantor open data in directly.
+  path: 10-utilities-code.html#libraries-and-code
+  categories:
+  - Utilities, code and our tools
+  - Free
+- title: Shodan
+  subtitle: Freemium · Shodan
+  description: Search engine for internet-exposed devices, including ships' satellite terminals and port systems. Its old AIS ship tracker is gone and AIS data is now sold only as a bulk dataset.
+  path: 10-utilities-code.html#libraries-and-code
+  categories:
+  - Utilities, code and our tools
+  - Freemium
+- title: SunCalc
+  subtitle: Free · Torsten Hoffmann
+  description: Sun position and shadow length for any place and time, for dating or placing a photograph of a ship or a port.
+  path: 10-utilities-code.html#libraries-and-code
+  categories:
+  - Utilities, code and our tools
+  - Free
+- title: VESSA dataset
+  subtitle: Free (GPL-3.0) · Pablo Rangel and colleagues, Brazilian Navy Research Institute and UFRJ
+  description: More than 200,000 labelled vessel images in 25 categories for training detectors and classifiers, published on Zenodo in November 2025.
+  path: 10-utilities-code.html#libraries-and-code
+  categories:
+  - Utilities, code and our tools
+  - Free
+- title: AIS datasets on Kaggle
+  subtitle: Free account · Kaggle (Google)
+  description: Practice datasets of AIS positions uploaded by users, mostly copies of public releases such as MarineCadastre and the Danish files, for learning to clean and plot tracks.
+  path: 11-learning.html#data-and-reference
+  categories:
+  - Learning and reference
+  - Free account
+- title: Allianz Safety and Shipping Review
+  subtitle: Free · Allianz Commercial
+  description: The annual review of ship losses, casualties and risk trends, the standard open reference on what goes wrong at sea and where.
+  path: 11-learning.html#data-and-reference
+  categories:
+  - Learning and reference
+  - Free
+- title: Atlas Bear Academy
+  subtitle: Paid (contact us) · Atlas Bear (ours)
+  description: Our professional development programmes in maritime security and supply chain intelligence.
+  path: 11-learning.html#training
+  categories:
+  - Learning and reference
+  - Paid
+- title: awesome-osint
+  subtitle: Free · jivoi and contributors
+  description: The largest general OSINT list, with about 1,450 entries. Its maritime section is three lines long, which is why this list exists.
+  path: 11-learning.html#other-lists
+  categories:
+  - Learning and reference
+  - Free
+- title: Bellingcat Online Investigation Toolkit
+  subtitle: Free · Bellingcat
+  description: Hundreds of tool pages with cost, requirements, limitations and ethical notes, including a maritime section updated in 2026. Our pointer for general OSINT tools.
+  path: 11-learning.html#guides-and-handbooks
+  categories:
+  - Learning and reference
+  - Free
+- title: C4ADS
+  subtitle: Free · C4ADS
+  description: Reports on illicit networks, sanctions evasion and the shadow fleet, with the data-driven method laid out in each one.
+  path: 11-learning.html#guides-and-handbooks
+  categories:
+  - Learning and reference
+  - Free
+- title: Deep Dive by Rae Baker
+  subtitle: Free · Rae Baker
+  description: Maritime OSINT guides from the author of *Deep Dive*, including a maritime patterning framework, port analysis and a Raspberry Pi AIS receiver build.
+  path: 11-learning.html#guides-and-handbooks
+  categories:
+  - Learning and reference
+  - Free
+- title: Free government nautical charts
+  subtitle: Free · Anchorages
+  description: A maintained list of the national hydrographic offices that give their charts away, with links.
+  path: 11-learning.html#guides-and-handbooks
+  categories:
+  - Learning and reference
+  - Free
+- title: 'GIJN: Tracking Ships at Sea'
+  subtitle: Free · Global Investigative Journalism Network
+  description: A reporter's guide to vessel tracking, ownership and imagery, with case examples.
+  path: 11-learning.html#guides-and-handbooks
+  categories:
+  - Learning and reference
+  - Free
+- title: ODIS Catalogue of Sources
+  subtitle: Free · UNESCO/IOC Project Office for IODE
+  description: A searchable catalogue of more than 3,000 ocean data and information sources, for finding the agency that holds the dataset you need.
+  path: 11-learning.html#data-and-reference
+  categories:
+  - Learning and reference
+  - Free
+- title: OSINT Framework
+  subtitle: Free · Justin Nordine
+  description: A categorised tree of general OSINT tools with registration and pricing markers and a weekly link check.
+  path: 11-learning.html#other-lists
+  categories:
+  - Learning and reference
+  - Free
+- title: Peering Beyond the Clouds
+  subtitle: Free · Bellingcat
+  description: The 2023 guide to finding ships in Sentinel-1 radar imagery with the Ship Detection Tool, and the best short introduction to SAR for analysts.
+  path: 11-learning.html#guides-and-handbooks
+  categories:
+  - Learning and reference
+  - Free
+- title: Setting up an SDR AIS receiver with AIS-catcher
+  subtitle: Free · Worldwide AIS Network ApS
+  description: A step-by-step guide to building your own AIS receiver from a software-defined radio dongle, written by a commercial feed provider.
+  path: 11-learning.html#guides-and-handbooks
+  categories:
+  - Learning and reference
+  - Free
+- title: Shipmap.org
+  subtitle: Free · Kiln and the UCL Energy Institute
+  description: An animated map of the world's merchant shipping over one year, built from 2012 AIS data. Old, but the best single picture of how trade moves for a classroom.
+  path: 11-learning.html#data-and-reference
+  categories:
+  - Learning and reference
+  - Free
+- title: Summer School on Illicit Trade
+  subtitle: Paid (fee published per edition) · University of Groningen
+  description: The annual summer school where this list gets used and tested each year, with sessions on maritime and supply-chain OSINT.
+  path: 11-learning.html#training
+  categories:
+  - Learning and reference
+  - Paid
+- title: The Organized Crime Index
+  subtitle: Free · Global Initiative Against Transnational Organized Crime
+  description: Country scores for criminal markets and actors, from arms and drugs to human trafficking, with the methodology published. Useful context for any illicit trade case.
+  path: 11-learning.html#data-and-reference
+  categories:
+  - Learning and reference
+  - Free
+- title: UN AIS Handbook
+  subtitle: Free · UN Committee of Experts on Big Data, AIS Task Team
+  description: The method handbook for cleaning and analysing AIS data for statistics, with worked examples. Most pages date from 2020 to 2023, but the fundamentals have not moved.
+  path: 11-learning.html#guides-and-handbooks
+  categories:
+  - Learning and reference
+  - Free
+- title: World Factbook Archive
+  subtitle: Free (open source, MIT) · MilkMp, a community project not affiliated with the CIA
+  description: Every edition of the CIA World Factbook from 1990 to 2025 as a searchable site, a database and a free offline app, after the CIA discontinued the Factbook on 4 February 2026. Its Intelligence Atlas layers submarine cables, shipping routes, chokepoints and EEZ boundaries over the country data.
+  path: 11-learning.html#data-and-reference
+  categories:
+  - Learning and reference
+  - Free

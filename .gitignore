@@ -3,3 +3,7 @@ site/
 .venv/
 venv/
 lychee/
+_site/
+.quarto/
+docs/.quarto/
+docs/_site/

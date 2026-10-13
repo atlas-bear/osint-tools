@@ -1,0 +1,83 @@
+project:
+  type: website
+  output-dir: _site
+  render:
+    - "*.md"
+    - "*.qmd"
+
+website:
+  title: "Maritime and Supply Chain OSINT Tools"
+  description: "A curated, verified list of maritime and supply-chain OSINT tools and data sources, by Atlas Bear Labs."
+  site-url: https://atlas-bear.github.io/osint-tools/
+  repo-url: https://github.com/atlas-bear/osint-tools
+  repo-subdir: docs
+  repo-actions: [edit, issue]
+  favicon: favicon.svg
+  search:
+    location: navbar
+    type: overlay
+  navbar:
+    title: "OSINT Tools"
+    left:
+      - text: Start here
+        href: index.md
+      - text: Browse
+        href: browse.qmd
+    right:
+      - text: Atlas Bear Library
+        href: https://atlas-bear.github.io/
+  sidebar:
+    style: docked
+    collapse-level: 2
+    contents:
+      - index.md
+      - browse.qmd
+      - section: Tracking and identity
+        contents:
+          - 01-vessel-tracking.md
+          - ais-data-note.md
+          - 02-vessel-identity.md
+          - 03-ownership-sanctions.md
+      - section: Imagery, places and cargo
+        contents:
+          - 04-satellite-imagery.md
+          - 05-ports-infrastructure.md
+          - 06-cargo-trade.md
+          - 07-incidents-security.md
+          - 08-maps-weather-charts.md
+      - section: Platforms, tools and learning
+        contents:
+          - 09-commercial-platforms.md
+          - 10-utilities-code.md
+          - 11-learning.md
+      - glossary.md
+      - archive.md
+      - contributing.md
+      - about.md
+  page-footer:
+    left: "Copyright 2024-2026 Atlas Bear. List and data files licensed MIT. Each tool has its own terms."
+    right:
+      - text: Atlas Bear Library
+        href: https://atlas-bear.github.io/
+      - text: atlasbear.co
+        href: https://atlasbear.co
+      - text: Contact
+        href: mailto:support@atlasbear.co
+
+format:
+  html:
+    theme:
+      light: [flatly, theme.scss]
+      dark: [darkly, theme-dark.scss]
+    include-after-body:
+      text: '<script src="repo-stats.js" data-repo="atlas-bear/osint-tools"></script>'
+    grid:
+      sidebar-width: 270px
+      body-width: 820px
+      margin-width: 230px
+      gutter-width: 1.5rem
+    toc: true
+    toc-depth: 2
+    link-external-icon: false
+    link-external-newwindow: false
+    smooth-scroll: true

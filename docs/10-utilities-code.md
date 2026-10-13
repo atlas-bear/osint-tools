@@ -1,13 +1,15 @@
-## Utilities, code and our tools
+---
+title: "Utilities, code and our tools"
+---
 
 Once you are looking at more than a handful of ships, you need code. It queries Equasis in batches, decodes AIS messages, plots a million positions, and archives what you found before it changes. These are the libraries and small tools we reach for, starting with the two we wrote ourselves.
 
-### Our tools
+## Our tools
 
 - **[equasis-cli](https://github.com/rhinonix/equasis-cli)** · Free (open source, PolyForm Noncommercial) · Atlas Bear (ours) · Looks up vessels, port state inspections, ownership history and company fleets in Equasis from the command line, an interactive shell or Python, handles batches of hundreds of ships, and flags renames, reflagging, detentions and missing P&I cover. Needs your own free Equasis account; install from PyPI or this repository only.
 - **[cue-kit](https://github.com/atlas-bear/cue-kit)** · Free (open source, AGPL-3.0) · Atlas Bear (ours) · Turns a video URL or file into extracted frames and a timestamped transcript that a language model can actually read, with a bundled Claude Code skill for asking questions about footage. Alpha, and useful for port and vessel videos.
 
-### Libraries and code
+## Libraries and code
 
 - **[pyais](https://github.com/M0r13n/pyais)** · Free (open source, MIT) · Leon Morten Richter · Python library that decodes and encodes AIS NMEA sentences, the first thing you need to read a raw feed or a receiver log.
 - **[gfw-api-python-client](https://github.com/GlobalFishingWatch/gfw-api-python-client)** · Free (open source, Apache-2.0) · Global Fishing Watch · Official Python client for the Global Fishing Watch APIs: vessel search, events and presence grids straight into pandas.

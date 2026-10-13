@@ -1,8 +1,10 @@
-## Contributing
+---
+title: "Contributing"
+---
 
 Know of a tool we left off, or spotted one that has died, moved or lost its free tier? Please tell us. The easiest route is the [issue form](https://github.com/atlas-bear/osint-tools/issues/new/choose), which needs no Markdown. If you prefer a pull request, edit one page in `docs/` and follow the format below. We reply to every proposal, whether or not we add the tool.
 
-### What earns a place
+## What earns a place
 
 A tool or data source goes on the list when it:
 
@@ -19,7 +21,7 @@ Self-submissions are welcome. Say so in the pull request or the issue form. We v
 
 Dead tools are not deleted. They move to the [archive](archive.md) with a date and a reason, so that people who remember them can see what happened.
 
-### The entry format
+## The entry format
 
 Every tool is one line, on one of the numbered pages in `docs/`:
 
@@ -47,7 +49,7 @@ A qualifier in parentheses adds detail, for example `Free (non-commercial)`, `Fr
 
 Each page ends with `*Last checked YYYY-MM-DD.*`. That date is the last time we swept the whole page, opened every link and re-read every claim. Adding one entry does not change it.
 
-### Generated files
+## Generated files
 
 `README.md`, `tools.json` and `tools.csv` are built from the pages in `docs/` by `scripts/build_readme.py`. Please do not edit them directly; the check on every pull request will fail if they differ from `docs/`. If you can run Python, run the script and commit all three files. If not, tick "Allow edits by maintainers" and we will regenerate them on your branch.
 
@@ -58,7 +60,7 @@ python scripts/build_readme.py --check  # what CI runs
 
 The script also checks the entry format, the access words, duplicate URLs and the `Last checked` line, and it refuses em dashes, because we try to keep the writing plain.
 
-### Reviews and releases
+## Reviews and releases
 
 We sweep the whole list twice a year, in spring before the [Summer School on Illicit Trade](https://www.rug.nl/education/summer-winter-schools/illicit-trade) and again in autumn. A link checker runs on every pull request and once a month, and opens an issue when something breaks. Each sweep ends with a release and a [CHANGELOG](https://github.com/atlas-bear/osint-tools/blob/main/CHANGELOG.md) entry.
 

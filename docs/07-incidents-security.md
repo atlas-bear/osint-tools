@@ -1,10 +1,12 @@
-## Security incidents and warnings
+---
+title: "Security incidents and warnings"
+---
 
 What has happened in this stretch of water, and what are the authorities warning about? The reporting centres below are where ships report attacks and suspicious approaches, and most publish their incident records and advisories for free. The NGA's anti-shipping activity messages go back decades and are the best free historical series of attacks with coordinates. Conflict maps round out the picture where war, rather than crime, is the hazard.
 
 Our own platform, MARA, is on this page too. It is a commercial product and we say so; the free sources above it are what it builds on.
 
-### Reporting centres and advisories
+## Reporting centres and advisories
 
 - **[UKMTO](https://www.ukmto.org/)** · Free · UK Maritime Trade Operations (Royal Navy) · Advisories and incident reports for the Red Sea, Gulf of Aden, Arabian Sea and the Gulf, and the voluntary reporting scheme ships use there.
 - **[Maritime Security Centre Indian Ocean](https://www.mscio.eu/)** · Free account · EU Naval Force · Threat assessments, incident updates and voluntary registration for ships transiting the Red Sea, Gulf of Aden and western Indian Ocean. The successor to MSCHOA, the Horn of Africa centre.
@@ -16,7 +18,7 @@ Our own platform, MARA, is on this page too. It is a commercial product and we s
 - **[MARA](https://maraiq.com/)** · Paid (contact us) · Atlas Bear (ours) · Our maritime security intelligence platform: round-the-clock monitoring of security incidents with alerts, intelligence reports, daily hot spots and country and port indices. Feedback and the public roadmap are on GitHub.
 - **[Phantom Tide](https://phantom.labs.jamessawyer.co.uk/)** · Free account (Starter tier; higher tiers exist, prices not published, 2026-10) · James Sawyer · Analyst dashboard that ranks hotspots where vessel tracks, aircraft, navigation warnings, weather, satellite detections and GNSS interference overlap, with a notebook and area reports. A hosted app with closed source; the public repository holds the docs and release notes.
 
-### Conflict maps and event databases
+## Conflict maps and event databases
 
 - **[Maritime Cyber Attack Database](https://maritimecybersecurity.nl/)** · Free · NHL Stenden University of Applied Sciences, Netherlands · About 300 cyber incidents against ships, ports and maritime companies since 2001, with a map filterable by victim, attacker, country and year.
 - **[GDELT](https://www.gdeltproject.org/data.html)** · Free · The GDELT Project · Machine-coded records of news events and mentions worldwide, downloadable in bulk or through BigQuery. Noisy, but a quick way to see what was reported about a port or sea area on a given day.
