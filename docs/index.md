@@ -6,7 +6,7 @@
 ![Check links](https://github.com/atlas-bear/osint-tools/actions/workflows/links.yml/badge.svg)
 ![License](https://img.shields.io/github/license/atlas-bear/osint-tools)
 
-> Part of the [Atlas Bear Labs](https://github.com/atlas-bear) intelligence toolkit. Read this list as a website at [atlas-bear.github.io/osint-tools](https://atlas-bear.github.io/osint-tools/), or download it as [tools.json](https://github.com/atlas-bear/osint-tools/blob/main/tools.json) or [tools.csv](https://github.com/atlas-bear/osint-tools/blob/main/tools.csv).
+> Part of the [Atlas Bear Library](https://atlas-bear.github.io/), where Atlas Bear Labs gathers its public guides, lists and tools. Read this list as a website at [atlas-bear.github.io/osint-tools](https://atlas-bear.github.io/osint-tools/), or download it as [tools.json](https://github.com/atlas-bear/osint-tools/blob/main/tools.json) or [tools.csv](https://github.com/atlas-bear/osint-tools/blob/main/tools.csv).
 
 **Related resources:**
 

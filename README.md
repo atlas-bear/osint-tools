@@ -8,7 +8,7 @@
 ![Check links](https://github.com/atlas-bear/osint-tools/actions/workflows/links.yml/badge.svg)
 ![License](https://img.shields.io/github/license/atlas-bear/osint-tools)
 
-> Part of the [Atlas Bear Labs](https://github.com/atlas-bear) intelligence toolkit. Read this list as a website at [atlas-bear.github.io/osint-tools](https://atlas-bear.github.io/osint-tools/), or download it as [tools.json](tools.json) or [tools.csv](tools.csv).
+> Part of the [Atlas Bear Library](https://atlas-bear.github.io/), where Atlas Bear Labs gathers its public guides, lists and tools. Read this list as a website at [atlas-bear.github.io/osint-tools](https://atlas-bear.github.io/osint-tools/), or download it as [tools.json](tools.json) or [tools.csv](tools.csv).
 
 **Related resources:**
 
@@ -765,6 +765,8 @@ Thanks to everyone who has proposed tools, reported dead links and corrected us.
 | [equasis-cli](https://github.com/rhinonix/equasis-cli) | Equasis from the command line, in batches | ![Last commit](https://img.shields.io/github/last-commit/rhinonix/equasis-cli) |
 | [cue-kit](https://github.com/atlas-bear/cue-kit) | Turn video into frames and transcripts for analysis | ![Last commit](https://img.shields.io/github/last-commit/atlas-bear/cue-kit) |
 | [mara-roadmap](https://github.com/atlas-bear/mara-roadmap) | Public roadmap and feedback for [MARA](https://maraiq.com), our maritime security intelligence platform | ![Last commit](https://img.shields.io/github/last-commit/atlas-bear/mara-roadmap) |
+
+Everything above is gathered at the [Atlas Bear Library](https://atlas-bear.github.io/).
 
 **Learn more:** [Atlas Bear Academy](https://www.atlasbear.academy), [atlasbear.co](https://atlasbear.co) and [Waterline](https://maraiq.substack.com/), our newsletter. **Contact:** [support@atlasbear.co](mailto:support@atlasbear.co).
 

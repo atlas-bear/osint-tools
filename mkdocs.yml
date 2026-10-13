@@ -54,6 +54,16 @@ nav:
   - Contributing: contributing.md
   - About, licence and contact: about.md
   - AI-Enhanced OSINT guide: https://atlas-bear.github.io/osint-ai-guide/
+  - Atlas Bear Library: https://atlas-bear.github.io/
+
+extra:
+  social:
+    - icon: material/home
+      link: https://atlas-bear.github.io/
+      name: Atlas Bear Library
+    - icon: material/github
+      link: https://github.com/atlas-bear
+      name: Atlas Bear Labs on GitHub
 
 markdown_extensions:
   - tables
