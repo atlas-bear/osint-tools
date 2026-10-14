@@ -21,8 +21,6 @@ website:
   navbar:
     title: "OSINT Tools"
     left:
-      - text: Start here
-        href: index.md
       - text: Browse
         href: browse.qmd
     right:
@@ -32,7 +30,8 @@ website:
     style: docked
     collapse-level: 2
     contents:
-      - index.md
+      - text: Start here
+        href: index.md
       - browse.qmd
       - section: Tracking and identity
         contents:
