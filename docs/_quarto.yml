@@ -17,9 +17,7 @@ website:
   open-graph: true
   twitter-card:
     card-style: summary_large_image
-  search:
-    location: navbar
-    type: overlay
+  search: false
   navbar:
     title: "OSINT Tools"
     left:
@@ -71,5 +69,5 @@ website:
 format:
   atlas-bear/theme-html:
     include-after-body:
-      text: '<script src="repo-stats.js" data-repo="atlas-bear/osint-tools"></script>'
+      text: '<script src="repo-stats.js" data-repo="atlas-bear/osint-tools"></script><script src="library-search.js" data-source="tools"></script>'
     toc-depth: 2
