@@ -35,5 +35,6 @@ jobs:
           - [ ] Update the `*Last checked*` line on each page, run `python scripts/build_readme.py`, and check the badge count still matches.
           - [ ] Check for a newer stable Quarto and a newer release of `atlas-bear/quarto-theme`; bump the workflow pin and run `quarto update atlas-bear/quarto-theme` if so.
           - [ ] Add the CHANGELOG entry, merge, and cut the release.
+          - [ ] Check the expiry of the `LIBRARY_DISPATCH_TOKEN` organisation secret (your GitHub Settings, Developer settings, Fine-grained tokens; created October 2026) and renew it if it ends before the next sweep, so the Library keeps rebuilding its search index after each deploy.
           BODY
           gh issue create --repo "${{ github.repository }}" --label sweep --title "$title" --body-file /tmp/sweep.md
